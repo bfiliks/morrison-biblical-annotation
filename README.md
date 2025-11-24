@@ -140,6 +140,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 🙏 Acknowledgments
 
 - University of Illinois School of Information Sciences
-- UIUC University Library and Rare Book & Manuscript Library
-- National Center for Supercomputing Applications (NCSA)
+- HathiTrust Research Ceter
 - Digital Humanities community at UIUC
