@@ -6,8 +6,7 @@ A digital humanities project for automated detection and human validation of bib
 
 This project combines computational text analysis with human expertise to create a high-quality dataset of biblical allusions in Morrison's complete works. The dataset will be used to train machine learning models for automated literary analysis.
 
-**Principal Investigator:** Felix Oke, PhD Student, UIUC School of Information Sciences  
-**Advisor:** Ryan Cordell, Associate Professor, UIUC iSchool
+**Project by:** Felix Oke, PhD Student, UIUC School of Information Sciences  
 
 ## 📚 Corpus
 
