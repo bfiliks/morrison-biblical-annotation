@@ -1,0 +1,660 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Morrison Biblical Allusion Annotation Tool</title>
+    <style>
+        * { box-sizing: border-box; }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; padding: 20px; background: #f8f9fa; }
+        .header { text-align: center; margin-bottom: 30px; }
+        .header h1 { color: #2c3e50; margin-bottom: 10px; }
+        .header p { color: #6c757d; font-size: 14px; }
+        
+        .main-container { display: grid; grid-template-columns: 1fr 400px; gap: 20px; max-width: 1400px; margin: 0 auto; }
+        
+        /* Left Panel - Morrison Text */
+        .text-panel { background: white; border-radius: 10px; padding: 25px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        .text-panel h3 { color: #2c3e50; margin-bottom: 20px; border-bottom: 2px solid #3498db; padding-bottom: 10px; }
+        
+        .passage { border: 2px solid #e9ecef; margin: 15px 0; padding: 20px; border-radius: 8px; background: #fff; transition: all 0.3s; cursor: pointer; }
+        .passage:hover { border-color: #3498db; box-shadow: 0 2px 8px rgba(52,152,219,0.2); }
+        .passage.selected { border-color: #28a745; background: #f8fff8; }
+        .passage.annotated { border-left: 5px solid #28a745; }
+        .passage.needs-validation { border-left: 5px solid #ffc107; background: #fffbf0; }
+        .passage-text { font-size: 16px; line-height: 1.6; color: #2c3e50; margin-bottom: 15px; }
+        .passage-meta { font-size: 12px; color: #6c757d; margin-bottom: 10px; }
+        
+        /* Right Panel - Biblical Reference & Annotation */
+        .annotation-panel { background: white; border-radius: 10px; padding: 25px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); position: sticky; top: 20px; max-height: calc(100vh - 40px); overflow-y: auto; }
+        .annotation-panel h3 { color: #2c3e50; margin-bottom: 20px; border-bottom: 2px solid #e74c3c; padding-bottom: 10px; }
+        
+        .biblical-search { margin-bottom: 25px; }
+        .search-input { width: 100%; padding: 12px; border: 2px solid #e9ecef; border-radius: 6px; font-size: 14px; }
+        .search-input:focus { outline: none; border-color: #3498db; }
+        .search-results { max-height: 200px; overflow-y: auto; border: 1px solid #e9ecef; border-radius: 6px; margin-top: 10px; background: #f8f9fa; }
+        .search-result { padding: 10px; border-bottom: 1px solid #e9ecef; cursor: pointer; font-size: 13px; }
+        .search-result:hover { background: #e3f2fd; }
+        .search-result:last-child { border-bottom: none; }
+        .verse-ref { font-weight: bold; color: #2980b9; }
+        .verse-text { color: #2c3e50; margin-top: 5px; }
+        
+        .annotation-form { display: none; }
+        .annotation-form.active { display: block; }
+        .form-group { margin-bottom: 20px; }
+        .form-group label { display: block; font-weight: 600; color: #2c3e50; margin-bottom: 8px; }
+        .form-group select, .form-group input, .form-group textarea { width: 100%; padding: 10px; border: 2px solid #e9ecef; border-radius: 6px; font-size: 14px; }
+        .form-group select:focus, .form-group input:focus, .form-group textarea:focus { outline: none; border-color: #3498db; }
+        .form-group textarea { resize: vertical; min-height: 80px; }
+        
+        .confidence-slider { width: 100%; margin: 10px 0; }
+        .confidence-value { font-weight: bold; color: #e74c3c; }
+        
+        .btn { padding: 12px 20px; border: none; border-radius: 6px; cursor: pointer; font-size: 14px; font-weight: 600; transition: all 0.3s; }
+        .btn-primary { background: #3498db; color: white; }
+        .btn-primary:hover { background: #2980b9; }
+        .btn-success { background: #28a745; color: white; }
+        .btn-success:hover { background: #218838; }
+        .btn-secondary { background: #6c757d; color: white; }
+        .btn-secondary:hover { background: #5a6268; }
+        
+        .progress-section { background: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 20px; }
+        .progress-bar { width: 100%; height: 20px; background: #e9ecef; border-radius: 10px; overflow: hidden; }
+        .progress-fill { height: 100%; background: linear-gradient(90deg, #28a745, #20c997); transition: width 0.3s; }
+        
+        .controls { display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap; }
+        .controls input, .controls select { flex: 1; min-width: 150px; }
+        
+        @media (max-width: 1024px) {
+            .main-container { grid-template-columns: 1fr; }
+            .annotation-panel { position: static; max-height: none; }
+        }
+        
+        .biblical-reference { background: #e3f2fd; padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #2196f3; }
+        .selected-verse { font-style: italic; color: #1976d2; margin-bottom: 10px; }
+        
+        .annotation-summary { background: #f0f8ff; padding: 15px; border-radius: 8px; margin-top: 20px; }
+        .annotation-summary h4 { color: #2c3e50; margin-bottom: 10px; }
+        .summary-item { margin: 5px 0; font-size: 13px; }
+        
+        .no-selection { text-align: center; color: #6c757d; padding: 40px 20px; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Morrison Biblical Allusion Annotation Tool</h1>
+        <p>Systematic annotation of biblical allusions in Toni Morrison's novels for text classification training</p>
+    </div>
+    
+    <div class="controls">
+        <input type="text" id="annotatorId" placeholder="Annotator ID" required>
+        <select id="novelSelect" required>
+            <option value="">Select Novel</option>
+            <option value="The Bluest Eye">The Bluest Eye (1970)</option>
+            <option value="Sula">Sula (1973)</option>
+            <option value="Song of Solomon">Song of Solomon (1977)</option>
+            <option value="Tar Baby">Tar Baby (1981)</option>
+            <option value="Beloved">Beloved (1987)</option>
+            <option value="Jazz">Jazz (1992)</option>
+            <option value="Paradise">Paradise (1998)</option>
+            <option value="A Mercy">A Mercy (2008)</option>
+        </select>
+        <input type="file" id="fileInput" accept=".csv,.json" style="margin: 0 10px; padding: 8px; border: 2px solid #e9ecef; border-radius: 6px;">
+        <button class="btn btn-secondary" onclick="loadFromFile()">Load Detector Results</button>
+        <button class="btn btn-secondary" onclick="loadSamplePassages()">Load Sample</button>
+        <button class="btn btn-success" onclick="exportAnnotations()">Export CSV</button>
+        <button class="btn btn-secondary" onclick="clearAllData()" style="background: #dc3545;">Clear All Data</button>
+        <button class="btn btn-secondary" onclick="window.open('annotation-guide.html', '_blank')" style="background: #17a2b8;">📖 Guide</button>
+    </div>
+    
+    <div class="progress-section">
+        <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+            <span>Progress: <span id="annotatedCount">0</span> / <span id="totalCount">0</span></span>
+            <span>Target: At least 200 passages</span>
+        </div>
+        <div class="progress-bar">
+            <div class="progress-fill" id="progressFill" style="width: 0%"></div>
+        </div>
+    </div>
+    
+    <div class="main-container">
+        <div class="text-panel">
+            <h3>Morrison Text Passages</h3>
+            <div id="passages">
+                <div class="no-selection">
+                    <p>Load a text file or sample passages to begin annotation</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="annotation-panel">
+            <h3>Biblical Reference & Annotation</h3>
+            
+            <div class="biblical-search">
+                <input type="text" class="search-input" id="biblicalSearch" placeholder="Search biblical text (e.g., 'beloved', 'Genesis 1:1', 'love')">
+                <div class="search-results" id="searchResults" style="display: none;"></div>
+            </div>
+            
+            <div class="annotation-form" id="annotationForm">
+                <div class="no-selection">
+                    <p>Select a passage from the left panel to begin annotation</p>
+                </div>
+            </div>
+            
+            <div class="annotation-form active" id="activeAnnotationForm" style="display: none;">
+                <div class="form-group">
+                    <label>Allusion Type</label>
+                    <select id="allusionType" onchange="updateForm()">
+                        <option value="">Select Type</option>
+                        <option value="Direct_Quote">Direct Quote</option>
+                        <option value="Paraphrase">Paraphrase</option>
+                        <option value="Thematic_Reference">Thematic Reference</option>
+                        <option value="Character_Reference">Character Reference</option>
+                        <option value="Structural_Echo">Structural Echo</option>
+                        <option value="No_Allusion">No Biblical Allusion</option>
+                    </select>
+                </div>
+                
+                <div class="biblical-reference" id="biblicalReference" style="display: none;">
+                    <div class="selected-verse" id="selectedVerse">No biblical source selected</div>
+                    <div class="form-group">
+                        <label>Biblical Source</label>
+                        <input type="text" id="biblicalSource" placeholder="e.g., Genesis 1:1, Psalm 23:4">
+                    </div>
+                </div>
+                
+                <div class="form-group">
+                    <label>Allusion Function</label>
+                    <select id="allusionFunction">
+                        <option value="">Select Function</option>
+                        <option value="Characterization">Characterization</option>
+                        <option value="Thematic_Development">Thematic Development</option>
+                        <option value="Narrative_Structure">Narrative Structure</option>
+                        <option value="Cultural_Commentary">Cultural Commentary</option>
+                        <option value="Ironic_Contrast">Ironic Contrast</option>
+                        <option value="Spiritual_Dimension">Spiritual Dimension</option>
+                    </select>
+                </div>
+                
+                <div class="form-group">
+                    <label>Confidence Level: <span class="confidence-value" id="confidenceValue">50%</span></label>
+                    <input type="range" class="confidence-slider" id="confidenceLevel" min="0" max="100" value="50" oninput="updateConfidence()">
+                </div>
+                
+                <div class="form-group">
+                    <label>Analysis Notes</label>
+                    <textarea id="analysisNotes" placeholder="Explain the connection between Morrison's text and the biblical source..."></textarea>
+                </div>
+                
+                <div style="display: flex; gap: 10px;">
+                    <button class="btn btn-primary" onclick="saveAnnotation()">Save Annotation</button>
+                    <button class="btn btn-secondary" onclick="clearForm()">Clear</button>
+                </div>
+                
+                <div class="annotation-summary" id="annotationSummary" style="display: none;">
+                    <h4>Current Annotation</h4>
+                    <div id="summaryContent"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        let passages = [];
+        let annotations = [];
+        let selectedPassageIndex = -1;
+        let biblicalTexts = [];
+        let allAnnotations = []; // Persistent storage for all annotations
+        
+        // Expanded biblical texts for Morrison allusion research
+        const sampleBiblicalTexts = [
+            // Genesis
+            { ref: "Genesis 1:1", text: "In the beginning God created the heaven and the earth." },
+            { ref: "Genesis 1:3", text: "And God said, Let there be light: and there was light." },
+            { ref: "Genesis 3:19", text: "In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou art, and unto dust shalt thou return." },
+            { ref: "Genesis 4:9", text: "And the LORD said unto Cain, Where is Abel thy brother? And he said, I know not: Am I my brother's keeper?" },
+            { ref: "Genesis 22:2", text: "And he said, Take now thy son, thine only son Isaac, whom thou lovest, and get thee into the land of Moriah; and offer him there for a burnt offering." },
+            
+            // Exodus
+            { ref: "Exodus 3:8", text: "And I am come down to deliver them out of the hand of the Egyptians, and to bring them up out of that land unto a good land and a large, unto a land flowing with milk and honey." },
+            { ref: "Exodus 20:12", text: "Honour thy father and thy mother: that thy days may be long upon the land which the LORD thy God giveth thee." },
+            { ref: "Exodus 21:24", text: "Eye for eye, tooth for tooth, hand for hand, foot for foot." },
+            
+            // Psalms
+            { ref: "Psalm 23:1", text: "The LORD is my shepherd; I shall not want." },
+            { ref: "Psalm 23:4", text: "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me." },
+            { ref: "Psalm 137:1", text: "By the rivers of Babylon, there we sat and wept, when we remembered Zion." },
+            { ref: "Psalm 139:14", text: "I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works." },
+            
+            // Isaiah
+            { ref: "Isaiah 40:31", text: "But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles." },
+            { ref: "Isaiah 53:3", text: "He is despised and rejected of men; a man of sorrows, and acquainted with grief." },
+            { ref: "Isaiah 61:1", text: "The Spirit of the Lord GOD is upon me; because the LORD hath anointed me to preach good tidings unto the meek." },
+            
+            // Song of Songs
+            { ref: "Song of Songs 1:5", text: "I am black, but comely, O ye daughters of Jerusalem, as the tents of Kedar, as the curtains of Solomon." },
+            { ref: "Song of Songs 2:10", text: "My beloved spake, and said unto me, Rise up, my love, my fair one, and come away." },
+            { ref: "Song of Songs 6:3", text: "I am my beloved's, and my beloved is mine: he feedeth among the lilies." },
+            { ref: "Song of Songs 8:7", text: "Many waters cannot quench love, neither can the floods drown it." },
+            
+            // Matthew
+            { ref: "Matthew 5:4", text: "Blessed are they that mourn: for they shall be comforted." },
+            { ref: "Matthew 11:28", text: "Come unto me, all ye that labour and are heavy laden, and I will give you rest." },
+            { ref: "Matthew 19:14", text: "But Jesus said, Suffer little children, and forbid them not, to come unto me: for of such is the kingdom of heaven." },
+            
+            // Luke
+            { ref: "Luke 15:11", text: "And he said, A certain man had two sons." },
+            { ref: "Luke 23:34", text: "Then said Jesus, Father, forgive them; for they know not what they do." },
+            
+            // John
+            { ref: "John 1:1", text: "In the beginning was the Word, and the Word was with God, and the Word was God." },
+            { ref: "John 11:35", text: "Jesus wept." },
+            { ref: "John 14:2", text: "In my Father's house are many mansions: if it were not so, I would have told you." },
+            
+            // Romans
+            { ref: "Romans 8:28", text: "And we know that all things work together for good to them that love God." },
+            { ref: "Romans 9:25", text: "I will call them my people, which were not my people; and her beloved, which was not beloved." },
+            
+            // 1 Corinthians
+            { ref: "1 Corinthians 13:4", text: "Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself." },
+            { ref: "1 Corinthians 13:11", text: "When I was a child, I spake as a child, I understood as a child, I thought as a child: but when I became a man, I put away childish things." },
+            
+            // Revelation
+            { ref: "Revelation 21:4", text: "And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying." },
+            { ref: "Revelation 22:13", text: "I am Alpha and Omega, the beginning and the end, the first and the last." },
+            
+            // Job
+            { ref: "Job 14:1", text: "Man that is born of a woman is of few days and full of trouble." },
+            { ref: "Job 19:25", text: "For I know that my redeemer liveth, and that he shall stand at the latter day upon the earth." },
+            
+            // Ecclesiastes
+            { ref: "Ecclesiastes 3:1", text: "To every thing there is a season, and a time to every purpose under the heaven." },
+            { ref: "Ecclesiastes 12:7", text: "Then shall the dust return to the earth as it was: and the spirit shall return unto God who gave it." }
+        ];
+        
+        biblicalTexts = sampleBiblicalTexts;
+        
+        function loadSamplePassages() {
+            const startIndex = allAnnotations.length;
+            const samplePassages = [
+                { text: "I will call them my people, which were not my people; and her beloved, which was not beloved.", novel: "Beloved", chapter: "Part I", page: 89, globalIndex: startIndex },
+                { text: "She moved him like a rag doll, limp and heavy, through the door, and dropped him on the porch.", novel: "Beloved", chapter: "Part I", page: 45, globalIndex: startIndex + 1 },
+                { text: "In the beginning was the Word, and the Word was with God, and the Word was God.", novel: "Song of Solomon", chapter: "Chapter 5", page: 104, globalIndex: startIndex + 2 },
+                { text: "Many waters cannot quench love, neither can the floods drown it.", novel: "Song of Solomon", chapter: "Chapter 8", page: 231, globalIndex: startIndex + 3 },
+                { text: "Am I my brother's keeper? The question haunted her dreams.", novel: "Beloved", chapter: "Part II", page: 156, globalIndex: startIndex + 4 }
+            ];
+            
+            passages = passages.concat(samplePassages);
+            annotations = annotations.concat(new Array(samplePassages.length).fill(null));
+            displayPassages();
+            updateProgress();
+            saveToStorage();
+        }
+        
+        function displayPassages() {
+            const container = document.getElementById('passages');
+            if (passages.length === 0) {
+                container.innerHTML = '<div class="no-selection"><p>Load a text file or sample passages to begin annotation</p></div>';
+                return;
+            }
+            
+            let html = '';
+            passages.forEach((passage, index) => {
+                const isAnnotated = annotations[index] !== null;
+                const isSelected = index === selectedPassageIndex;
+                
+                const needsValidation = passage.detectedType && !isAnnotated;
+                const statusIcon = isAnnotated ? '✓ Validated' : (needsValidation ? '⚠ Needs Validation' : '○ New');
+                const statusColor = isAnnotated ? '#28a745' : (needsValidation ? '#ffc107' : '#6c757d');
+                
+                html += `
+                    <div class="passage ${isSelected ? 'selected' : ''} ${isAnnotated ? 'annotated' : ''} ${needsValidation ? 'needs-validation' : ''}" 
+                         onclick="selectPassage(${index})">
+                        <div class="passage-meta">
+                            ${passage.novel} - ${passage.chapter} - ${passage.page}
+                            ${passage.detectedType ? `<span style="background: #e3f2fd; padding: 2px 6px; border-radius: 3px; font-size: 11px; margin-left: 8px;">Auto: ${passage.detectedType}</span>` : ''}
+                        </div>
+                        <div class="passage-text">"${passage.text}"</div>
+                        <div style="color: ${statusColor}; font-size: 12px; font-weight: bold;">${statusIcon}</div>
+                    </div>
+                `;
+            });
+            
+            container.innerHTML = html;
+            document.getElementById('totalCount').textContent = passages.length;
+        }
+        
+        function selectPassage(index) {
+            selectedPassageIndex = index;
+            displayPassages();
+            showAnnotationForm();
+            loadExistingAnnotation(index);
+        }
+        
+        function showAnnotationForm() {
+            document.getElementById('annotationForm').style.display = 'none';
+            document.getElementById('activeAnnotationForm').style.display = 'block';
+        }
+        
+        function loadExistingAnnotation(index) {
+            const annotation = annotations[index];
+            const passage = passages[index];
+            
+            if (annotation) {
+                document.getElementById('allusionType').value = annotation.allusionType || '';
+                document.getElementById('biblicalSource').value = annotation.biblicalSource || '';
+                document.getElementById('allusionFunction').value = annotation.allusionFunction || '';
+                document.getElementById('confidenceLevel').value = annotation.confidenceLevel || 50;
+                document.getElementById('analysisNotes').value = annotation.analysisNotes || '';
+                updateConfidence();
+                updateForm();
+                showAnnotationSummary(annotation);
+            } else {
+                clearForm();
+                // Pre-fill with detected data if available
+                if (passage && passage.detectedType) {
+                    document.getElementById('allusionType').value = passage.detectedType;
+                    document.getElementById('biblicalSource').value = passage.biblicalSource || '';
+                    document.getElementById('confidenceLevel').value = Math.round(parseFloat(passage.page.replace('Conf: ', '').replace('%', '')) || 50);
+                    updateConfidence();
+                    updateForm();
+                }
+            }
+        }
+        
+        function updateForm() {
+            const allusionType = document.getElementById('allusionType').value;
+            const biblicalRef = document.getElementById('biblicalReference');
+            
+            if (allusionType && allusionType !== 'No_Allusion') {
+                biblicalRef.style.display = 'block';
+            } else {
+                biblicalRef.style.display = 'none';
+            }
+        }
+        
+        function updateConfidence() {
+            const value = document.getElementById('confidenceLevel').value;
+            document.getElementById('confidenceValue').textContent = value + '%';
+        }
+        
+        // Biblical search functionality
+        document.getElementById('biblicalSearch').addEventListener('input', function(e) {
+            const query = e.target.value.toLowerCase();
+            const results = document.getElementById('searchResults');
+            
+            if (query.length < 2) {
+                results.style.display = 'none';
+                return;
+            }
+            
+            const matches = biblicalTexts.filter(item => 
+                item.text.toLowerCase().includes(query) || 
+                item.ref.toLowerCase().includes(query)
+            );
+            
+            if (matches.length > 0) {
+                let html = '';
+                matches.forEach(match => {
+                    html += `
+                        <div class="search-result" onclick="selectBiblicalText('${match.ref}', '${match.text.replace(/'/g, "\\'")}')">
+                            <div class="verse-ref">${match.ref}</div>
+                            <div class="verse-text">${match.text}</div>
+                        </div>
+                    `;
+                });
+                results.innerHTML = html;
+                results.style.display = 'block';
+            } else {
+                results.style.display = 'none';
+            }
+        });
+        
+        function selectBiblicalText(ref, text) {
+            document.getElementById('biblicalSource').value = ref;
+            document.getElementById('selectedVerse').textContent = `${ref}: "${text}"`;
+            document.getElementById('searchResults').style.display = 'none';
+            document.getElementById('biblicalSearch').value = '';
+        }
+        
+        function saveAnnotation() {
+            if (selectedPassageIndex === -1) {
+                alert('Please select a passage first');
+                return;
+            }
+            
+            const novelSelect = document.getElementById('novelSelect').value;
+            if (!novelSelect) {
+                alert('Please select a novel first');
+                return;
+            }
+            
+            const annotation = {
+                passageIndex: selectedPassageIndex,
+                globalIndex: passages[selectedPassageIndex].globalIndex || selectedPassageIndex,
+                passage: passages[selectedPassageIndex].text,
+                novel: passages[selectedPassageIndex].novel,
+                allusionType: document.getElementById('allusionType').value,
+                biblicalSource: document.getElementById('biblicalSource').value,
+                allusionFunction: document.getElementById('allusionFunction').value,
+                confidenceLevel: document.getElementById('confidenceLevel').value,
+                analysisNotes: document.getElementById('analysisNotes').value,
+                annotator: document.getElementById('annotatorId').value,
+                timestamp: new Date().toISOString()
+            };
+            
+            if (!annotation.allusionType) {
+                alert('Please select an allusion type');
+                return;
+            }
+            
+            annotations[selectedPassageIndex] = annotation;
+            
+            // Add to persistent storage
+            const existingIndex = allAnnotations.findIndex(a => a.globalIndex === annotation.globalIndex);
+            if (existingIndex >= 0) {
+                allAnnotations[existingIndex] = annotation;
+            } else {
+                allAnnotations.push(annotation);
+            }
+            
+            displayPassages();
+            updateProgress();
+            showAnnotationSummary(annotation);
+            saveToStorage();
+            
+            // Auto-advance to next passage
+            if (selectedPassageIndex < passages.length - 1) {
+                setTimeout(() => selectPassage(selectedPassageIndex + 1), 1000);
+            }
+        }
+        
+        function showAnnotationSummary(annotation) {
+            const summary = document.getElementById('annotationSummary');
+            const content = document.getElementById('summaryContent');
+            
+            content.innerHTML = `
+                <div class="summary-item"><strong>Type:</strong> ${annotation.allusionType}</div>
+                <div class="summary-item"><strong>Biblical Source:</strong> ${annotation.biblicalSource || 'None'}</div>
+                <div class="summary-item"><strong>Function:</strong> ${annotation.allusionFunction || 'None'}</div>
+                <div class="summary-item"><strong>Confidence:</strong> ${annotation.confidenceLevel}%</div>
+            `;
+            
+            summary.style.display = 'block';
+        }
+        
+        function clearForm() {
+            document.getElementById('allusionType').value = '';
+            document.getElementById('biblicalSource').value = '';
+            document.getElementById('allusionFunction').value = '';
+            document.getElementById('confidenceLevel').value = 50;
+            document.getElementById('analysisNotes').value = '';
+            document.getElementById('selectedVerse').textContent = 'No biblical source selected';
+            document.getElementById('annotationSummary').style.display = 'none';
+            updateConfidence();
+            updateForm();
+        }
+        
+        function updateProgress() {
+            const annotatedCount = allAnnotations.length;
+            const percentage = annotatedCount > 0 ? Math.min((annotatedCount / 200) * 100, 100) : 0;
+            
+            document.getElementById('annotatedCount').textContent = annotatedCount;
+            document.getElementById('progressFill').style.width = percentage + '%';
+        }
+        
+        function exportAnnotations() {
+            const annotatorId = document.getElementById('annotatorId').value.trim();
+            const novel = document.getElementById('novelSelect').value;
+            
+            if (!annotatorId || allAnnotations.length === 0) {
+                alert('Please ensure Annotator ID is provided and at least one annotation exists');
+                return;
+            }
+            
+            const headers = ['Passage_ID', 'Novel', 'Text', 'Allusion_Type', 'Biblical_Source', 'Allusion_Function', 'Confidence_Level', 'Analysis_Notes', 'Annotator', 'Timestamp'];
+            let csv = headers.join(',') + '\n';
+            
+            allAnnotations.forEach(annotation => {
+                const row = [
+                    annotation.globalIndex + 1,
+                    annotation.novel,
+                    `"${annotation.passage.replace(/"/g, '""')}"`,
+                    annotation.allusionType,
+                    annotation.biblicalSource || '',
+                    annotation.allusionFunction || '',
+                    annotation.confidenceLevel,
+                    `"${annotation.analysisNotes.replace(/"/g, '""')}"`,
+                    annotation.annotator,
+                    annotation.timestamp
+                ];
+                csv += row.join(',') + '\n';
+            });
+            
+            const blob = new Blob([csv], { type: 'text/csv' });
+            const url = window.URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `morrison_biblical_annotations_${annotatorId}_${new Date().toISOString().split('T')[0]}.csv`;
+            a.click();
+            window.URL.revokeObjectURL(url);
+            
+            alert(`Exported ${allAnnotations.length} total annotations successfully!`);
+        }
+        
+        function loadFromFile() {
+            const fileInput = document.getElementById('fileInput');
+            const file = fileInput.files[0];
+            
+            if (!file) {
+                alert('Please select a CSV or JSON file first.');
+                return;
+            }
+            
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                try {
+                    const content = e.target.result;
+                    let allusions = [];
+                    
+                    if (file.name.endsWith('.json')) {
+                        const data = JSON.parse(content);
+                        // Handle both single novel and combined results
+                        if (data.allusions) {
+                            allusions = data.allusions.map(a => ({...a, novel: data.title}));
+                        } else {
+                            // Combined results format
+                            Object.entries(data).forEach(([title, results]) => {
+                                if (results.allusions) {
+                                    allusions = allusions.concat(results.allusions.map(a => ({...a, novel: title})));
+                                }
+                            });
+                        }
+                    } else if (file.name.endsWith('.csv')) {
+                        const lines = content.split('\n');
+                        const headers = lines[0].split(',');
+                        
+                        for (let i = 1; i < lines.length; i++) {
+                            if (lines[i].trim()) {
+                                const values = lines[i].split(',');
+                                allusions.push({
+                                    text: values[1]?.replace(/"/g, ''),
+                                    type: values[4],
+                                    confidence: parseFloat(values[5]) || 0,
+                                    biblical_source: values[6],
+                                    context: values[7]?.replace(/"/g, ''),
+                                    novel: values[0]?.replace(/"/g, '')
+                                });
+                            }
+                        }
+                    }
+                    
+                    const startIndex = allAnnotations.length;
+                    const newPassages = allusions.map((allusion, index) => ({
+                        text: allusion.text,
+                        novel: allusion.novel || 'Unknown',
+                        chapter: `Detected Allusion ${index + 1}`,
+                        page: `Conf: ${(allusion.confidence * 100).toFixed(0)}%`,
+                        globalIndex: startIndex + index,
+                        detectedType: allusion.type,
+                        biblicalSource: allusion.biblical_source,
+                        context: allusion.context
+                    }));
+                    
+                    passages = passages.concat(newPassages);
+                    annotations = annotations.concat(new Array(newPassages.length).fill(null));
+                    
+                    displayPassages();
+                    updateProgress();
+                    saveToStorage();
+                    
+                    alert(`Loaded ${newPassages.length} detected allusions from ${file.name}!`);
+                } catch (error) {
+                    alert('Error reading file: ' + error.message);
+                }
+            };
+            
+            reader.readAsText(file);
+        }
+        
+
+        
+        // Storage functions
+        function saveToStorage() {
+            const data = {
+                allAnnotations: allAnnotations
+            };
+            localStorage.setItem('morrisonAnnotations', JSON.stringify(data));
+        }
+        
+        function loadFromStorage() {
+            const stored = localStorage.getItem('morrisonAnnotations');
+            if (stored) {
+                const data = JSON.parse(stored);
+                allAnnotations = data.allAnnotations || [];
+                // Don't restore passages - they should be loaded fresh each session
+                passages = [];
+                annotations = [];
+                updateProgress();
+            }
+        }
+        
+        function clearAllData() {
+            if (confirm('Are you sure you want to clear all annotation data? This cannot be undone.')) {
+                localStorage.removeItem('morrisonAnnotations');
+                allAnnotations = [];
+                passages = [];
+                annotations = [];
+                selectedPassageIndex = -1;
+                displayPassages();
+                updateProgress();
+                alert('All data cleared successfully!');
+            }
+        }
+        
+        // Initialize
+        loadFromStorage();
+        updateProgress();
+    </script>
+</body>
+</html>

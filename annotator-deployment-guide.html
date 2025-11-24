@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Annotator Deployment Guide</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 900px; margin: 0 auto; padding: 20px; line-height: 1.6; }
+        h1, h2 { color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px; }
+        .recommendation { background: #e8f5e8; padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #28a745; }
+        .deployment { background: #f8f9fa; padding: 20px; border-radius: 8px; margin: 20px 0; }
+        .step { background: white; margin: 10px 0; padding: 15px; border-left: 4px solid #3498db; border-radius: 4px; }
+        .warning { background: #fff3cd; padding: 15px; border-radius: 8px; margin: 15px 0; border-left: 4px solid #ffc107; }
+        .files { background: #f0f8ff; padding: 15px; border-radius: 8px; margin: 15px 0; }
+        table { width: 100%; border-collapse: collapse; margin: 20px 0; }
+        th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
+        th { background: #f8f9fa; font-weight: bold; }
+        .timeline { display: grid; grid-template-columns: 100px 1fr; gap: 15px; margin: 20px 0; }
+        .timeline-item { display: contents; }
+        .timeline-date { font-weight: bold; color: #2980b9; }
+        code { background: #f4f4f4; padding: 2px 6px; border-radius: 3px; font-family: 'Courier New', monospace; }
+    </style>
+</head>
+<body>
+    <h1>Biblical Allusion Annotation Project Deployment</h1>
+
+    <div class="recommendation">
+        <h2>📊 Recommended Team Size: 3-4 Annotators</h2>
+        <p><strong>Optimal Configuration:</strong></p>
+        <ul>
+            <li><strong>Primary Annotators:</strong> 2 graduate students in Literature/Digital Humanities</li>
+            <li><strong>Expert Validator:</strong> 1 faculty member or advanced PhD student</li>
+            <li><strong>Quality Controller:</strong> 1 additional annotator for inter-rater reliability</li>
+        </ul>
+        
+        <p><strong>Rationale:</strong></p>
+        <ul>
+            <li>Target: At least 200 validated annotations per annotator (1,000+ total)</li>
+            <li>Each annotator: ~300-400 annotations (manageable workload)</li>
+            <li>Overlap for reliability testing: 10-15% of passages</li>
+            <li>Expert validation ensures scholarly accuracy</li>
+        </ul>
+    </div>
+
+    <h2>📁 File Sharing Options</h2>
+
+    <div class="deployment">
+        <h3>Option 1: GitHub Repository (Recommended)</h3>
+        <div class="step">
+            <strong>Setup:</strong>
+            <ol>
+                <li>Create private GitHub repository</li>
+                <li>Upload annotation tool files</li>
+                <li>Add annotators as collaborators</li>
+                <li>Use GitHub Pages for web hosting</li>
+            </ol>
+        </div>
+        
+        <div class="files">
+            <strong>Repository Structure:</strong>
+            <pre>
+morrison-biblical-annotation/
+├── morrison-biblical-annotation-tool.html
+├── annotation-guide.html
+├── data/
+│   ├── detector-results/
+│   │   ├── beloved_allusions.csv
+│   │   ├── song_of_solomon_allusions.csv
+│   │   └── morrison_allusions_combined.csv
+│   └── annotations/
+│       ├── annotator1_annotations.csv
+│       ├── annotator2_annotations.csv
+│       └── combined_validated.csv
+└── README.md
+            </pre>
+        </div>
+    </div>
+
+    <div class="deployment">
+        <h3>Option 2: Google Drive + Simple Web Server</h3>
+        <div class="step">
+            <strong>Setup:</strong>
+            <ol>
+                <li>Create shared Google Drive folder</li>
+                <li>Upload HTML files and detector results</li>
+                <li>Use Python's built-in server: <code>python -m http.server 8000</code></li>
+                <li>Share local network access or use ngrok for remote access</li>
+            </ol>
+        </div>
+    </div>
+
+    <div class="deployment">
+        <h3>Option 3: University Web Space</h3>
+        <div class="step">
+            <strong>Setup:</strong>
+            <ol>
+                <li>Upload files to UIUC web space (if available)</li>
+                <li>Set appropriate permissions</li>
+                <li>Share URL with annotators</li>
+                <li>Collect annotations via email or shared folder</li>
+            </ol>
+        </div>
+    </div>
+
+    <h2>👥 Annotator Recruitment Strategy</h2>
+
+    <table>
+        <tr>
+            <th>Role</th>
+            <th>Qualifications</th>
+            <th>Time Commitment</th>
+            <th>Compensation</th>
+        </tr>
+        <tr>
+            <td>Primary Annotator</td>
+            <td>Graduate student in Literature/DH<br>Familiar with Morrison's work</td>
+            <td>15-20 hours over 3-4 weeks</td>
+            <td>$300-400 research stipend</td>
+        </tr>
+        <tr>
+            <td>Expert Validator</td>
+            <td>Faculty or advanced PhD<br>Biblical literature knowledge</td>
+            <td>8-10 hours over 2 weeks</td>
+            <td>$200-300 consultation fee</td>
+        </tr>
+        <tr>
+            <td>Quality Controller</td>
+            <td>Graduate student<br>Attention to detail</td>
+            <td>10-12 hours over 2 weeks</td>
+            <td>$200-250 research stipend</td>
+        </tr>
+    </table>
+
+    <h2>📅 Project Timeline</h2>
+
+    <div class="timeline">
+        <div class="timeline-item">
+            <div class="timeline-date">Week 1</div>
+            <div>
+                <strong>Setup & Training</strong>
+                <ul>
+                    <li>Deploy annotation tool</li>
+                    <li>Recruit and train annotators</li>
+                    <li>Conduct pilot annotation session</li>
+                </ul>
+            </div>
+        </div>
+        
+        <div class="timeline-item">
+            <div class="timeline-date">Week 2-4</div>
+            <div>
+                <strong>Primary Annotation</strong>
+                <ul>
+                    <li>Annotators work on assigned novels</li>
+                    <li>Weekly check-ins and quality reviews</li>
+                    <li>Address questions and edge cases</li>
+                </ul>
+            </div>
+        </div>
+        
+        <div class="timeline-item">
+            <div class="timeline-date">Week 5</div>
+            <div>
+                <strong>Validation & Quality Control</strong>
+                <ul>
+                    <li>Expert validation of sample annotations</li>
+                    <li>Inter-rater reliability testing</li>
+                    <li>Resolve disagreements</li>
+                </ul>
+            </div>
+        </div>
+        
+        <div class="timeline-item">
+            <div class="timeline-date">Week 6</div>
+            <div>
+                <strong>Final Processing</strong>
+                <ul>
+                    <li>Combine all annotations</li>
+                    <li>Generate final training dataset</li>
+                    <li>Prepare documentation</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <h2>📋 Annotator Instructions Package</h2>
+
+    <div class="files">
+        <strong>Send to Each Annotator:</strong>
+        <ul>
+            <li><strong>annotation-guide.html</strong> - Complete annotation guidelines</li>
+            <li><strong>morrison-biblical-annotation-tool.html</strong> - The annotation interface</li>
+            <li><strong>Assigned detector results files</strong> - CSV/JSON for their novels</li>
+            <li><strong>Unique Annotator ID</strong> - e.g., "UIUC_ANN_001"</li>
+            <li><strong>Contact information</strong> - For questions and support</li>
+        </ul>
+    </div>
+
+    <div class="warning">
+        <strong>Important Setup Notes:</strong>
+        <ul>
+            <li>Ensure all files are in the same directory for proper linking</li>
+            <li>Test the tool with sample data before distribution</li>
+            <li>Provide clear file naming conventions for submissions</li>
+            <li>Set up regular backup of annotation data</li>
+        </ul>
+    </div>
+
+    <h2>📊 Quality Assurance Plan</h2>
+
+    <div class="step">
+        <strong>Inter-Rater Reliability Testing</strong>
+        <ul>
+            <li>Have 2-3 annotators work on the same 50 passages</li>
+            <li>Calculate Cohen's kappa for agreement</li>
+            <li>Target: κ > 0.70 for acceptable reliability</li>
+            <li>Resolve disagreements through discussion</li>
+        </ul>
+    </div>
+
+    <div class="step">
+        <strong>Expert Validation</strong>
+        <ul>
+            <li>Expert reviews 10% of all annotations</li>
+            <li>Focus on high-confidence and edge cases</li>
+            <li>Provide feedback for annotator improvement</li>
+            <li>Final approval of annotation guidelines</li>
+        </ul>
+    </div>
+
+    <h2>💰 Budget Estimate</h2>
+
+    <table>
+        <tr>
+            <th>Item</th>
+            <th>Cost</th>
+            <th>Notes</th>
+        </tr>
+        <tr>
+            <td>2 Primary Annotators</td>
+            <td>$600-800</td>
+            <td>$300-400 each</td>
+        </tr>
+        <tr>
+            <td>1 Expert Validator</td>
+            <td>$200-300</td>
+            <td>Faculty consultation</td>
+        </tr>
+        <tr>
+            <td>1 Quality Controller</td>
+            <td>$200-250</td>
+            <td>Graduate student rate</td>
+        </tr>
+        <tr>
+            <td>Web hosting (optional)</td>
+            <td>$0-50</td>
+            <td>GitHub Pages free, alternatives minimal</td>
+        </tr>
+        <tr>
+            <td><strong>Total</strong></td>
+            <td><strong>$1,000-1,400</strong></td>
+            <td>Reasonable for high-quality dataset</td>
+        </tr>
+    </table>
+
+    <div class="recommendation">
+        <h3>🎯 Success Metrics</h3>
+        <ul>
+            <li><strong>Quantity:</strong> At least 200 annotations per annotator (1,000+ total)</li>
+            <li><strong>Quality:</strong> Inter-rater agreement κ > 0.70</li>
+            <li><strong>Coverage:</strong> All 8 Morrison novels represented</li>
+            <li><strong>Balance:</strong> Mix of allusion types and confidence levels</li>
+            <li><strong>Timeline:</strong> Complete within 6 weeks</li>
+        </ul>
+    </div>
+</body>
+</html>
