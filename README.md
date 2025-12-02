@@ -112,11 +112,7 @@ morrison-biblical-annotation/
 
 ## 🎓 Academic Context
 
-This project supports Felix Oke's PhD dissertation research on computational approaches to biblical allusion detection in African American literature. The work builds on:
-
-- Ted Underwood's research on digital humanities curriculum
-- Ryan Cordell's BookLab methodologies
-- UIUC's computational humanities initiatives
+This project supports Felix Oke's research on computational approaches to biblical allusion detection in African American literature. The work builds on:
 
 ## 📄 Citation
 
