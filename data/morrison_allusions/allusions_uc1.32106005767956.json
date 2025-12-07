@@ -1,0 +1,1901 @@
+{
+  "title": "Tar Baby (1981)",
+  "total_allusions": 209,
+  "allusions": [
+    {
+      "text": "Solomon",
+      "start_pos": 2034,
+      "end_pos": 2041,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Solomon",
+      "context": "ALSO BY\nTONI MORRISON\nThe Bluest Eye\nSula\nSong of Solomon\nTAR BABY\nAF CALE\nTar Baby\nToni Morrison\nALFRED A."
+    },
+    {
+      "text": "lot",
+      "start_pos": 55623,
+      "end_pos": 55626,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "ey shrugged. “Last time I saw him he ate a mighty lot\nof steak.\"\n\"And fresh coconut cake. The whole cak"
+    },
+    {
+      "text": "hope",
+      "start_pos": 61632,
+      "end_pos": 61636,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": "\npocket for a toothpick. \"L'Arbe de la Croix.\"\n\"I hope he's wrong.\" Jadine laughed.\nOndine entered, limp"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 64153,
+      "end_pos": 64157,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "ty or\nspecial work to be done, he did not bring a Mary who, according\nto Sydney, might be his wife, his "
+    },
+    {
+      "text": "Mary",
+      "start_pos": 64431,
+      "end_pos": 64435,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": " her Greta Garbo hat. They all referred to\nher as Mary and couldn't ever be wrong about it because all t"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 64527,
+      "end_pos": 64531,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "se all the\nbaptized black women on the island had Mary among their\nnames. Once in a while Yardman brough"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 64978,
+      "end_pos": 64982,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "dman\nsometimes ventured a comment or two, but the Mary and the\nsmall-boned girl never said anything at a"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 65239,
+      "end_pos": 65243,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": " to them constantly. Yardman answered her but\nthe Mary never did except for a quiet \"Oui, madame\" if she"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 65358,
+      "end_pos": 65362,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "Ondine tried, unsuccessfully, for months to get a\nMary who would work inside... With no explicit refusal"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 65443,
+      "end_pos": 65447,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "no explicit refusal or gen-\neral explanation each Mary took the potatoes, the pot, the paper\nsack and th"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 65694,
+      "end_pos": 65698,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": " when, at her insistence,\nYardman brought another Mary, she too took the pail of shrimp\noutside to shell"
+    },
+    {
+      "text": "acts",
+      "start_pos": 78638,
+      "end_pos": 78642,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Acts",
+      "context": ", but any black girl who looks like me,\ntalks and acts like me, what will happen when he finds out that "
+    },
+    {
+      "text": "lot",
+      "start_pos": 80188,
+      "end_pos": 80191,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "se to spend it on. Nanadine and Sydney\nmattered a lot to her but what they thought did not. She had\nsou"
+    },
+    {
+      "text": "hope",
+      "start_pos": 93353,
+      "end_pos": 93357,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": "ou always-except in sleep. So there was peace\nand hope on the face of this beautiful woman born to two\no"
+    },
+    {
+      "text": "Joseph",
+      "start_pos": 93431,
+      "end_pos": 93437,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Joseph",
+      "context": "utiful woman born to two\nordinary-looking people, Joseph and Leonora Lordi, who had\nlooked at their beauti"
+    },
+    {
+      "text": "mark",
+      "start_pos": 95938,
+      "end_pos": 95942,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Mark",
+      "context": "tiny head of Margarette Lenore. Still it left its mark on\nher-being that pretty with that coloring. Joe "
+    },
+    {
+      "text": "Joseph",
+      "start_pos": 97645,
+      "end_pos": 97651,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Joseph",
+      "context": "lity of the minds (not the hearts) of Leonora and Joseph\nLordi. So when she got married eight months out o"
+    },
+    {
+      "text": "Rebecca",
+      "start_pos": 98694,
+      "end_pos": 98701,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Rebecca",
+      "context": "ed\nat her and she stiffened like Joan Fontaine in Rebecca until she\nlearned from her husband that his ex-wi"
+    },
+    {
+      "text": "lot",
+      "start_pos": 101769,
+      "end_pos": 101772,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "e going to movies together, which hurt Margaret a lot\nbecause taking in a movie with Ondine was definit"
+    },
+    {
+      "text": "numbers",
+      "start_pos": 103250,
+      "end_pos": 103257,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Numbers",
+      "context": "three . . . his little hand in hers repeating the numbers\nas they mounted each tread. No one would believe "
+    },
+    {
+      "text": "hope",
+      "start_pos": 109579,
+      "end_pos": 109583,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": "t, plain and fluffy,\" said Margaret.\n\"Well, let's hope that's what we get. Omelet's more likely\nin this "
+    },
+    {
+      "text": "job",
+      "start_pos": 109801,
+      "end_pos": 109804,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "t may not be good for eggs, but it's doing a good job of\nsouffléing my hair,\" said Jadine. \"I should ha"
+    },
+    {
+      "text": "Eve",
+      "start_pos": 112767,
+      "end_pos": 112770,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Eve",
+      "context": "'d like to come for the entire weekend. Christmas\nEve, a dinner party; then breakfast, then some boatin"
+    },
+    {
+      "text": "hope",
+      "start_pos": 114997,
+      "end_pos": 115001,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": "ghtness.\n\"She already knows for sure. The rest is hope and a deter-\nmination to irritate me.\"\n\"Irritatin"
+    },
+    {
+      "text": "communion",
+      "start_pos": 120332,
+      "end_pos": 120341,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Communion",
+      "context": "Your what?\"\n\"My cross. The cross I wore. My first communion present.\nShe said for me to take it off. That onl"
+    },
+    {
+      "text": "lot",
+      "start_pos": 123913,
+      "end_pos": 123916,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "That's not the point, whether I'm asked or not. A lot of life\nis outside and frequently it's the part t"
+    },
+    {
+      "text": "grace",
+      "start_pos": 127107,
+      "end_pos": 127112,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Grace",
+      "context": "asn't like what he thought:\nall grits and natural grace. But he did make me want to apologize\nfor what I "
+    },
+    {
+      "text": "lot",
+      "start_pos": 139517,
+      "end_pos": 139520,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "Valerian and it seemed to Jadine\nthat there was a lot of space around his eyes.\n4\nBEES have no sting on"
+    },
+    {
+      "text": "lot",
+      "start_pos": 146644,
+      "end_pos": 146647,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "t now that she was\ngrown up, she was pretty and a lot of fun. All those colleges\nhadn't made her uppity"
+    },
+    {
+      "text": "Eve",
+      "start_pos": 155504,
+      "end_pos": 155507,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Eve",
+      "context": "ened the sheets. \"Now when is he\ndue?\"\n\"Christmas Eve, I think. Just after Michael gets here.\"\n\"You sur"
+    },
+    {
+      "text": "grace",
+      "start_pos": 161041,
+      "end_pos": 161046,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Grace",
+      "context": " know you.\" It must have been that same an-\ntique grace that made him look at a raggedy black man who\nhad"
+    },
+    {
+      "text": "grace",
+      "start_pos": 162918,
+      "end_pos": 162923,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Grace",
+      "context": "ore sipping it through a lump of sugar. More than grace, she\nthought, Valerian had courage. He could not "
+    },
+    {
+      "text": "job",
+      "start_pos": 169240,
+      "end_pos": 169243,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "a good\nman whom she trusted; a good and permanent job doing what\nshe was good at for a boss who appreci"
+    },
+    {
+      "text": "lot",
+      "start_pos": 171918,
+      "end_pos": 171921,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "ot standing up for him. I just think he's a whole lot bet-\nter than nobody and a little bit better than"
+    },
+    {
+      "text": "lot",
+      "start_pos": 175090,
+      "end_pos": 175093,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "en I went in there this morning.\"\ngo-\n\"He drank a lot, Jadine says.\" She reached in the oven and\npoked "
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 180377,
+      "end_pos": 180382,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "o his bed\nif he wanted it, collect his underwear (Jesus), call him sir, step\naside if they met him in the"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 182387,
+      "end_pos": 182393,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "d attend to her own thoughts while she\nwaited for Gideon to come by her. From the pocket of her dress\nshe "
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 183132,
+      "end_pos": 183138,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "dier ants so clearly and why she was so eager for\nGideon to finish with the hens and join her on some pret"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 183755,
+      "end_pos": 183761,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "oorsill.\nShe was sorry Alma could not come today. Gideon and she had\na bet on how long the chocolate eater"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 183824,
+      "end_pos": 183830,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "a bet on how long the chocolate eater could last. Gideon said,\n\"Long as he wants. Till New Year,\" while sh"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 185416,
+      "end_pos": 185422,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Gideon",
+      "context": "\nShe had eaten the fish and one avocado and still Gideon had\nnot come. She didn't want to start on the cof"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 185718,
+      "end_pos": 185724,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Gideon",
+      "context": "visit. She insisted\nshe knew about the man before Gideon-although it was he who\nactually saw him first. Sh"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 186606,
+      "end_pos": 186612,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "hungry man was on\nthe grounds, or, as she said to Gideon, \"Somebody's starving to\ndeath round here.\" And G"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 186661,
+      "end_pos": 186667,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Gideon",
+      "context": "n, \"Somebody's starving to\ndeath round here.\" And Gideon said, \"Me, Thérèse,\" and she\nsaid, “No, not you. "
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 186776,
+      "end_pos": 186782,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "starving somebody.\" And later that\nday a bug-eyed Gideon crept over to her under the lime tree near\nthe ki"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 187320,
+      "end_pos": 187326,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "l there, untouched by all but fruit flies. It was Gideon\nwho had the solution: instead of fixing the sash "
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 187867,
+      "end_pos": 187873,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "from the pantry\nchocolate at the very least. Once Gideon saw an empty Evian\nbottle in the gazebo. Then the"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 188044,
+      "end_pos": 188050,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "stove and put it back\nfive times before she heard Gideon's footsteps. She poked her\nhead out of the doorwa"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 188369,
+      "end_pos": 188375,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "\"You slaughter the hen or the\nhen slaughter you?\"\nGideon held up one hand to shush her and with the other\n"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 188504,
+      "end_pos": 188510,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "he door, man,\" she complained. \"Too hot in here.\"\nGideon stood fast. \"Listen,\" he said. \"He's in the house"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 188666,
+      "end_pos": 188672,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "knew it!\" Thérèse's whisper was close to a shout.\nGideon went to the coffee pot. Two cups were sitting on "
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 190238,
+      "end_pos": 190244,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "g around waiting for his chance.\"\n\"Maybe. Maybe.\" Gideon looked at her milky eyes. \"You damn\nnear blind, b"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 190927,
+      "end_pos": 190933,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Gideon",
+      "context": "an old boyfriend and he the one sent her\nthe box, Gideon.”\n\"Hold on. You going wild.\"\n\"And machete-hair sh"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 191259,
+      "end_pos": 191265,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "\nrocked in the telling, pressing her fingers into Gideon's shoulder\nas each new sequence presented itself "
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 191679,
+      "end_pos": 191685,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "ugh the clear cascade of\nthe French of Dominique.\nGideon couldn't stop her, so he tried to gulp coffee whi"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 194245,
+      "end_pos": 194251,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Gideon",
+      "context": "e and had\ncraving for them akin to hysteria. When Gideon appeared in\n1973 with twelve apples hidden in the"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 196736,
+      "end_pos": 196742,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "elt in their hearts for everybody but themselves.\nGideon got over the shame: the work at Isle des Chevalie"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 197853,
+      "end_pos": 197859,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Gideon",
+      "context": "a miracle\nof concentration.\n\"Hush, Thérèse,\" said Gideon. \"They can hear\nyou in the har-\nbor. Finish makin"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 198922,
+      "end_pos": 198928,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Gideon",
+      "context": "\ntoo much, but she had wasted time gossiping with Gideon so she\nleft it that way. She sat down again on th"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 205797,
+      "end_pos": 205801,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "rom the bed toward her. \"What\ndo you like? Billy? Paul? What about Rastus?\"\n\"Don't be funny. What is you"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 206681,
+      "end_pos": 206685,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": " she had them again, safely back in her fingers. \"Mary.\nIt must have been Mary.” Jadine laughed. “That w"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 206705,
+      "end_pos": 206709,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "ely back in her fingers. \"Mary.\nIt must have been Mary.” Jadine laughed. “That was a publicity\nthing. Wh"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 206811,
+      "end_pos": 206815,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": " I was modeling they called me that. I wonder how\nMary knows about it. I don't think she can even read.\""
+    },
+    {
+      "text": "lot",
+      "start_pos": 210000,
+      "end_pos": 210003,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "s smiling at the same time.\n\"They must be worth a lot, then.”\n\"Quite a lot. Priceless.\"\n\"Nothing's pric"
+    },
+    {
+      "text": "lot",
+      "start_pos": 210021,
+      "end_pos": 210024,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": " time.\n\"They must be worth a lot, then.”\n\"Quite a lot. Priceless.\"\n\"Nothing's priceless. Everything has"
+    },
+    {
+      "text": "lot",
+      "start_pos": 210936,
+      "end_pos": 210939,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "huh?”\n\"Why? Are\nyou a\nthief?\"\n\"I wish I was. Be a lot easier for me if I could steal.\"\n\"If? What do you"
+    },
+    {
+      "text": "lot",
+      "start_pos": 214923,
+      "end_pos": 214926,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "f the church?\n\"How much?\" he asked her. \"Was it a lot?\" His voice was\nquiet.\n\"What are you talking abou"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 245384,
+      "end_pos": 245388,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "an three hundred people. Drake, Soldier and Ernie Paul\nlaughed and pointed their fingers. How it feel? I"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 245646,
+      "end_pos": 245650,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "or her. And a year later Drake, Soldier and\nErnie Paul weren't laughing; they were sitting on Miss Tyler"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 245927,
+      "end_pos": 245931,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ome into the\ngazebo with Drake, Soldier and Ernie Paul. They kept him up\nall night, practically, so he t"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 246943,
+      "end_pos": 246947,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ugh the next day because Drake, Soldier and Ernie\nPaul kept him awake in the night. That's how he came t"
+    },
+    {
+      "text": "hope",
+      "start_pos": 265339,
+      "end_pos": 265343,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": " the small waiting in Sydney,\nsome expectation or hope that his employer would give him a\nhint of what h"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 271053,
+      "end_pos": 271059,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "uest\nroom for him, and Valerian sent him off with Gideon to get a\nhaircut, because Sydney refused flat out"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 271492,
+      "end_pos": 271498,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "the\nkitchen, Mr. Green alias Son drifted off with Gideon and\nThérèse in the Prix de France. With country p"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 271661,
+      "end_pos": 271667,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "an Negro through\nthe streets of town like a king. Gideon even got one of his\nfriends to give them a free t"
+    },
+    {
+      "text": "eve",
+      "start_pos": 272306,
+      "end_pos": 272309,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Eve",
+      "context": "\nup the hillside, and at various times during the eve-\nning, heads poked in her doorway, and neighbors "
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 272685,
+      "end_pos": 272691,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "she listened to the men talk and waited her\nturn. Gideon told her stories on Isle des Chevaliers, but here"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 273156,
+      "end_pos": 273162,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "r babies with their\nfingernails. She waited until Gideon had cut his hair with clip-\npers he'd borrowed fr"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 273415,
+      "end_pos": 273421,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Gideon",
+      "context": "eck and the\nfront of his whole body. Waited until Gideon was through with\nhis boasts about when he was in "
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 273622,
+      "end_pos": 273628,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "f that nurse and all American women. Waited until\nGideon had lied about all the money he made there and wh"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 274513,
+      "end_pos": 274519,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "ma Estée sat on the cot by the\nwindow.\nSon smoked Gideon's cigarettes and poured the rest of the rum\ninto "
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 275641,
+      "end_pos": 275647,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "with their fingernails?\"\n\"Close down your mouth,\" Gideon said to her, and then to\nSon, \"She's gone stupid "
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 277096,
+      "end_pos": 277102,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Gideon",
+      "context": "e said. “Right.\"\n\"Don't encourage her, man,\" said Gideon. \"She's a mean one\nand one of the blind race. You"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 277369,
+      "end_pos": 277375,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "r\nvision had not gone dark until a few years ago.\nGideon started to tease her about being \"into her fiftie"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 277587,
+      "end_pos": 277593,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Gideon",
+      "context": "to go\nblind.\nSon asked who were the blind race so Gideon told him a\nstory about a race of blind people des"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 278721,
+      "end_pos": 278727,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Gideon",
+      "context": "e\nthey ever caught?\"\n\"No, man, still there,\" said Gideon. \"They ride those horses\nall over the hills. They"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 279355,
+      "end_pos": 279361,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Gideon",
+      "context": "t you was one,\" said Thérèse.\n\"She thought,\" said Gideon. \"Not me. Personally I think\nthe blindness comes "
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 280554,
+      "end_pos": 280560,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Gideon",
+      "context": "tions about the women who clawed their wombs, but Gideon\nTAR\nA BY\nB\ngrew loud and stopped her. \"She was a "
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 281051,
+      "end_pos": 281057,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "ar about your wretched\nteats. Go on out of here.\" Gideon shooed her and she left the\ntable but not the roo"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 281130,
+      "end_pos": 281136,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Gideon",
+      "context": "t the\ntable but not the room. When she was quiet, Gideon waved\nhis arm about the house and told Son, \"You "
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 281570,
+      "end_pos": 281576,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Gideon",
+      "context": "ee wondering why, if there was\nplenty work there, Gideon wasn't doing any of it. \"How long\nhave you been w"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 282089,
+      "end_pos": 282095,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Gideon",
+      "context": "ong, you must have lost your citizenship\nby now.\"\nGideon shrugged. \"The U.S. is a bad place to die in,\" he"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 282655,
+      "end_pos": 282661,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Gideon",
+      "context": "s were bright and on him.\n\"You going back?\" asked Gideon, “to the island?”\n\"I don't know.\"\n\"You want to ge"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 282751,
+      "end_pos": 282757,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "want to get in there, don't you, eh? That yalla?\" Gideon\nstroked his chin.\n\"Man,\" said Son. \"Oh, man.\" He "
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 282903,
+      "end_pos": 282909,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": " his voice too. He didn't want her chewed\nover by Gideon's stone-white teeth. Didn't want her in Gideon's\n"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 282950,
+      "end_pos": 282956,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Gideon",
+      "context": "by Gideon's stone-white teeth. Didn't want her in Gideon's\nmind, his eye. It unnerved him to think that Gi"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 283004,
+      "end_pos": 283010,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Gideon",
+      "context": "on's\nmind, his eye. It unnerved him to think that Gideon had looked\nat her at all.\nThe old man heard the p"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 283672,
+      "end_pos": 283678,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Gideon",
+      "context": "hey put down.\"\n\"I'll be careful.”\n\"Come on,\" said Gideon. \"Let's go see some of the boys. Let\nme show you "
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 284137,
+      "end_pos": 284143,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Gideon",
+      "context": "cture\nwhich she tried her best to show him before Gideon pushed her\naway.\n\"TARZAN mind if I use his piano?"
+    },
+    {
+      "text": "job",
+      "start_pos": 289123,
+      "end_pos": 289126,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "he thought\nshe had better go to New York, do this job, and then return to\n159\nParis and Ryk. The idea o"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 293274,
+      "end_pos": 293280,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Gideon",
+      "context": "yesterday?\"\nIt bothered him that everybody called Gideon Yardman, as\nthough he had not been mothered. \"Yes"
+    },
+    {
+      "text": "job",
+      "start_pos": 296892,
+      "end_pos": 296895,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "You the kind of man that does worry me. You had\na job, you chucked it. You got in some trouble, you say"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 303043,
+      "end_pos": 303049,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "en he stood in the white towel watching Yardman's-Gideon's\n--back. But something had come loose in him, li"
+    },
+    {
+      "text": "John",
+      "start_pos": 303937,
+      "end_pos": 303941,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "John",
+      "context": "igger Jims.\nOthers were Calibans, Staggerlees and John Henrys. Anarchic,\nwandering, they read about thei"
+    },
+    {
+      "text": "job",
+      "start_pos": 306412,
+      "end_pos": 306415,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "e, no trophies. There was dice instead of tusk; a job\nwhen he wanted a journey. And the lion he believe"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 312789,
+      "end_pos": 312794,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "Money is-\"\n\"Who's that?\"\n\"Who's who?\"\n\"Thoreau.\"\n\"Jesus.\"\n\"Don't look disgusted. I'm illiterate.\"\n\"You're"
+    },
+    {
+      "text": "lot",
+      "start_pos": 323454,
+      "end_pos": 323457,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "t mean to scare you. Honest. I can\nlive without a lot of things, but I didn't want you to take your\nfee"
+    },
+    {
+      "text": "lot",
+      "start_pos": 323638,
+      "end_pos": 323641,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": " have a real life like most people, I've missed a\nlot. Don't take your feet away from me too.\"\n\"You are"
+    },
+    {
+      "text": "hope",
+      "start_pos": 328051,
+      "end_pos": 328055,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": " seat, there's a five-liter bottle. Use that.\"\n\"I hope you're right. That there's gas in that pump.”\n\"I "
+    },
+    {
+      "text": "hope",
+      "start_pos": 328105,
+      "end_pos": 328109,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": " you're right. That there's gas in that pump.”\n\"I hope I am too. If not, get some from the boat. I know "
+    },
+    {
+      "text": "numbers",
+      "start_pos": 332773,
+      "end_pos": 332780,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Numbers",
+      "context": "en he sways and shiver with him too.\nWhisper your numbers from one to fifty into the parts that have\nbeen l"
+    },
+    {
+      "text": "Moses",
+      "start_pos": 333560,
+      "end_pos": 333565,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Moses",
+      "context": "-\ngether the stones of pyramids and the rushes of Moses's crib;\nknowing their steady consistency, their p"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 336850,
+      "end_pos": 336855,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "Margaret followed her. \"Soap first. Then alcohol. Jesus, what\nis that stuff? It looks like pitch.\"\nIn the"
+    },
+    {
+      "text": "hope",
+      "start_pos": 337425,
+      "end_pos": 337429,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": "rry, Margaret, Michael will show. You'll see.\"\n\"I hope\nso. It's going to be so nice. I'm cooking everyth"
+    },
+    {
+      "text": "job",
+      "start_pos": 339542,
+      "end_pos": 339545,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "fore she could fall asleep. The soap had\ndone its job. The little feet he wanted so badly to see were c"
+    },
+    {
+      "text": "EVE",
+      "start_pos": 339720,
+      "end_pos": 339723,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Eve",
+      "context": "er themselves had touched the ground.\n6\nCHRISTMAS EVE'S EVE and even the goddamn hydran-\ngea had bloome"
+    },
+    {
+      "text": "EVE",
+      "start_pos": 339726,
+      "end_pos": 339729,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Eve",
+      "context": "mselves had touched the ground.\n6\nCHRISTMAS EVE'S EVE and even the goddamn hydran-\ngea had bloomed!\nThe"
+    },
+    {
+      "text": "Eve",
+      "start_pos": 342497,
+      "end_pos": 342500,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Eve",
+      "context": "n make the ol-\nlieballen ahead of time. Christmas Eve.\"\n\"You have the recipe?\"\n189\n\"I have it.\"\n\"What d"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 344275,
+      "end_pos": 344279,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "shes, I bet.\"\n“No, you don't.\"\n\"Who then? You? No Mary. No Yardman. They decide not\nto show up\nwithout t"
+    },
+    {
+      "text": "acts",
+      "start_pos": 346078,
+      "end_pos": 346082,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Acts",
+      "context": "w that. Cleaned him up and he looks fine and even acts all\nright. Look here. They pack a lunch, go off t"
+    },
+    {
+      "text": "lot",
+      "start_pos": 347653,
+      "end_pos": 347656,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "in she'll be out of here like\na shot. She's got a lot of cleaning up to do with Michael. It's\nsitting o"
+    },
+    {
+      "text": "lot",
+      "start_pos": 349705,
+      "end_pos": 349708,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "him to.\"\n\"And she never objected to it, Ondine. A lot of wives would\nhave.\"\n\"I suppose.\"\n\"Lay back. Put"
+    },
+    {
+      "text": "Eve",
+      "start_pos": 351046,
+      "end_pos": 351049,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Eve",
+      "context": "lephone. Mar-\ngaret would have caved in Christmas Eve except for the busy-ness\nof confirming the disast"
+    },
+    {
+      "text": "lot",
+      "start_pos": 359600,
+      "end_pos": 359603,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "With the young people there, teenagers.\nThere's a lot of suicide among Indian teenagers. The conditions"
+    },
+    {
+      "text": "Lot",
+      "start_pos": 361937,
+      "end_pos": 361940,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": " if she would be amused. She seemed not to hear.\n\"Lot of fat in a goose.\" Ondine was slicing her ham. “"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 363594,
+      "end_pos": 363600,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "ge. This is an old-fashioned Christmas.\"\n\"Too bad Gideon couldn't come.\" Son, who seemed to be the\nonly on"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 363733,
+      "end_pos": 363739,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "d been silent until then.\n\"Who?\" asked Valerian.\n\"Gideon. Yardman.\"\n\"His name is Gideon?\" asked Jadine.\n\"W"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 363764,
+      "end_pos": 363770,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Gideon",
+      "context": "\" asked Valerian.\n\"Gideon. Yardman.\"\n\"His name is Gideon?\" asked Jadine.\n\"What a beautiful name. Gideon.\" "
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 363811,
+      "end_pos": 363817,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "is Gideon?\" asked Jadine.\n\"What a beautiful name. Gideon.\" Valerian smiled.\n\"Well, at least we knew Mary's"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 363861,
+      "end_pos": 363865,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "Gideon.\" Valerian smiled.\n\"Well, at least we knew Mary's name. Mary,\" said Jadine.\n\"Nope,\" said Son.\n\"No"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 363874,
+      "end_pos": 363878,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "rian smiled.\n\"Well, at least we knew Mary's name. Mary,\" said Jadine.\n\"Nope,\" said Son.\n\"No?\"\n\"Thérèse.\""
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 363989,
+      "end_pos": 363995,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "Wonderful,\" said Valerian. \"Thérèse the Thief and\nGideon the Get Away Man.\"\nOndine looked up. \"They didn't"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 364281,
+      "end_pos": 364287,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "deboard for some more\nmashed potatoes and gravy.\n\"Gideon stole apples?\" asked Son.\n\"Yep.\" Valerian's back "
+    },
+    {
+      "text": "Mary",
+      "start_pos": 364408,
+      "end_pos": 364412,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "t him red-handed,\nso to speak. Them, rather. She, Mary, had them stuffed in her\nblouse. He had some in e"
+    },
+    {
+      "text": "job",
+      "start_pos": 370383,
+      "end_pos": 370386,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": " as\nif even staying on at the table let alone the job was hopeless.\nValerian, at the head of his Christ"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 370931,
+      "end_pos": 370937,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Gideon",
+      "context": "hing Margaret, agreeing with\nValerian and calling Gideon Yardman and never taking the\ntrouble to know his "
+    },
+    {
+      "text": "job",
+      "start_pos": 381556,
+      "end_pos": 381559,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "nt, I guess, or maybe she didn't want to lose\nher job.\" He kissed the other cheek.\n\"I always wondered w"
+    },
+    {
+      "text": "hope",
+      "start_pos": 383337,
+      "end_pos": 383341,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": "ge enough, maybe, to put\nyour whole self into.\n\"I hope you are serious,\" she said. She left her panties "
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 384378,
+      "end_pos": 384384,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "ber her name? Didn't Yardman\ntell you her name?”\n\"Gideon.\"\n\"Gideon. Didn't he introduce you?\"\n\"Go to sleep"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 384388,
+      "end_pos": 384394,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "me? Didn't Yardman\ntell you her name?”\n\"Gideon.\"\n\"Gideon. Didn't he introduce you?\"\n\"Go to sleep, Jadine.\""
+    },
+    {
+      "text": "lot",
+      "start_pos": 384734,
+      "end_pos": 384737,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "mebody who's not up to it, you sure bring it up a lot.”\n\"I know what's going to happen. I'll fall aslee"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 393150,
+      "end_pos": 393156,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "d to get out fast, so he used Jadine's ticket and\nGideon's passport, and split. She was to follow as soon "
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 394214,
+      "end_pos": 394220,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "m, they both might try to stop her. He could\ncall Gideon. He tried to remember that hillside hut, but all "
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 394355,
+      "end_pos": 394361,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "k walls and the record player\nsitting on a shelf. Gideon had no telephone, but messages got to\nhim via a s"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 394523,
+      "end_pos": 394529,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "t out hair clippers.\nThat was foolish. What could Gideon tell him anyway? He\nwas so angry at the Americans"
+    },
+    {
+      "text": "job",
+      "start_pos": 412824,
+      "end_pos": 412827,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "n jog in the park.\nThere wasn't a permanent adult job in the whole of the city\nfor him, so he did teena"
+    },
+    {
+      "text": "job",
+      "start_pos": 415589,
+      "end_pos": 415592,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "\nShe said, \"Not tonight, I don't,\" so he left the job hauling\nboxes and took her home.\nAll three, Nommo"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 420210,
+      "end_pos": 420216,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Gideon",
+      "context": "and\nEmpire State and figured out a way to collect Gideon's unem-\nployment checks.\nBut Jadine was not worri"
+    },
+    {
+      "text": "mark",
+      "start_pos": 423261,
+      "end_pos": 423265,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Mark",
+      "context": "e was saying it. “It's funny, but I would see the mark\nand hear him cry but somehow I didn't believe it "
+    },
+    {
+      "text": "Mark",
+      "start_pos": 423337,
+      "end_pos": 423341,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Mark",
+      "context": "somehow I didn't believe it hurt all that\nmuch.\" \"Mark\" she called it. She saw the mark. Didn't think it"
+    },
+    {
+      "text": "mark",
+      "start_pos": 423370,
+      "end_pos": 423374,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Mark",
+      "context": "all that\nmuch.\" \"Mark\" she called it. She saw the mark. Didn't think it\nhurt \"all that much.” Like a lab"
+    },
+    {
+      "text": "job",
+      "start_pos": 429061,
+      "end_pos": 429064,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "d to provide a solution. That was the future, her\njob at hand was to reveal the past. Right now she had"
+    },
+    {
+      "text": "lot",
+      "start_pos": 438212,
+      "end_pos": 438215,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "you.\"\n•\n\"No, I didn't. You . . you wasn't a whole lot on my mind.\"\n\"Oh, yes I was, and you felt good ha"
+    },
+    {
+      "text": "job",
+      "start_pos": 439118,
+      "end_pos": 439121,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "1\nmight tell Mr. Street and then we'd be out of a job-a good job.\nI don't know now what I thought, to t"
+    },
+    {
+      "text": "job",
+      "start_pos": 439129,
+      "end_pos": 439132,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "l Mr. Street and then we'd be out of a job-a good job.\nI don't know now what I thought, to tell the tru"
+    },
+    {
+      "text": "job",
+      "start_pos": 439695,
+      "end_pos": 439698,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "he blew out a breath and she\nwas old. \"Is that my job too? To stop you?\"\n\"No. It's not your job, Ondine"
+    },
+    {
+      "text": "job",
+      "start_pos": 439737,
+      "end_pos": 439740,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "that my job too? To stop you?\"\n\"No. It's not your job, Ondine. But I wish it had been your\nduty. I wish"
+    },
+    {
+      "text": "Sarah",
+      "start_pos": 448883,
+      "end_pos": 448888,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Sarah",
+      "context": "he\nsame time by news that some woman named Brown, Sarah or\nSally or Sadie-from the way they pronounced it"
+    },
+    {
+      "text": "Hope",
+      "start_pos": 451876,
+      "end_pos": 451880,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": "re a while back.\"\n\"They told me.\"\n\"Be at peace.\"\n\"Hope so.\"\n\"She slept with a shotgun every night.\"\n\"Huh"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 465062,
+      "end_pos": 465066,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "\"Today? You can't leave today.\"\n\"Why not?\"\n\"Ernie Paul is coming. We called him up. He left from Mont-\ng"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 465182,
+      "end_pos": 465186,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "e here Monday.\" Soldier was alarmed.\n\"Who's Ernie Paul?\"\n\"He's one of us. Grew up with Son and Drake and"
+    },
+    {
+      "text": "Sarah",
+      "start_pos": 467930,
+      "end_pos": 467935,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Sarah",
+      "context": " Rosa and\nThérèse and Son's dead mother and Sally Sarah Sadie Brown\nand Ondine and Soldier's wife Ellen a"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 471354,
+      "end_pos": 471358,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " not function elsewhere. An excuse to fish.\nErnie Paul could come to New York-faster, even, if he flew. "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 472275,
+      "end_pos": 472279,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " there. Of course I'll be there. Waiting.\"\n\"Ernie Paul has a car. I'll go back to Montgomery with him\nto"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 472858,
+      "end_pos": 472862,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ave called. She imagined him carousing with Ernie Paul\nand Soldier. Then another weekend rolled by and s"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 472962,
+      "end_pos": 472966,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "till no Son.\nApparently he knew how to call Ernie Paul but not how to call\nher. She thought of calling E"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 476714,
+      "end_pos": 476718,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " him. He thought she was fighting him about\nErnie Paul and being late and not calling. She thought so to"
+    },
+    {
+      "text": "job",
+      "start_pos": 477034,
+      "end_pos": 477037,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "that had nothing to show but breasts.\nHe needed a job, a degree, she said. They should go in business\nf"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 481355,
+      "end_pos": 481361,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "want to be a\nyardman all your life?\"\n\"His name is Gideon! Gideon! Not Yardman, and Mary\nThérèse Foucault, "
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 481363,
+      "end_pos": 481369,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "be a\nyardman all your life?\"\n\"His name is Gideon! Gideon! Not Yardman, and Mary\nThérèse Foucault, you hear"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 481388,
+      "end_pos": 481392,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "e?\"\n\"His name is Gideon! Gideon! Not Yardman, and Mary\nThérèse Foucault, you hear me! Why don't you ask "
+    },
+    {
+      "text": "job",
+      "start_pos": 481875,
+      "end_pos": 481878,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "hem\ndown there with him not knowing if they had a job or not. You\nshould cook for them. What the hell k"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 481979,
+      "end_pos": 481985,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "nd of education is it that\ndidn't teach you about Gideon and Old Man and me. Nothing\nabout me!\"\nWhen he pu"
+    },
+    {
+      "text": "job",
+      "start_pos": 490320,
+      "end_pos": 490323,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "ife. So have that white\n\"\nman's baby, that's your job. You have been doing it for two hun-\ndred years, "
+    },
+    {
+      "text": "last supper",
+      "start_pos": 499176,
+      "end_pos": 499187,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Last Supper",
+      "context": "t in case-no\nexplanatory, loophole-laden note. No last supper. New York had\nagreed with her exit. A cab right a"
+    },
+    {
+      "text": "job",
+      "start_pos": 502472,
+      "end_pos": 502475,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "d.\nI can't expect Sydney to do this. It's not his job really. Ondine's\neither. I really could use you n"
+    },
+    {
+      "text": "hope",
+      "start_pos": 506633,
+      "end_pos": 506637,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": "ver, Nanadine, besides, I hit him too.\"\n\"I should hope so. I should damn well hope so. Oh, baby, baby,\nh"
+    },
+    {
+      "text": "hope",
+      "start_pos": 506661,
+      "end_pos": 506665,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": "t him too.\"\n\"I should hope so. I should damn well hope so. Oh, baby, baby,\nhow could you run off with a\n"
+    },
+    {
+      "text": "hope",
+      "start_pos": 513870,
+      "end_pos": 513874,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": "\"From what she says he beat her up some.\"\n\"Then I hope he does come,\" said Sydney. \"I'll put that bullet"
+    },
+    {
+      "text": "lot",
+      "start_pos": 524298,
+      "end_pos": 524301,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "cs were shoved in there and she dropped the whole lot\neyes\ninto the girl's plastic pail. \"Bye, Mary, I "
+    },
+    {
+      "text": "Mary",
+      "start_pos": 524343,
+      "end_pos": 524347,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "hole lot\neyes\ninto the girl's plastic pail. \"Bye, Mary, I have to go. Good luck.”\nJadine pushed open the"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 531017,
+      "end_pos": 531023,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Gideon",
+      "context": "an French he'd learned in Vietnam, he simply said\nGideon? Thérèse? The owner and another man told him some"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 531134,
+      "end_pos": 531140,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "could not understand about Thérèse, and mentioned\nGideon's name in connection with \"taxi.\" He nodded and s"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 532051,
+      "end_pos": 532057,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Gideon",
+      "context": "nce, glancing at the\ndrivers of the taxis in case Gideon might be one. Three hours of\nwalking and he was n"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 533322,
+      "end_pos": 533326,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "n, Rascal,\nTurner and Soldier and Drake and Ernie Paul who left the serv-\nice a first lieutenant and now"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 535989,
+      "end_pos": 535995,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Gideon",
+      "context": "d added nothing to it.\nHe smiled. \"What work does Gideon do now?\"\n\"Hires out,\" she said. \"To taxi men.\"\nDr"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 537551,
+      "end_pos": 537557,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Gideon",
+      "context": "from the awkwardness and walk around outside\nwhen Gideon came in. The day's disappointment ran from his\nfa"
+    },
+    {
+      "text": "hope",
+      "start_pos": 537842,
+      "end_pos": 537846,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": "end to.\"\n\"Isle des Chevaliers?\"\n\"Yes.\"\n\"Murder, I hope.\" Gideon took off his shirt and walked to the\nsin"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 537849,
+      "end_pos": 537855,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "\"\n\"Isle des Chevaliers?\"\n\"Yes.\"\n\"Murder, I hope.\" Gideon took off his shirt and walked to the\nsink.\nSon sh"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 537946,
+      "end_pos": 537952,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "k.\nSon shook his head. \"I need some information.\"\nGideon leaned over the sink washing his hands and face.\n"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 538102,
+      "end_pos": 538108,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "il and\nhanded it to him.\n\"What you want to know?\" Gideon asked, drying his ears.\n\"If she's there. If she's"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 538199,
+      "end_pos": 538205,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Gideon",
+      "context": " If she's not, I need an address.\"\n\"Christ,\" said Gideon, and snapped his cloth in disgust. “I\nknew it. Th"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 538585,
+      "end_pos": 538591,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Gideon",
+      "context": "t\ngrunts, \"Unh, unh, unh, unh.”\n\"Stop that!\" said Gideon. \"Fix some food, for Christ's sake!\"\nThérèse stoo"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 538825,
+      "end_pos": 538831,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "sied herself picking stones out of the rice while\nGideon told Son that the yalla was gone.\n\"She was here? "
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 539919,
+      "end_pos": 539925,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Gideon",
+      "context": "ss for him—to decide to go looking, and from what Gideon said\nit was a week ago that she was here; she mus"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 540007,
+      "end_pos": 540013,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": " was here; she must have left almost\nimmediately.\nGideon opened his paper bag and took out a bottle of bee"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 540969,
+      "end_pos": 540975,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "n\nit? Let that go? \"I can't,\" he said. \"I can't.\"\nGideon swallowed his beer and they were both quiet until"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 541976,
+      "end_pos": 541980,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "do-\ning thinking that Drake and Soldier and Ernie Paul were more\nprecious than Catherine the Great's ear"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 542914,
+      "end_pos": 542920,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "reased and played\na middle ear drone in his head.\nGideon tapped him on the shoulder and he sat down.\n\"Leav"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 545244,
+      "end_pos": 545250,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "n it and revolted by the\nsibility of being freed.\nGideon interrupted his questions. \"What will you do?\"\npo"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 545495,
+      "end_pos": 545501,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Gideon",
+      "context": "way from him.\"\n\"A woman, man. Just a woman,\" said Gideon patiently.\n\"I have to find her.\"\n\"How? Paris is a"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 546412,
+      "end_pos": 546418,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "nother man's shoulder.\n\"Get me there,\" he said to Gideon. \"Now, while there is still\nlight.\"\nGideon ran hi"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 546455,
+      "end_pos": 546461,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "aid to Gideon. \"Now, while there is still\nlight.\"\nGideon ran his tongue over his stone-white teeth. \"No. I"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 546811,
+      "end_pos": 546817,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Gideon",
+      "context": "\"\n\"All right. I'll take the launch.”\n\"Good,\" said Gideon. \"Take the launch. In two days maybe\nyou'll be co"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 547478,
+      "end_pos": 547484,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Gideon",
+      "context": "eated.\n\"The sun's going down. You'll drown!\" said Gideon. “We'll\nfish off the beach in the morning.\"\nyou\n\""
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 547728,
+      "end_pos": 547734,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Gideon",
+      "context": "d. \"Get me there, Thérèse.\"\n\"Two big fools,\" said Gideon. \"One blind, the other gone\nmad!\"\n\"Eat,\" said Thé"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 547966,
+      "end_pos": 547972,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Gideon",
+      "context": "nd I can't get hungry.\"\n\"Come with me then,\" said Gideon. \"Let's go out. Go to\nGrande Cinq, have a drink a"
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 548091,
+      "end_pos": 548097,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "\n\"No,\" he said. \"I don't want a woman.\"\n\"Christ!\" Gideon was disgusted. He never got over being\namazed at "
+    },
+    {
+      "text": "Gideon",
+      "start_pos": 548507,
+      "end_pos": 548513,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Gideon",
+      "context": "he table, Son alone not eating the fish and rice. Gideon told\nstories about women he had known: their \"wil"
+    }
+  ],
+  "by_type": {
+    "character_reference": 162,
+    "thematic_reference": 47
+  },
+  "statistics": {
+    "avg_confidence": 0.7897129186602865,
+    "high_confidence_count": 103
+  },
+  "metadata": {
+    "filename": "uc1.32106005767956.txt",
+    "analysis_date": "2025-12-04T00:11:39.875396",
+    "text_length": 558223,
+    "analyzer": "BiblicalAllusionDetector v1.0"
+  }
+}

@@ -1,0 +1,275 @@
+novel_title,allusion_text,start_pos,end_pos,allusion_type,confidence,biblical_source,context
+Paradise (1998),Solomon,69,76,character_reference,0.85,Solomon,ORRISON The Bluest Eye (1970) Sula (1974) Song of Solomon (1977) Tar Baby (1981) Beloved (1987) Jazz (1992)
+Paradise (1998),Jesus,12177,12182,character_reference,0.85,Jesus,"Christians—well, Catholics anyway-not a cross of Jesus anywhere. But what alarms the two men most is the"
+Paradise (1998),Jordan,18211,18217,character_reference,0.85,Jordan,"amb, pepper rice, Lil Green, ""In the Dark,"" Louis Jordan and His Tympany Five; homemade beer and groundhog"
+Paradise (1998),Esther,18550,18556,thematic_reference,0.9,Esther,"es were simply company: Ace's spotted horse, Miss Esther's ancient featherweight, all four of Nathan's plo"
+Paradise (1998),Jesus,22445,22450,character_reference,0.85,Jesus,s new paint is the space where there used to be a Jesus. The brothers approaching the cellar were once id
+Paradise (1998),Mary,37688,37692,character_reference,0.85,Mary,"ve the clover. Bodacious black Eves unredeemed by Mary, they are like pan- icked does leaping toward a s"
+Paradise (1998),James,39154,39159,thematic_reference,0.9,James,arm around her mother's waist. Frankie and Billy James were squished together on her right. Sal pinched
+Paradise (1998),James,40851,40856,thematic_reference,0.9,James,"for each and every one of you."" Frankie and Billy James looked down at their bare feet. Sal rested her he"
+Paradise (1998),James,41815,41820,thematic_reference,0.9,James,"out back,"" said Frankie. ""Groundhog,"" said Billy James. ""Shut!"" Sal leaned over Mavis' stomach and point"
+Paradise (1998),Mary,44374,44378,character_reference,0.7,Mary,neighborhood and could now be seen by anybody in Mary- land since the photographer had taken more shots
+Paradise (1998),James,46749,46754,thematic_reference,0.9,James,"eliciting peals of laughter from Sal. When Billy James spit Kool-Aid into Mavis' plate, his father said,"
+Paradise (1998),James,48989,48994,thematic_reference,0.9,James,"she knew, the signal-to Sal, to Frankie, to Billy James. The rest of the night she waited, not closing he"
+Paradise (1998),lot,54435,54438,character_reference,0.7,Lot,"ons or dollars, m'am?"" ""Gallons."" In the adjacent lot, Mavis noticed the window of a breakfast diner re"
+Paradise (1998),lot,64212,64215,character_reference,0.7,Lot,"e that touched her thighs. Outside in the parking lot, the girl ran to the Cadillac's passenger window"
+Paradise (1998),redemption,66578,66588,thematic_reference,0.8,Redemption,"big, Bennie sang. Songs of true love, false love, redemption; songs of unreasonable joy. Some drew tears, othe"
+Paradise (1998),job,77027,77030,thematic_reference,0.9,Job,"r smell was walnuts, not pecans. ""What about your job here?"" Mavis forced herself to taste a tiny bit o"
+Paradise (1998),grace,81390,81395,thematic_reference,0.8,Grace,"economize her gestures without sacrificing their grace. Connie, having launched her into the chore, was"
+Paradise (1998),lot,84723,84726,character_reference,0.7,Lot,"pecans, or is this your idea?"" ""My idea."" ""Make a lot of pies."" ""Make more than pie."" Connie rinsed the"
+Paradise (1998),Solomon,87934,87941,character_reference,0.85,Solomon,"hey were made by his family or best friends: King Solomon, Brother Otis, Dinah baby, Ike and Tina girl, Sis"
+Paradise (1998),Jude,89033,89037,thematic_reference,0.9,Jude,"been horrified-and he drove off accompanying ""Hey Jude"" on his radio. Behind the wheel, cooling in the a"
+Paradise (1998),lot,91769,91772,character_reference,0.7,Lot,"dren?"" Mavis could not speak. ""There used to be a lot of children here. This was a school once. A beaut"
+Paradise (1998),hope,100248,100252,thematic_reference,0.8,Hope,"ousins had been buried two years ago, K.D., their hope and their despair, was the last male in a line th"
+Paradise (1998),hope,102077,102081,thematic_reference,0.8,Hope,than end runs around white law. He obviously had hope for a state that had once decided to build a whol
+Paradise (1998),Gomorrah,116608,116616,character_reference,0.85,Gomorrah,"inoculars), said no, they were two males- bold as Gomorrah. Mikey, however, had touched the body parts and k"
+Paradise (1998),Jesus,126938,126943,character_reference,0.85,Jesus,"hind her but couldn't see through the partition. ""Jesus! Shit! This here's a hearse?"" ""Sometimes. Sometim"
+Paradise (1998),lot,131425,131428,character_reference,0.7,Lot,always misleading. He must have planned to have a lot of good-time company in his fortress: eight bedro
+Paradise (1998),Grace,135444,135449,thematic_reference,0.8,Grace,"me you?"" ""Her? She gave me her own name. ""Well?"" ""Grace."" ""Grace. What could be better?"" Nothing. Nothing"
+Paradise (1998),Grace,135453,135458,thematic_reference,0.8,Grace,"""Her? She gave me her own name. ""Well?"" ""Grace."" ""Grace. What could be better?"" Nothing. Nothing at all."
+Paradise (1998),grace,135602,135607,thematic_reference,0.8,Grace,"simple good fortune took to their heels and fled, grace alone might have to do. But from where would it c"
+Paradise (1998),grace,135741,135746,thematic_reference,0.8,Grace,"low between sighting and following through, could grace slip through at all? It was the I-give woman serv"
+Paradise (1998),Grace,141132,141137,thematic_reference,0.8,Grace,"e, and where are her clothes?"" ""Oh, that's little Grace. She came the day after Mother died."" ""Died? When"
+Paradise (1998),Grace,141587,141592,thematic_reference,0.8,Grace,"put some clothes on!"" ""You kiss my ass!"" ""Do it, Grace,"" said Connie. ""Go, like a good girl. Cover yours"
+Paradise (1998),Esther,147231,147237,thematic_reference,0.9,Esther,"ecause some young people, by snicker- ing at Miss Esther's finger memory, had insulted entire generations"
+Paradise (1998),Esther,147347,147353,thematic_reference,0.9,Esther,"them. They had not suggested, politely, that Miss Esther may have been mistaken; they howled at the notion"
+Paradise (1998),Calvary,148364,148371,character_reference,0.7,Calvary,"belonged to all, and all were asked to show up at Calvary. To discuss it, Reverend Misner said. The weather"
+Paradise (1998),lot,149671,149674,character_reference,0.7,Lot,"governor, an ex-banker, an ex-deacon and a whole lot of other exes, and he wasn't making his own way;"
+Paradise (1998),Esther,154274,154280,thematic_reference,0.9,Esther,"There is no 'Beware' on it."" ""You weren't there! Esther was! And you weren't here, either, at the beginni"
+Paradise (1998),Esther,154334,154340,thematic_reference,0.9,Esther,"! And you weren't here, either, at the beginning! Esther was!"" Arnold Fleetwood's right hand shook with wa"
+Paradise (1998),Esther,154495,154501,thematic_reference,0.9,Esther,"said Misner. Now Fleet joined Deek in the aisle. ""Esther never made a mistake of that nature in her life."
+Paradise (1998),Calvary,156409,156416,character_reference,0.7,Calvary,"ame back to her. Driving away from the meeting at Calvary, Steward and Dovey had a small but familiar disag"
+Paradise (1998),Matthew,156843,156850,thematic_reference,0.9,Matthew,e appeared. But the little house they kept on St. Matthew Street-a foreclosure the twins never resold-was b
+Paradise (1998),Calvary,156974,156981,character_reference,0.7,Calvary,"me to Dovey. It was close to her sister, to Mount Calvary, the Women's Club. It was also where her Friend c"
+Paradise (1998),lot,157940,157943,character_reference,0.7,Lot,"ven bank their father owned collapsed for a whole lot of reasons, and one of them, Steward maintained,"
+Paradise (1998),Matthew,158560,158567,thematic_reference,0.9,Matthew,nt of Pat's own house. Dovey turned left into St. Matthew Street. The moon's light glittered white fences g
+Paradise (1998),John,159964,159968,thematic_reference,0.9,John,"bale or live weight, into Kelvinators as well as John Deere; into Philco as well as Body by Fisher. The"
+Paradise (1998),Matthew,166475,166482,thematic_reference,0.9,Matthew,"ore frequently she found reasons to remain on St. Matthew Street. Not hoping or looking for him, but conten"
+Paradise (1998),Calvary,166853,166860,character_reference,0.7,Calvary,"ng of the argument with the young people at Mount Calvary, Dovey stuck the key in the lock of the foreclose"
+Paradise (1998),psalms,167084,167090,thematic_reference,0.9,Psalms,"with a cup of hot tea, read some verses or a few psalms and collect her thoughts on the matter that was a"
+Paradise (1998),Zechariah,176241,176250,thematic_reference,0.9,Zechariah,"roaning effort knelt down. ""My Father,"" he said. “Zechariah here."" Then, after a few seconds of total silence"
+Paradise (1998),Zechariah,178358,178367,thematic_reference,0.9,Zechariah,"lking man was in sight, but the peace that washed Zechariah's face spread to their own spirits, calming them."
+Paradise (1998),Zechariah,178440,178449,thematic_reference,0.9,Zechariah,"own spirits, calming them. ""He is with us,"" said Zechariah. “He is leading the way."" From then on, the journ"
+Paradise (1998),Zechariah,178994,179003,thematic_reference,0.9,Zechariah,did not hear them. Nobody saw the walking man but Zechariah and sometimes a child. Rector never saw him again
+Paradise (1998),Zechariah,181761,181770,thematic_reference,0.9,Zechariah,"ssed enough tests long enough, he was king. Maybe Zechariah never wanted to eat another stick-roasted rab- bi"
+Paradise (1998),Zechariah,182149,182158,thematic_reference,0.9,Zechariah,"agon with two horses the State Indians lent them, Zechariah corralled some of the men into building a cook ov"
+Paradise (1998),Calvary,188991,188998,character_reference,0.7,Calvary,Pastor Cary at Holy Redeemer. Nothing was said at Calvary right away because that con- gregation was still
+Paradise (1998),Calvary,190427,190434,character_reference,0.7,Calvary,r think up devilment. The way it was before Mount Calvary was completed. When baptisms were held in sweet w
+Paradise (1998),Calvary,191373,191380,character_reference,0.7,Calvary,"n. To dry, embrace, congratulate one another. Now Calvary had an inside pool; New Zion and Holy Redeemer ha"
+Paradise (1998),Deuteronomy,192643,192654,thematic_reference,0.9,Deuteronomy,"ame a shrine (cautioned against not only in scary Deuteronomy but in lovely Corinthians II as well) and, like a"
+Paradise (1998),Hope,197080,197084,thematic_reference,0.8,Hope,"clothes. ""Brought three payments in the next day. Hope he can keep up the rest. Not enough hospital or m"
+Paradise (1998),John,199515,199519,thematic_reference,0.9,John,"hree-fourths of a mile. From his own house on St. John Street, he turned right at the corner onto Centra"
+Paradise (1998),Luke,199579,199583,thematic_reference,0.9,Luke,"e turned right at the corner onto Central, passed Luke, Mark and Matthew, then parked neatly in front of"
+Paradise (1998),Mark,199585,199589,thematic_reference,0.9,Mark,"ed right at the corner onto Central, passed Luke, Mark and Matthew, then parked neatly in front of the b"
+Paradise (1998),Matthew,199594,199601,thematic_reference,0.9,Matthew,"at the corner onto Central, passed Luke, Mark and Matthew, then parked neatly in front of the bank. The sil"
+Paradise (1998),Calvary,205976,205983,character_reference,0.7,Calvary,"red and eternal. The morning after the meeting at Calvary, pleased with his bird quota and fired, not tired"
+Paradise (1998),lot,207063,207066,character_reference,0.7,Lot,ver. When he and Steward had enlisted there was a lot to learn-from how to tie an army tie to how to pa
+Paradise (1998),Zechariah,213243,213252,thematic_reference,0.9,Zechariah,"rightful heirs, would have repeated exactly what Zechariah and Rector had done? But since part of the charge"
+Paradise (1998),Peter,215595,215600,character_reference,0.85,Peter,". When a fifth street was needed it was named St. Peter. Later on, as Ruby grew, streets were laid on the"
+Paradise (1998),John,215817,215821,thematic_reference,0.9,John,from them— they acquired secondary names. So St. John Street on the east become Cross John on the west.
+Paradise (1998),John,215854,215858,thematic_reference,0.9,John,ames. So St. John Street on the east become Cross John on the west. St. Luke became Cross Luke. The sani
+Paradise (1998),Luke,215876,215880,thematic_reference,0.9,Luke,et on the east become Cross John on the west. St. Luke became Cross Luke. The sanity of this pleased mos
+Paradise (1998),Luke,215894,215898,thematic_reference,0.9,Luke,"ome Cross John on the west. St. Luke became Cross Luke. The sanity of this pleased most everybody, Deek"
+Paradise (1998),Peter,216180,216185,character_reference,0.7,Peter,oman Deek was watching seemed to be leaving Cross Peter Street and heading toward Sargeant's Feed and See
+Paradise (1998),Aaron,216668,216673,character_reference,0.85,Aaron,"coming in from south country. Its driver would be Aaron Poole, late, as Deek knew he would be, since he w"
+Paradise (1998),Zechariah,219026,219035,thematic_reference,0.9,Zechariah,"r. Rector Morgan, also known as Big Daddy. Son of Zechariah Morgan, known throughout Christendom as Big Papa."
+Paradise (1998),Calvary,221233,221240,character_reference,0.7,Calvary,"came riding into town, alone, in a beat-up Ford. Calvary's new minister. Anna folded her arms on the woode"
+Paradise (1998),Hope,221908,221912,thematic_reference,0.8,Hope,"from, all that might be true. Ruby's different."" ""Hope so."" ""Is so. Any problem brewing sure ain't money"
+Paradise (1998),lot,222197,222200,character_reference,0.7,Lot,"They're just kids.” ""That fist painting scared a lot of people."" ""Why? It was a picture! You'd think s"
+Paradise (1998),faith,226988,226993,thematic_reference,0.8,Faith,"y Redeemer. ""This might get serious."" Ace Flood's faith had been the mountain-moving kind, so he built hi"
+Paradise (1998),lot,227463,227466,character_reference,0.7,Lot,"t he had. He didn't have many things but he had a lot of what he stocked. Before he died, he saw his st"
+Paradise (1998),Jesus,230754,230759,character_reference,0.85,Jesus,"e this? Can't think of every damn thing, can you? Jesus."" ""Your baby coughing? I don't believe you need c"
+Paradise (1998),numbers,231143,231150,thematic_reference,0.9,Numbers,"ind it then? Houses round here don't seem to have numbers."" “Tell me what all you want and I'll get it for"
+Paradise (1998),Calvary,238827,238834,character_reference,0.7,Calvary,"ast New Zion, Harper's Drugstore, the bank, Mount Calvary. She detoured into Cross Peter, left it and walke"
+Paradise (1998),Peter,238860,238865,character_reference,0.85,Peter,"the bank, Mount Calvary. She detoured into Cross Peter, left it and walked past Sargeant's Feed and Seed"
+Paradise (1998),grace,246225,246230,thematic_reference,0.8,Grace,"- ing next to her. The sign of Sweetie's state of grace was how badly the warm snow whipped the shape, si"
+Paradise (1998),numbers,251979,251986,thematic_reference,0.9,Numbers,as though she might have trouble remembering five numbers in a row. She had brought ham sandwiches too (his
+Paradise (1998),job,253487,253490,thematic_reference,0.9,Job,es. He didn't want to hear anything about her new job at a school cafeteria. Only Sophie and Bernard in
+Paradise (1998),job,256207,256210,thematic_reference,0.9,Job,"Wichita's soft evening air. She had not quit her job to make this trip, but the supervisor made it cle"
+Paradise (1998),job,261279,261282,thematic_reference,0.9,Job,"lls. “It's okay, dear. You don't have to take the job if you don't want it."" ""I didn't say I didn't.” """
+Paradise (1998),hope,261597,261601,thematic_reference,0.8,Hope,A little? I want somebody not from around here. I hope five hundred is enough. I could go a little highe
+Paradise (1998),David,261684,261689,character_reference,0.85,David,"go a little higher for a really intelligent girl. David will drive you back to the bus station, even if y"
+Paradise (1998),job,261765,261768,thematic_reference,0.9,Job,"e bus station, even if you decide not to take the job. Only then did Seneca realize the limousine was n"
+Paradise (1998),David,262682,262687,character_reference,0.85,David,"you? Good. Your lips are lovely like that. I told David, find an intelligent girl, please. No farmgirls."
+Paradise (1998),David,263114,263119,character_reference,0.85,David,meone local. Are those your own lashes? Gracious. David? Do you know if Mattie cooked a real supper tonig
+Paradise (1998),hope,263184,263188,thematic_reference,0.8,Hope,"f Mattie cooked a real supper tonight? No fish, I hope, or do you like fish? Trout's wonderful in Kansas"
+Paradise (1998),David,264096,264101,character_reference,0.85,David,"lothes, including a cashmere serape. As promised, David drove her to the bus station, his buttons extra g"
+Paradise (1998),job,264346,264349,thematic_reference,0.9,Job,At a loss as to where to go or what to do. Get a job near the prison and stand by him? Meaning follow
+Paradise (1998),Calvary,270480,270487,character_reference,0.7,Calvary,"inting repeatedly that they belonged in Zion, not Calvary, where they had to listen to the namby-pamby serm"
+Paradise (1998), Revelation 19:7,274072,274088,direct_quote,0.95,Revelation 19:7,"rite of mat- rimony, crafted them carefully around Revelation 19:7,9, sharpening the ""marriage supper of the Lamb"" i"
+Paradise (1998),Revelation,274227,274237,thematic_reference,0.9,Revelation,"liation this wedding promised. He had segued from Revelation to Matthew 19:6, ""Wherefore they are no more twai"
+Paradise (1998), Matthew 19:6,274240,274253,direct_quote,0.95,Matthew 19:6,"wedding promised. He had segued from Revelation to Matthew 19:6, ""Wherefore they are no more twain, but one flesh"
+Paradise (1998),mark,276964,276968,thematic_reference,0.9,Mark,"d Druids-all had a finger memory of this original mark. The circle was not first, nor was the parallel o"
+Paradise (1998),mark,277046,277050,thematic_reference,0.9,Mark,"nor was the parallel or the triangle. It was this mark, this, that lay underneath every other. This mark"
+Paradise (1998),mark,277096,277100,thematic_reference,0.9,Mark,"mark, this, that lay underneath every other. This mark, rendered in the placement of facial features. Th"
+Paradise (1998),mark,277153,277157,thematic_reference,0.9,Mark,endered in the placement of facial features. This mark of a standing human figure poised to embrace. Rem
+Paradise (1998), Jeremiah 1:5,286684,286697,direct_quote,0.95,Jeremiah 1:5,"Reverend Pulliam had preached a sermon taken from Jeremiah 1:5: ""Before I formed thee in the belly I knew thee,"
+Paradise (1998),Paul,286843,286847,character_reference,0.85,Paul,"sanctified thee."" Reverend Misner countered with Paul's words to the Corinthians: “... the greatest of"
+Paradise (1998),job,293691,293694,thematic_reference,0.9,Job,"mental thing she would ever do in Ruby. She got a job in Demby, bought a car and probably would have dr"
+Paradise (1998),Jesus,306472,306477,character_reference,0.85,Jesus,"before this stern preacher's wife, thinking: Dear Jesus, I wouldn't last an hour in this town if I marrie"
+Paradise (1998),grace,309358,309363,thematic_reference,0.8,Grace,", lay in the amazing shapes and substances. God's grace took: gospel in times of persecution; the exquisi"
+Paradise (1998),Job,309535,309538,thematic_reference,0.9,Job,se who let no boot hold them down-people who made Job's patience look like restlessness. Elegance when
+Paradise (1998),lot,323488,323491,character_reference,0.7,Lot,ned him. Pallas had met him in the school parking lot the day her Toyota wouldn't start. Actually met h
+Paradise (1998),job,324578,324581,thematic_reference,0.9,Job,e thing fell into place. Car- los could leave his job with little outcry during the holidays. Milton Tr
+Paradise (1998),Mary,336717,336721,character_reference,0.85,Mary,"ifficult to see, but Seneca recognized the Virgin Mary, the pair of shiny nun shoes, the rosary and, on"
+Paradise (1998),hope,336911,336915,thematic_reference,0.8,Hope,nnie. Seneca sat down on the floor. She had scant hope that Pallas would say much if anything at all. Bu
+Paradise (1998),lot,341628,341631,character_reference,0.7,Lot,Billie turned to watch her friend's car leave the lot then looked down at the vomit. Without making a f
+Paradise (1998),Genesis,356181,356188,thematic_reference,0.9,Genesis,"ral scent was in the air, sweeping down from some Genesis time when volcanoes stirred and lava cooled quick"
+Paradise (1998),Zechariah,361984,361993,thematic_reference,0.9,Zechariah,rse Bible and what the heavy ink blot hid next to Zechariah's name in the Morgan Bible. Her father told her s
+Paradise (1998),Zechariah,364321,364330,thematic_reference,0.9,Zechariah,"announce themselves, while the others waited with Zechariah, who was too lame by then to stand unaided and st"
+Paradise (1998),Peter,366715,366720,character_reference,0.85,Peter,"eir shovels: Drum Blackhorse, his sons Thomas and Peter, Rector Morgan, Able Flood, Brood Poole, Sr., and"
+Paradise (1998),Zechariah,366954,366963,thematic_reference,0.9,Zechariah,"around it. Fulton Best fashioned a sturdy cross. Zechariah, flanked by two of his boys, Shepherd and Pryor,"
+Paradise (1998),Zechariah,368579,368588,thematic_reference,0.9,Zechariah,"om where? His first name, Coffee, was the same as Zechariah's before he changed it to run for lieutenant gove"
+Paradise (1998),Zechariah,369262,369271,thematic_reference,0.9,Zechariah,"prolific as the earlier ones. They were not like Zechariah Morgan (aka Big Papa, né Coffee) m. Mindy Flood ["
+Paradise (1998),Zechariah,369845,369854,thematic_reference,0.9,Zechariah,"'Queenie.'"" Another com- ment, threaded out from Zechariah's name and led by arrows, spread to the back of t"
+Paradise (1998),John,370207,370211,thematic_reference,0.9,John,"thing or someplace he liked. Zacharias, father of John the Bap- tist? or the Zechariah who had visions?"
+Paradise (1998),Zechariah,370234,370243,thematic_reference,0.9,Zechariah,". Zacharias, father of John the Bap- tist? or the Zechariah who had visions? The one who saw scrolls of curse"
+Paradise (1998),Joshua,370333,370339,thematic_reference,0.9,Joshua,s of curses and women in baskets; the one who saw Joshua's filthy clothes changed into rich ones; who saw
+Paradise (1998),Zechariah,370572,370581,thematic_reference,0.9,Zechariah,"d made desolate. All of that would fit nicely for Zechariah Morgan: the curse, the women stuffed into a bas-"
+Paradise (1998),Zechariah,371476,371485,thematic_reference,0.9,Zechariah,h with them if you didn't know. That would be the Zechariah Coffee would have chosen for himself. That would
+Paradise (1998),Joshua,371611,371617,thematic_reference,0.9,Joshua,"had heard some mighty preacher tell the story of Joshua crowned. He would not name himself after Joshua,"
+Paradise (1998),Joshua,371659,371665,thematic_reference,0.9,Joshua,"f Joshua crowned. He would not name himself after Joshua, the king, but after the witness to whom God and"
+Paradise (1998),Zechariah,372199,372208,thematic_reference,0.9,Zechariah,". Because the Morgan line was crop feeble. One of Zechariah's (Big Papa's) sons, Rector, had seven children w"
+Paradise (1998),Zechariah,372487,372496,thematic_reference,0.9,Zechariah,"-all of whom moved from Haven to northern states. Zechariah would have hated that. Moving would have been ""sc"
+Paradise (1998),mark,373007,373011,thematic_reference,0.9,Mark,"one of the intact nine fami- lies, had the little mark she had chosen to put after their names: 8-R. An"
+Paradise (1998),Zechariah,374292,374301,thematic_reference,0.9,Zechariah,"ded his days as a street sweeper. But they alone (Zechariah Morgan and Juvenal DuPres in Louisiana, Drum Blac"
+Paradise (1998),Zechariah,375782,375791,thematic_reference,0.9,Zechariah,d had become a stain. The scattering that alarmed Zechariah because he believed it would deplete them was now
+Paradise (1998),Zechariah,376134,376143,thematic_reference,0.9,Zechariah,"generations of 8-rock males did scatter, just as Zechariah feared, into the army, it could have been over an"
+Paradise (1998),Aaron,377083,377088,character_reference,0.85,Aaron,"or- gan, Steward Morgan, William Cato, Ace Flood, Aaron Poole, Nathan DuPres, Moss DuPres, Arnold Fleetwo"
+Paradise (1998),John,377189,377193,thematic_reference,0.9,John,"d, Ossie Beauchamp, Harper Jury, Sargeant Person, John Seawright, Edward Sands and Pat's father, Roger B"
+Paradise (1998),Zechariah,377709,377718,thematic_reference,0.9,Zechariah,y longer than a night's rest. The story went that Zechariah Morgan and Drum Blackhorse forbade the women to e
+Paradise (1998),Zechariah,378248,378257,thematic_reference,0.9,Zechariah,"was never spoken of, except for the hint in words Zechariah forged for the Oven. More than a rule. A conundru"
+Paradise (1998),lot,379989,379992,character_reference,0.7,Lot,", as you and everybody knew I would. Notice how a lot of those Sands who married Seawrights are careful"
+Paradise (1998),Peter,381143,381148,character_reference,0.85,Peter,"r the rest of her life.) Since Bitty Cato married Peter Blackhorse, and since her daughter, Fawn Blackhor"
+Paradise (1998),Peter,381239,381244,character_reference,0.85,Peter,"Blackhorse, was wife to Bitty's uncle, and since Peter Blackhorse is Billy Cato's grandfather-well, you"
+Paradise (1998),Peter,382137,382142,character_reference,0.85,Peter,"looking outside the families and asked Thomas and Peter Blackhorse for Peter's daughter, Fawn. And maybe"
+Paradise (1998),Peter,382158,382163,character_reference,0.85,Peter,"amilies and asked Thomas and Peter Blackhorse for Peter's daughter, Fawn. And maybe his advanced age was"
+Paradise (1998),Peter,382390,382395,character_reference,0.85,Peter,"elia, a fifth? cousin to Soane and Dovey, because Peter Blackhorse was brother to Thomas Blackhorse and S"
+Paradise (1998),Aaron,382548,382553,character_reference,0.85,Aaron,"and Dovey's father. Now, Sally Blackhorse married Aaron Poole and had thirteen children. One of whom Aaro"
+Paradise (1998),Aaron,382599,382604,character_reference,0.85,Aaron,"aron Poole and had thirteen children. One of whom Aaron was going to name Deep, but Sally pitched a fit,"
+Paradise (1998),Aaron,382657,382662,character_reference,0.85,Aaron,"s going to name Deep, but Sally pitched a fit, so Aaron, with a humor more grim than anybody would have t"
+Paradise (1998),Charity,383217,383224,thematic_reference,0.8,Charity,"s dead now), along with Lone and Dovey Morgan and Charity Flood. But none of them could drive then. You mus"
+Paradise (1998),Charity,383563,383570,thematic_reference,0.8,Charity,"ouse: to Harper Jury, Catherine's own husband, to Charity's husband, Ace Flood, and to Sargeant Person's (h"
+Paradise (1998),Jesus,384451,384456,character_reference,0.85,Jesus,"o would have hitched Hard Goods and gal- loped to Jesus for help). So did Steward, the Pooles, the Sands"
+Paradise (1998),job,385192,385195,thematic_reference,0.9,Job,No time for a decent wake. So you were his first job. And a wonderful job he did too. You were beautif
+Paradise (1998),job,385213,385216,thematic_reference,0.9,Job,wake. So you were his first job. And a wonderful job he did too. You were beautiful. With the baby in
+Paradise (1998),Aaron,390073,390078,character_reference,0.85,Aaron,"he older women with children too advise you, like Aaron's wife, Sally, with four chil- dren already? What"
+Paradise (1998),lot,392824,392827,character_reference,0.7,Lot,ow. Here is the money order. I am going to have a lot of trouble keeping my heart quiet. Until you all
+Paradise (1998),lot,393378,393381,character_reference,0.7,Lot,"ve too."" A remark Dovey must have thought about a lot until 1964, when the curse was completed. But the"
+Paradise (1998),job,395661,395664,thematic_reference,0.9,Job,'t come back till early this year to describe her job and write down her address. Since then Pat had se
+Paradise (1998),Calvary,404472,404479,character_reference,0.7,Calvary,"r than a political one. Then, as he stood outside Calvary, continuing his requests, he would not have had t"
+Paradise (1998),Hope,407911,407915,thematic_reference,0.8,Hope,"e children onstage. The four youngest Cary girls: Hope, Chaste, Lovely and Pure; Dina Poole; and one of"
+Paradise (1998),James,408237,408242,thematic_reference,0.9,James,"h his sister Dina; Drew and Harriet Person's son, James; Payne Sands' boy, Lorcas, and two of Timothy Sea"
+Paradise (1998),Jesus,409206,409211,character_reference,0.85,Jesus,"Christianity; they were often its obstacle. That Jesus had been freed from white religion, and he wanted"
+Paradise (1998),job,409768,409771,thematic_reference,0.9,Job,think education was knowing just enough to get a job? She didn't seem to trust these Ruby hardheads wi
+Paradise (1998),faith,411459,411464,thematic_reference,0.8,Faith,"cold."" ""I meant the chart, not you. Limiting your faith to molecules as if-"" ""I don't limit anything. I j"
+Paradise (1998),lot,412055,412058,character_reference,0.7,Lot,"you're looking for?"" ""Why not? There was a whole lot of life before slavery. And we ought to know what"
+Paradise (1998),Jesus,413933,413938,character_reference,0.85,Jesus,", which he arranges on the floor. The little Lord Jesus lay down His sweet head. What's the point? Richar"
+Paradise (1998),grace,414781,414786,thematic_reference,0.8,Grace,"own those two words mean the same thing."" Amazing grace, how sweet the sound. In a shower of gold paper s"
+Paradise (1998),numbers,420819,420826,thematic_reference,0.9,Numbers,ol-before she even noticed the singularity of the numbers. It was some time later that she saw there were o
+Paradise (1998),numbers,425150,425157,thematic_reference,0.9,Numbers,"id they really think they could keep this up? The numbers, the bloodlines, the who fucks who? All those gen"
+Paradise (1998),Zechariah,425799,425808,thematic_reference,0.9,Zechariah,ity. That was their holi- ness. That was the deal Zechariah had made during his humming prayer. It wasn't God
+Paradise (1998),Mary,430890,430894,character_reference,0.85,Mary,orgiveness condemned her soul. But to die without Mary Magna's fouled it per omnia saecula saeculorum. S
+Paradise (1998),Mary,431495,431499,character_reference,0.85,Mary,"actually; the easiest thing in the world in 1925. Mary Magna, a sister, not a mother, then, flatly refus"
+Paradise (1998),Mary,432583,432587,character_reference,0.85,Mary,"t city. When they arrived in Puerto Limón, Sister Mary Magna placed two of them in an orphanage, for by"
+Paradise (1998),Mary,433367,433371,character_reference,0.85,Mary,"years Consolata worked hard to become and remain Mary Magna's pride, one of her singular accomplishment"
+Paradise (1998),Mary,435463,435467,character_reference,0.85,Mary,"it, the house was like a castle, full of a beauty Mary Magna said had to be eliminated at once. Consolat"
+Paradise (1998),Mary,437091,437095,character_reference,0.85,Mary,"un to build a feed store, a grocery store and, to Mary Magna's delight, a pharmacy closer than ninety mi"
+Paradise (1998),Mary,437469,437473,character_reference,0.85,Mary,"On one of these trips, when Consolata accompanied Mary Magna in the school's Mercury station wagon, even"
+Paradise (1998),Mary,438764,438768,character_reference,0.85,Mary,olata knew she knew them. It was some time before Mary Magna could get the pharmacist's attention. Final
+Paradise (1998),Mary,439003,439007,character_reference,0.85,Mary,"en door and, politely inclining his head, ushered Mary Magna in. It was while Consolata waited on the st"
+Paradise (1998),Mary,439544,439548,character_reference,0.85,Mary,"He rode on past and disappeared into the feedlot. Mary Magna emerged with her purchases, complaining a l"
+Paradise (1998),redemption,441800,441810,thematic_reference,0.8,Redemption,"g the one and only God and a chance, thereby, for redemption. Mary Magna wrote letter after letter, traveled t"
+Paradise (1998),Mary,441812,441816,character_reference,0.85,Mary,"d only God and a chance, thereby, for redemption. Mary Magna wrote letter after letter, traveled to Okla"
+Paradise (1998),Mary,442887,442891,character_reference,0.85,Mary,"in. One of the reasons she so gratefully accepted Mary Magna's hand, stretching over the litter like a d"
+Paradise (1998),Mary,446969,446973,character_reference,0.85,Mary,re to hide outra- geousness. If Sister Roberta or Mary Magna calls to her or asks for an explanation she
+Paradise (1998),lot,447987,447990,character_reference,0.7,Lot,"to explain."" ""I'm trying to get on in my life. A lot of people depend on me.” ""I know you're married."""
+Paradise (1998),Mary,449389,449393,character_reference,0.85,Mary,t struck her mostly on Fridays. Around noon. When Mary Magna and Sister Roberta left on business in Sep-
+Paradise (1998),Mary,449459,449463,character_reference,0.85,Mary,"r Roberta left on business in Sep- tember, Sister Mary Elizabeth and three, now, feckless students conti"
+Paradise (1998),Mary,451023,451027,character_reference,0.85,Mary,"e swelling in the places where radishes had been, Mary Magna and Sister Roberta returned, severely irrit"
+Paradise (1998),Mary,451252,451256,character_reference,0.85,Mary,", except her own. That decision would come later. Mary Magna's age, seventy-two, was a con- sideration,"
+Paradise (1998),Mary,451991,451995,character_reference,0.85,Mary,"n it. They could not simply walk off, could they? Mary Magna called everyone together to explain. Anothe"
+Paradise (1998),Mary,452445,452449,character_reference,0.85,Mary,"way. Consolata, however, paid scant attention to Mary Magna's words. She wasn't going anywhere. She wou"
+Paradise (1998),Jesus,456301,456306,character_reference,0.85,Jesus,"ear God, a truck. And one person at the wheel, my Jesus. And now it slowed. Consolata turned to watch it"
+Paradise (1998),Mary,467763,467767,character_reference,0.85,Mary,"idn't want to eat him. I just wanted to go home."" Mary Magna came into the chapel and, kneeling with her"
+Paradise (1998),Mary,468060,468064,character_reference,0.85,Mary,"he and I are the same. “Sh sh sh. Sh sh sh,"" said Mary Magna. ""Never speak of him again."" She might not"
+Paradise (1998),Mary,468145,468149,character_reference,0.85,Mary,"in."" She might not have agreed so quickly, but as Mary Magna led her out of the chapel into the schoolro"
+Paradise (1998),Mary,468348,468352,character_reference,0.85,Mary,e best in the dark. Consolata had been spoken to. Mary Magna spent money she could not afford to take th
+Paradise (1998),Mary,468650,468654,character_reference,0.85,Mary,and Western Museum advertised on the road. Sister Mary Elizabeth said it was an unwise way to spend post
+Paradise (1998),Mary,468919,468923,character_reference,0.85,Mary,only Mother and Sister Roberta were left. Sister Mary Eliza- beth accepted a teaching post in Indiana.
+Paradise (1998),Mary,470617,470621,character_reference,0.85,Mary,"ht life for Consolata. Better than all right, for Mary Magna had taught her patience as the first order"
+Paradise (1998),Mary,471473,471477,character_reference,0.85,Mary,"Consolata had nothing on her mind but the care of Mary Magna. But before that, before the disheveled wom"
+Paradise (1998),Mary,471591,471595,character_reference,0.85,Mary,"ippers hollered at the edge of the garden, before Mary Magna's illness, still in a state of devotion and"
+Paradise (1998),Mary,474046,474050,character_reference,0.85,Mary,"When she described her spell and Lone's remedy to Mary Magna she laughed, saying, ""Well, the teacher I a"
+Paradise (1998),Mary,474194,474198,character_reference,0.85,Mary,"ything that helps, helps. But be very care- ful."" Mary Magna lowered her voice. ""I think she practices."""
+Paradise (1998),faith,474592,474597,thematic_reference,0.8,Faith,"folks need more."" ""Never,"" said Consolata. “In my faith, faith is all I need.” ""You need what we all need"
+Paradise (1998),faith,474599,474604,thematic_reference,0.8,Faith,"eed more."" ""Never,"" said Consolata. “In my faith, faith is all I need.” ""You need what we all need: earth"
+Paradise (1998),Mary,478350,478354,character_reference,0.85,Mary,"vil craft. Something it would mortify her to tell Mary Magna, Jesus or the Virgin. She hadn't known what"
+Paradise (1998),Jesus,478362,478367,character_reference,0.85,Jesus,"omething it would mortify her to tell Mary Magna, Jesus or the Virgin. She hadn't known what she was doin"
+Paradise (1998),Mary,480021,480025,character_reference,0.85,Mary,"basket back and forth for years. Other than with Mary Magna, “stepping in"" was of no use. There was no"
+Paradise (1998),Mary,480567,480571,character_reference,0.85,Mary,"to time. And so intense were the step- pings in, Mary Magna glowed like a lamp till her very last breat"
+Paradise (1998),Mary,480757,480761,character_reference,0.85,Mary,"e woman she loved, she knew it was anathema, that Mary Magna would have recoiled in disgust and fury kno"
+Paradise (1998),Mary,481675,481679,character_reference,0.85,Mary,"d, the more dazzling her ""“in sight"" became. When Mary Magna died, Consolata, fifty-four years old, was"
+Paradise (1998),Mary,481880,481884,character_reference,0.85,Mary,"h cautioned against excessive human love and when Mary Magna left her, Consolata accepted the sympathy o"
+Paradise (1998),Grace,482027,482032,thematic_reference,0.8,Grace,"support from Mavis, the efforts to cheer her from Grace, but her rope to the world had slid from her fing"
+Paradise (1998),Mary,484414,484418,character_reference,0.85,Mary,"en days Consolata had been inside, alone, keeping Mary Magna's breath coming and going, the cool blue li"
+Paradise (1998),Mary,484489,484493,character_reference,0.85,Mary,"g and going, the cool blue light flickering until Mary Magna asked permission to go, bereft though she w"
+Paradise (1998),Grace,484586,484591,thematic_reference,0.8,Grace,"h she was of the last sacrament. The second girl, Grace, had arrived in time to hold off the fearful lone"
+Paradise (1998),Mary,485003,485007,character_reference,0.85,Mary,nerable as she had been at nine when she clung to Mary Magna's hand at the railing of the Atenas. Whatev
+Paradise (1998),Mary,485645,485649,character_reference,0.85,Mary,y. With the first one Consolata did what she knew Mary Magna would have done: quieted the girl and advis
+Paradise (1998),Grace,485811,485816,thematic_reference,0.8,Grace,"liver there if she wanted to. Mavis was jubilant, Grace amused. They took the field rent and drove off to"
+Paradise (1998),hope,486971,486975,thematic_reference,0.8,Hope,"The shudders in its spine. Otherwise there was no hope. Had it not tried to rescue itself, it would brea"
+Paradise (1998),Grace,487189,487194,thematic_reference,0.8,Grace,flight. But breathing. Sort of. Mavis took over. Grace went to bed. Together Con- solata and Mavis clean
+Paradise (1998),Grace,487522,487527,thematic_reference,0.8,Grace,"touched, glanced at, inquired after or named him. Grace called him Che and Consolata did not know to this"
+Paradise (1998),Mary,489705,489709,character_reference,0.85,Mary,"rks? Was what I did for love of you so terrible?"" Mary Magna had nothing to say. Consolata listened to t"
+Paradise (1998),Jesus,492904,492909,character_reference,0.85,Jesus,sed for conversation with her father last summer. Jesus Christ where the hell are you? We thought you wer
+Paradise (1998),Jesus,493999,494004,character_reference,0.85,Jesus,"from? Pallas, you there? Minnesota. Min- nesota? Jesus. I thought you were in New Mexico. What the hell'"
+Paradise (1998),Paul,494089,494093,character_reference,0.85,Paul,"What the hell's up there? Bloomington? No, Saint Paul. Are you near Saint Paul, sweet- heart? I'm not n"
+Paradise (1998),Paul,494114,494118,character_reference,0.7,Paul,"? Bloomington? No, Saint Paul. Are you near Saint Paul, sweet- heart? I'm not near anything, Daddy. It's"
+Paradise (1998),Mary,504760,504764,character_reference,0.7,Mary,en so lonely for them when she'd traveled back to Mary- land in 1970. Watching recess at the school wher
+Paradise (1998),James,504856,504861,thematic_reference,0.9,James,"ool where she had enrolled Sal, Frankie and Billy James, she realized with a shock that Sal would be in j"
+Paradise (1998),James,504933,504938,thematic_reference,0.9,James,"shock that Sal would be in junior high now, Billy James in third grade and Frankie in fifth. Still, there"
+Paradise (1998),lot,506156,506159,character_reference,0.7,Lot,"bus, another and arrived at the bus depot parking lot in Middleton, where she had left the Cadillac. Ru"
+Paradise (1998),job,511812,511815,thematic_reference,0.9,Job,at summer. She called in sick to her baby-sitting job each time and stayed indoors to cut short streets
+Paradise (1998),lot,512210,512213,character_reference,0.7,Lot,"less intact. when Pallas arrived. She had spent a lot of time trying to cheer and feed her, for when Pa"
+Paradise (1998),Eve,516410,516413,character_reference,0.7,Eve,"break them in two. Never put one over the other. Eve is Mary's mother. Mary is the daugh- ter of Eve."""
+Paradise (1998),Mary,516417,516421,character_reference,0.85,Mary,"them in two. Never put one over the other. Eve is Mary's mother. Mary is the daugh- ter of Eve."" Then, i"
+Paradise (1998),Mary,516432,516436,character_reference,0.85,Mary,"ver put one over the other. Eve is Mary's mother. Mary is the daugh- ter of Eve."" Then, in words clearer"
+Paradise (1998),Eve,516458,516461,character_reference,0.7,Eve,". Eve is Mary's mother. Mary is the daugh- ter of Eve."" Then, in words clearer than her introductory sp"
+Paradise (1998),mark,519486,519490,thematic_reference,0.9,Mark,"er to slice her inner thigh, she chose instead to mark the open body lying on the cellar floor. They spo"
+Paradise (1998),Jesus,537734,537739,character_reference,0.85,Jesus,hed less than fifty pounds and shone like sulfur. Jesus! Said the girl he dropped off there was openly fl
+Paradise (1998),Jesus,538307,538312,character_reference,0.85,Jesus,. No men. Kissing on themselves. Babies hid away. Jesus! No telling what else. Look what happened to Bill
+Paradise (1998),lot,545092,545095,character_reference,0.7,Lot,ars till she threw him out the door. Take a whole lot of healthy babies to make him for- get that. He's
+Paradise (1998),charity,547185,547192,thematic_reference,0.8,Charity,them that and he would not tolerate this loss of charity. Nor did Lone know the glacier that was Deacon Mo
+Paradise (1998),Aaron,552243,552248,character_reference,0.85,Aaron,"d's intention, nothing could stop her. Halfway to Aaron Poole's house the Oldsmobile halted in a roadside"
+Paradise (1998),Grace,553770,553775,thematic_reference,0.8,Grace,"rom sleep by its aroma, rushed to tell Consolata, Grace and Seneca that the longed for rain had finally c"
+Paradise (1998),Grace,554590,554595,thematic_reference,0.8,Grace,inally let go of a dark morning in state housing. Grace witnessed the successful cleansing of a white shi
+Paradise (1998),Grace,555027,555032,thematic_reference,0.8,Grace,"urious dancer, Mavis the most elegant. Seneca and Grace danced together, then parted to skip through fres"
+Paradise (1998),Baptism,555791,555798,thematic_reference,0.8,Baptism,by white immigrants. Their deeper Weensformations Baptism-like purification reverence was for the generatio
+Paradise (1998),lot,556470,556473,character_reference,0.7,Lot,"did not always know what it was, but they spent a lot of time trying to find out. Long before Juvenal w"
+Paradise (1998),Aaron,557389,557394,character_reference,0.85,Aaron,"meet him. He and Lone would get to Deed Sands and Aaron Poole. Melinda said they ought to notify Dovey, b"
+Paradise (1998),Aaron,565960,565965,character_reference,0.85,Aaron,"or Lone, would we?"" ""It'll be all right, I guess. Aaron and Pious will stop them. And the Beauchamps. Eve"
+Paradise (1998),Aaron,570185,570190,character_reference,0.85,Aaron,"hey did to Menus and Fleet. It was self-defense!"" Aaron Poole looked at K.D. who had offered that explana"
+Paradise (1998),lot,572849,572852,character_reference,0.7,Lot,"hs. “Well, the dead don't move. And Roger's got a lot of work to do."" As the car pulls away, Lone looks"
+Paradise (1998),lot,572925,572928,character_reference,0.7,Lot,"car pulls away, Lone looks back at the house. “A lot of work."" He had none. When Roger Best got back t"
+Paradise (1998),faith,573997,574002,thematic_reference,0.8,Faith,"le death of a child-we confirm, defer or lose our faith. Here in the tick tock of this moment, in this pl"
+Paradise (1998),Noah,574966,574970,character_reference,0.85,Noah,"children, died, people assumed the rest of them, Noah, Esther and Ming, would quickly follow. The first"
+Paradise (1998),Esther,574972,574978,thematic_reference,0.9,Esther,"ren, died, people assumed the rest of them, Noah, Esther and Ming, would quickly follow. The first was giv"
+Paradise (1998),Esther,575135,575141,thematic_reference,0.9,Esther,me of his great-grandfather. The second was named Esther for the great-grandmother who loved and cared for
+Paradise (1998),Aaron,581634,581639,character_reference,0.85,Aaron,"the most damning story-and Pious, Deed Sands and Aaron-who corroborated much of Lone's version - the who"
+Paradise (1998),John,586322,586326,thematic_reference,0.9,John,"n white shirt. No shoes. No socks. He entered St. John Street, where he had planted trees fifty feet apa"
+Paradise (1998),Luke,586636,586640,thematic_reference,0.9,Luke,"rnold Fleet- wood's house, near the corner of St. Luke, a couple said, “Morning, Deek."" He lifted his ha"
+Paradise (1998),Mark,586788,586792,thematic_reference,0.9,Mark,"ry helloed from the porch of her house near Cross Mark but he did not turn his head. “Car broke down?"" s"
+Paradise (1998),Matthew,586934,586941,thematic_reference,0.9,Matthew,"ury's drugstore, on the corner of Central and St. Matthew, he felt rather than saw watchful eyes traveling"
+Paradise (1998),Peter,587124,587129,character_reference,0.85,Peter,rgan Sav- ings and Loan Bank as he approached St. Peter. At Cross Peter he crossed and made his way to Ri
+Paradise (1998),Peter,587140,587145,character_reference,0.85,Peter,nd Loan Bank as he approached St. Peter. At Cross Peter he crossed and made his way to Richard Misner's h
+Paradise (1998),Zechariah,590310,590319,thematic_reference,0.9,Zechariah,"rted on another story. It seemed his grandfather, Zechariah, was subject to personal taunts as well as newspa"
+Paradise (1998),job,590597,590600,thematic_reference,0.9,Job,other work. He was even passed up for a teaching job at a poor country primary school. The Negroes in
+Paradise (1998),Zechariah,590730,590739,thematic_reference,0.9,Zechariah,"(the depression of '73 was severe), but they took Zechariah's dignified manner for coldness and his studied s"
+Paradise (1998),Zechariah,591027,591036,thematic_reference,0.9,Zechariah,"did odd jobs. Few knew and fewer remembered that Zechariah had a twin, and before he changed his name, they"
+Paradise (1998),job,591147,591150,thematic_reference,0.9,Job,"as Coffee and Tea. When Coffee got the statehouse job, Tea seemed as pleased as everybody else. And whe"
+Paradise (1998),faith,594635,594640,thematic_reference,0.8,Faith,"fe's belief is a mystery.” ""Belief is mysterious; faith is mysterious. But God is not a mystery. We are."""
+Paradise (1998),James,612682,612687,thematic_reference,0.9,James,"""Mostly. Frankie's fine. Gets all A's. But Billy James ain't so hot."" ""Oh. Why?"" ""Hangs out with some re"
+Paradise (1998),James,614789,614794,thematic_reference,0.9,James,"back?"" ""Sure."" ""But you'll try and talk to Billy James, won't you? And Frankie'd love it. You want my ad"
+Paradise (1998),lot,617171,617174,character_reference,0.7,Lot,. Jean and Jack were crossing the stadium parking lot under blazing klieg lights. A girl was standing i
+Paradise (1998),mark,621052,621056,thematic_reference,0.9,Mark,"me contrasts between thick and thin elements that mark most modern faces, and it attempts to give a feel"

@@ -1,0 +1,2487 @@
+{
+  "title": "Paradise (1998)",
+  "total_allusions": 274,
+  "allusions": [
+    {
+      "text": "Solomon",
+      "start_pos": 69,
+      "end_pos": 76,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Solomon",
+      "context": "ORRISON\nThe Bluest Eye (1970)\nSula (1974)\nSong of Solomon (1977)\nTar Baby (1981)\nBeloved (1987)\nJazz (1992)"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 12177,
+      "end_pos": 12182,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": " Christians—well,\nCatholics anyway-not a cross of Jesus anywhere. But what alarms the\ntwo men most is the"
+    },
+    {
+      "text": "Jordan",
+      "start_pos": 18211,
+      "end_pos": 18217,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jordan",
+      "context": "amb,\npepper rice, Lil Green, \"In the Dark,\" Louis Jordan and His Tympany\nFive; homemade beer and groundhog"
+    },
+    {
+      "text": "Esther",
+      "start_pos": 18550,
+      "end_pos": 18556,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Esther",
+      "context": "es were simply company: Ace's spotted horse, Miss Esther's\nancient featherweight, all four of Nathan's plo"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 22445,
+      "end_pos": 22450,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "s new paint is the space where there used to be a Jesus.\nThe brothers approaching the cellar were once id"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 37688,
+      "end_pos": 37692,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "ve the\nclover.\nBodacious black Eves unredeemed by Mary, they are like pan-\nicked does leaping toward a s"
+    },
+    {
+      "text": "James",
+      "start_pos": 39154,
+      "end_pos": 39159,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "James",
+      "context": " arm around\nher mother's waist. Frankie and Billy James were squished together on\nher right. Sal pinched "
+    },
+    {
+      "text": "James",
+      "start_pos": 40851,
+      "end_pos": 40856,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "James",
+      "context": "for each and every one of you.\"\nFrankie and Billy James looked down at their bare feet. Sal rested\nher he"
+    },
+    {
+      "text": "James",
+      "start_pos": 41815,
+      "end_pos": 41820,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "James",
+      "context": " out back,\" said Frankie.\n\"Groundhog,\" said Billy James.\n\"Shut!\" Sal leaned over Mavis' stomach and point"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 44374,
+      "end_pos": 44378,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Mary",
+      "context": " neighborhood and could now be seen by anybody in Mary-\nland since the photographer had taken more shots"
+    },
+    {
+      "text": "James",
+      "start_pos": 46749,
+      "end_pos": 46754,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "James",
+      "context": " eliciting peals of laughter from\nSal. When Billy James spit Kool-Aid into Mavis' plate, his father said,"
+    },
+    {
+      "text": "James",
+      "start_pos": 48989,
+      "end_pos": 48994,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "James",
+      "context": "she knew, the signal-to Sal, to Frankie, to Billy James.\nThe rest of the night she waited, not closing he"
+    },
+    {
+      "text": "lot",
+      "start_pos": 54435,
+      "end_pos": 54438,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "ons or dollars, m'am?\"\n\"Gallons.\"\nIn the adjacent lot, Mavis noticed the window of a breakfast diner\nre"
+    },
+    {
+      "text": "lot",
+      "start_pos": 64212,
+      "end_pos": 64215,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "e that touched her thighs. Outside in the parking lot, the girl ran\nto the Cadillac's passenger window "
+    },
+    {
+      "text": "redemption",
+      "start_pos": 66578,
+      "end_pos": 66588,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Redemption",
+      "context": "big, Bennie sang. Songs of true love, false love, redemption;\nsongs of unreasonable joy. Some drew tears, othe"
+    },
+    {
+      "text": "job",
+      "start_pos": 77027,
+      "end_pos": 77030,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "r smell was walnuts, not\npecans. \"What about your job here?\" Mavis forced herself to taste a\ntiny bit o"
+    },
+    {
+      "text": "grace",
+      "start_pos": 81390,
+      "end_pos": 81395,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Grace",
+      "context": " economize her gestures without sacrificing their\ngrace. Connie, having launched her into the chore, was "
+    },
+    {
+      "text": "lot",
+      "start_pos": 84723,
+      "end_pos": 84726,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "pecans, or is this your idea?\"\n\"My idea.\"\n\"Make a lot of pies.\"\n\"Make more than pie.\" Connie rinsed the"
+    },
+    {
+      "text": "Solomon",
+      "start_pos": 87934,
+      "end_pos": 87941,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Solomon",
+      "context": "hey were made by his family or best\nfriends: King Solomon, Brother Otis, Dinah baby, Ike and Tina girl,\nSis"
+    },
+    {
+      "text": "Jude",
+      "start_pos": 89033,
+      "end_pos": 89037,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": "been horrified-and he drove off accompanying\n\"Hey Jude\" on his radio.\nBehind the wheel, cooling in the a"
+    },
+    {
+      "text": "lot",
+      "start_pos": 91769,
+      "end_pos": 91772,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "dren?\"\nMavis could not speak.\n\"There used to be a lot of children here. This was a school once. A\nbeaut"
+    },
+    {
+      "text": "hope",
+      "start_pos": 100248,
+      "end_pos": 100252,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": "ousins had been buried two years ago,\nK.D., their hope and their despair, was the last male in a line th"
+    },
+    {
+      "text": "hope",
+      "start_pos": 102077,
+      "end_pos": 102081,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": " than\nend runs around white law. He obviously had hope for a state that had\nonce decided to build a whol"
+    },
+    {
+      "text": "Gomorrah",
+      "start_pos": 116608,
+      "end_pos": 116616,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Gomorrah",
+      "context": "inoculars), said no, they were two males- bold as\nGomorrah.\nMikey, however, had touched the body parts and k"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 126938,
+      "end_pos": 126943,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "hind her but couldn't see through the\npartition.\n\"Jesus! Shit! This here's a hearse?\"\n\"Sometimes. Sometim"
+    },
+    {
+      "text": "lot",
+      "start_pos": 131425,
+      "end_pos": 131428,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "always misleading.\nHe must have planned to have a lot of good-time company in his\nfortress: eight bedro"
+    },
+    {
+      "text": "Grace",
+      "start_pos": 135444,
+      "end_pos": 135449,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Grace",
+      "context": "me you?\"\n\"Her? She gave me her own name.\n\"Well?\"\n\"Grace.\"\n\"Grace. What could be better?\"\nNothing. Nothing"
+    },
+    {
+      "text": "Grace",
+      "start_pos": 135453,
+      "end_pos": 135458,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Grace",
+      "context": "\"Her? She gave me her own name.\n\"Well?\"\n\"Grace.\"\n\"Grace. What could be better?\"\nNothing. Nothing at all. "
+    },
+    {
+      "text": "grace",
+      "start_pos": 135602,
+      "end_pos": 135607,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Grace",
+      "context": "simple good fortune took to their heels and fled, grace\nalone might have to do. But from where would it c"
+    },
+    {
+      "text": "grace",
+      "start_pos": 135741,
+      "end_pos": 135746,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Grace",
+      "context": "low between sighting and following through, could\ngrace slip through at all?\nIt was the I-give woman serv"
+    },
+    {
+      "text": "Grace",
+      "start_pos": 141132,
+      "end_pos": 141137,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Grace",
+      "context": "e, and where are her clothes?\"\n\"Oh, that's little Grace. She came the day after Mother died.\"\n\"Died? When"
+    },
+    {
+      "text": "Grace",
+      "start_pos": 141587,
+      "end_pos": 141592,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Grace",
+      "context": " put some clothes on!\"\n\"You kiss my ass!\"\n\"Do it, Grace,\" said Connie. \"Go, like a good girl. Cover yours"
+    },
+    {
+      "text": "Esther",
+      "start_pos": 147231,
+      "end_pos": 147237,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Esther",
+      "context": "ecause some young people, by snicker-\ning at Miss Esther's finger memory, had insulted entire generations\n"
+    },
+    {
+      "text": "Esther",
+      "start_pos": 147347,
+      "end_pos": 147353,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Esther",
+      "context": "them. They had not suggested, politely, that Miss Esther\nmay have been mistaken; they howled at the notion"
+    },
+    {
+      "text": "Calvary",
+      "start_pos": 148364,
+      "end_pos": 148371,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Calvary",
+      "context": "belonged to all, and all were asked\nto show up at Calvary. To discuss it, Reverend Misner said. The\nweather"
+    },
+    {
+      "text": "lot",
+      "start_pos": 149671,
+      "end_pos": 149674,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": " governor, an ex-banker, an ex-deacon and a\nwhole lot of other exes, and he wasn't making his own way; "
+    },
+    {
+      "text": "Esther",
+      "start_pos": 154274,
+      "end_pos": 154280,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Esther",
+      "context": " There is no 'Beware' on it.\"\n\"You weren't there! Esther was! And you weren't here, either, at\nthe beginni"
+    },
+    {
+      "text": "Esther",
+      "start_pos": 154334,
+      "end_pos": 154340,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Esther",
+      "context": "! And you weren't here, either, at\nthe beginning! Esther was!\" Arnold Fleetwood's right hand shook with\nwa"
+    },
+    {
+      "text": "Esther",
+      "start_pos": 154495,
+      "end_pos": 154501,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Esther",
+      "context": "said Misner.\nNow Fleet joined Deek in the aisle. \"Esther never made a mistake\nof that nature in her life. "
+    },
+    {
+      "text": "Calvary",
+      "start_pos": 156409,
+      "end_pos": 156416,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Calvary",
+      "context": "ame back to her.\nDriving away from the meeting at Calvary, Steward and Dovey had a\nsmall but familiar disag"
+    },
+    {
+      "text": "Matthew",
+      "start_pos": 156843,
+      "end_pos": 156850,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Matthew",
+      "context": "e appeared. But the little house they kept on St.\nMatthew Street-a foreclosure the twins never resold-was b"
+    },
+    {
+      "text": "Calvary",
+      "start_pos": 156974,
+      "end_pos": 156981,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Calvary",
+      "context": "me to Dovey. It was close to her sister, to Mount\nCalvary, the Women's Club. It was also where her Friend c"
+    },
+    {
+      "text": "lot",
+      "start_pos": 157940,
+      "end_pos": 157943,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "ven bank their father owned collapsed for a whole lot of reasons,\nand one of them, Steward maintained, "
+    },
+    {
+      "text": "Matthew",
+      "start_pos": 158560,
+      "end_pos": 158567,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Matthew",
+      "context": "nt of Pat's own house.\nDovey turned left into St. Matthew Street. The moon's light\nglittered white fences g"
+    },
+    {
+      "text": "John",
+      "start_pos": 159964,
+      "end_pos": 159968,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "John",
+      "context": " bale or live weight,\ninto Kelvinators as well as John Deere; into Philco as well as Body by\nFisher. The"
+    },
+    {
+      "text": "Matthew",
+      "start_pos": 166475,
+      "end_pos": 166482,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Matthew",
+      "context": "ore frequently she found reasons to remain on St.\nMatthew Street. Not hoping or looking for him, but conten"
+    },
+    {
+      "text": "Calvary",
+      "start_pos": 166853,
+      "end_pos": 166860,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Calvary",
+      "context": "ng of the argument with the young people at\nMount Calvary, Dovey stuck the key in the lock of the foreclose"
+    },
+    {
+      "text": "psalms",
+      "start_pos": 167084,
+      "end_pos": 167090,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Psalms",
+      "context": " with a cup of\nhot tea, read some verses or a few psalms and collect her thoughts on\nthe matter that was a"
+    },
+    {
+      "text": "Zechariah",
+      "start_pos": 176241,
+      "end_pos": 176250,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Zechariah",
+      "context": "roaning effort knelt down.\n\"My Father,\" he said. “Zechariah here.\" Then, after a few seconds\nof total silence"
+    },
+    {
+      "text": "Zechariah",
+      "start_pos": 178358,
+      "end_pos": 178367,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Zechariah",
+      "context": "lking man was in sight, but the peace that washed\nZechariah's face spread to their own spirits, calming them."
+    },
+    {
+      "text": "Zechariah",
+      "start_pos": 178440,
+      "end_pos": 178449,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Zechariah",
+      "context": " own spirits, calming them.\n\"He is with us,\" said Zechariah. “He is leading the way.\"\nFrom then on, the journ"
+    },
+    {
+      "text": "Zechariah",
+      "start_pos": 178994,
+      "end_pos": 179003,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Zechariah",
+      "context": "did not hear them. Nobody\nsaw the walking man but Zechariah and sometimes a child. Rector\nnever saw him again"
+    },
+    {
+      "text": "Zechariah",
+      "start_pos": 181761,
+      "end_pos": 181770,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Zechariah",
+      "context": "ssed enough tests long enough, he was king.\nMaybe Zechariah never wanted to eat another stick-roasted rab-\nbi"
+    },
+    {
+      "text": "Zechariah",
+      "start_pos": 182149,
+      "end_pos": 182158,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Zechariah",
+      "context": "agon with two horses the State Indians lent them,\nZechariah corralled some of the men into building a cook ov"
+    },
+    {
+      "text": "Calvary",
+      "start_pos": 188991,
+      "end_pos": 188998,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Calvary",
+      "context": "Pastor Cary at Holy\nRedeemer. Nothing was said at Calvary right away because that con-\ngregation was still "
+    },
+    {
+      "text": "Calvary",
+      "start_pos": 190427,
+      "end_pos": 190434,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Calvary",
+      "context": "r think\nup devilment. The way it was before\nMount Calvary was completed. When baptisms were held in sweet\nw"
+    },
+    {
+      "text": "Calvary",
+      "start_pos": 191373,
+      "end_pos": 191380,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Calvary",
+      "context": "n.\nTo dry, embrace, congratulate one another.\nNow Calvary had an inside pool; New Zion and Holy Redeemer\nha"
+    },
+    {
+      "text": "Deuteronomy",
+      "start_pos": 192643,
+      "end_pos": 192654,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Deuteronomy",
+      "context": "ame a shrine (cautioned against not\nonly in scary Deuteronomy but in lovely Corinthians II as well) and,\nlike a"
+    },
+    {
+      "text": "Hope",
+      "start_pos": 197080,
+      "end_pos": 197084,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": "clothes.\n\"Brought three payments in the next day. Hope he can keep up\nthe rest. Not enough hospital or m"
+    },
+    {
+      "text": "John",
+      "start_pos": 199515,
+      "end_pos": 199519,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "John",
+      "context": "hree-fourths of a mile. From his own house on St. John\nStreet, he turned right at the corner onto Centra"
+    },
+    {
+      "text": "Luke",
+      "start_pos": 199579,
+      "end_pos": 199583,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Luke",
+      "context": "e turned right at the corner onto Central, passed Luke, Mark\nand Matthew, then parked neatly in front of"
+    },
+    {
+      "text": "Mark",
+      "start_pos": 199585,
+      "end_pos": 199589,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Mark",
+      "context": "ed right at the corner onto Central, passed Luke, Mark\nand Matthew, then parked neatly in front of the b"
+    },
+    {
+      "text": "Matthew",
+      "start_pos": 199594,
+      "end_pos": 199601,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Matthew",
+      "context": "at the corner onto Central, passed Luke, Mark\nand Matthew, then parked neatly in front of the bank. The sil"
+    },
+    {
+      "text": "Calvary",
+      "start_pos": 205976,
+      "end_pos": 205983,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Calvary",
+      "context": "red and eternal.\nThe morning after the meeting at Calvary, pleased with his bird quota\nand fired, not tired"
+    },
+    {
+      "text": "lot",
+      "start_pos": 207063,
+      "end_pos": 207066,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "ver. When he and Steward had enlisted\nthere was a lot to learn-from how to tie an army tie to how to pa"
+    },
+    {
+      "text": "Zechariah",
+      "start_pos": 213243,
+      "end_pos": 213252,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Zechariah",
+      "context": " rightful heirs, would have\nrepeated exactly what Zechariah and Rector had done? But since part\nof the charge"
+    },
+    {
+      "text": "Peter",
+      "start_pos": 215595,
+      "end_pos": 215600,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Peter",
+      "context": ". When a fifth street was\nneeded it was named St. Peter. Later on, as Ruby grew, streets were\nlaid on the"
+    },
+    {
+      "text": "John",
+      "start_pos": 215817,
+      "end_pos": 215821,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "John",
+      "context": " from them—\nthey acquired secondary names. So St. John Street on the east become\nCross John on the west."
+    },
+    {
+      "text": "John",
+      "start_pos": 215854,
+      "end_pos": 215858,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "John",
+      "context": "ames. So St. John Street on the east become\nCross John on the west. St. Luke became Cross Luke. The sani"
+    },
+    {
+      "text": "Luke",
+      "start_pos": 215876,
+      "end_pos": 215880,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Luke",
+      "context": "et on the east become\nCross John on the west. St. Luke became Cross Luke. The sanity of\nthis pleased mos"
+    },
+    {
+      "text": "Luke",
+      "start_pos": 215894,
+      "end_pos": 215898,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Luke",
+      "context": "ome\nCross John on the west. St. Luke became Cross Luke. The sanity of\nthis pleased most everybody, Deek "
+    },
+    {
+      "text": "Peter",
+      "start_pos": 216180,
+      "end_pos": 216185,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Peter",
+      "context": "oman Deek was watching seemed to be leaving Cross\nPeter Street and heading toward Sargeant's Feed and See"
+    },
+    {
+      "text": "Aaron",
+      "start_pos": 216668,
+      "end_pos": 216673,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Aaron",
+      "context": "coming in from south country. Its driver\nwould be Aaron Poole, late, as Deek knew he would be, since he w"
+    },
+    {
+      "text": "Zechariah",
+      "start_pos": 219026,
+      "end_pos": 219035,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Zechariah",
+      "context": "r. Rector Morgan, also known as Big Daddy.\nSon of Zechariah Morgan, known throughout Christendom as Big\nPapa."
+    },
+    {
+      "text": "Calvary",
+      "start_pos": 221233,
+      "end_pos": 221240,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Calvary",
+      "context": " came riding into town, alone, in a beat-up Ford.\nCalvary's new minister.\nAnna folded her arms on the woode"
+    },
+    {
+      "text": "Hope",
+      "start_pos": 221908,
+      "end_pos": 221912,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": "from, all that\nmight be true. Ruby's different.\"\n\"Hope so.\"\n\"Is so. Any problem brewing sure ain't money"
+    },
+    {
+      "text": "lot",
+      "start_pos": 222197,
+      "end_pos": 222200,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": " They're just kids.”\n\"That fist painting scared a lot of people.\"\n\"Why? It was a picture! You'd think s"
+    },
+    {
+      "text": "faith",
+      "start_pos": 226988,
+      "end_pos": 226993,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Faith",
+      "context": "y Redeemer. \"This might get serious.\"\nAce Flood's faith had been the mountain-moving kind, so he built\nhi"
+    },
+    {
+      "text": "lot",
+      "start_pos": 227463,
+      "end_pos": 227466,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "t he had. He didn't have many things but he\nhad a lot of what he stocked. Before he died, he saw his st"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 230754,
+      "end_pos": 230759,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "e this? Can't think of\nevery damn thing, can you? Jesus.\"\n\"Your baby coughing? I don't believe you need c"
+    },
+    {
+      "text": "numbers",
+      "start_pos": 231143,
+      "end_pos": 231150,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Numbers",
+      "context": "ind it then? Houses round here don't seem to\nhave numbers.\"\n“Tell me what all you want and I'll\nget it for "
+    },
+    {
+      "text": "Calvary",
+      "start_pos": 238827,
+      "end_pos": 238834,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Calvary",
+      "context": "ast New Zion, Harper's Drugstore, the bank, Mount\nCalvary. She detoured into Cross Peter, left it and walke"
+    },
+    {
+      "text": "Peter",
+      "start_pos": 238860,
+      "end_pos": 238865,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Peter",
+      "context": " the bank, Mount\nCalvary. She detoured into Cross Peter, left it and walked past\nSargeant's Feed and Seed"
+    },
+    {
+      "text": "grace",
+      "start_pos": 246225,
+      "end_pos": 246230,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Grace",
+      "context": "-\ning next to her. The sign of Sweetie's state of grace was how badly the\nwarm snow whipped the shape, si"
+    },
+    {
+      "text": "numbers",
+      "start_pos": 251979,
+      "end_pos": 251986,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Numbers",
+      "context": "as\nthough she might have trouble remembering five numbers in a row.\nShe had brought ham sandwiches too (his"
+    },
+    {
+      "text": "job",
+      "start_pos": 253487,
+      "end_pos": 253490,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "es. He didn't want to\nhear anything about her new job at a school cafeteria. Only Sophie\nand Bernard in"
+    },
+    {
+      "text": "job",
+      "start_pos": 256207,
+      "end_pos": 256210,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": " Wichita's soft evening air. She\nhad not quit her job to make this trip, but the supervisor made it cle"
+    },
+    {
+      "text": "job",
+      "start_pos": 261279,
+      "end_pos": 261282,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "lls. “It's okay, dear. You\ndon't have to take the job if you don't want it.\"\n\"I didn't say I didn't.”\n\""
+    },
+    {
+      "text": "hope",
+      "start_pos": 261597,
+      "end_pos": 261601,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": "A little? I want somebody not from around here. I\nhope five hundred is enough. I could go a little highe"
+    },
+    {
+      "text": "David",
+      "start_pos": 261684,
+      "end_pos": 261689,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "David",
+      "context": "go a little higher for a really\nintelligent girl. David will drive you back to the bus station, even if y"
+    },
+    {
+      "text": "job",
+      "start_pos": 261765,
+      "end_pos": 261768,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "e bus station, even if you\ndecide not to take the job.\nOnly then did Seneca realize the limousine was n"
+    },
+    {
+      "text": "David",
+      "start_pos": 262682,
+      "end_pos": 262687,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "David",
+      "context": "you? Good. Your lips are lovely like\nthat. I told David, find an intelligent girl, please. No farmgirls. "
+    },
+    {
+      "text": "David",
+      "start_pos": 263114,
+      "end_pos": 263119,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "David",
+      "context": "meone local. Are those your\nown lashes? Gracious. David? Do you know if Mattie cooked a real\nsupper tonig"
+    },
+    {
+      "text": "hope",
+      "start_pos": 263184,
+      "end_pos": 263188,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": "f Mattie cooked a real\nsupper tonight? No fish, I hope, or do you like fish? Trout's wonderful\nin Kansas"
+    },
+    {
+      "text": "David",
+      "start_pos": 264096,
+      "end_pos": 264101,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "David",
+      "context": "lothes, including a cashmere\nserape. As promised, David drove her to the bus station, his buttons\nextra g"
+    },
+    {
+      "text": "job",
+      "start_pos": 264346,
+      "end_pos": 264349,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": " At a loss as to where to go or what to do. Get a job\nnear the prison and stand by him? Meaning follow "
+    },
+    {
+      "text": "Calvary",
+      "start_pos": 270480,
+      "end_pos": 270487,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Calvary",
+      "context": "inting\nrepeatedly that they belonged in Zion, not Calvary, where they had to\nlisten to the namby-pamby serm"
+    },
+    {
+      "text": " Revelation 19:7",
+      "start_pos": 274072,
+      "end_pos": 274088,
+      "type": "direct_quote",
+      "confidence": 0.95,
+      "biblical_source": "Revelation 19:7",
+      "context": "rite of mat-\nrimony, crafted them carefully around Revelation 19:7,9, sharpening\nthe \"marriage supper of the Lamb\" i"
+    },
+    {
+      "text": "Revelation",
+      "start_pos": 274227,
+      "end_pos": 274237,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Revelation",
+      "context": "liation this wedding promised. He had segued from Revelation\nto Matthew 19:6, \"Wherefore they are no more twai"
+    },
+    {
+      "text": " Matthew 19:6",
+      "start_pos": 274240,
+      "end_pos": 274253,
+      "type": "direct_quote",
+      "confidence": 0.95,
+      "biblical_source": "Matthew 19:6",
+      "context": "wedding promised. He had segued from Revelation\nto Matthew 19:6, \"Wherefore they are no more twain, but one flesh"
+    },
+    {
+      "text": "mark",
+      "start_pos": 276964,
+      "end_pos": 276968,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Mark",
+      "context": "d Druids-all had a\nfinger memory of this original mark. The circle was not first, nor was\nthe parallel o"
+    },
+    {
+      "text": "mark",
+      "start_pos": 277046,
+      "end_pos": 277050,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Mark",
+      "context": "nor was\nthe parallel or the triangle. It was this mark, this, that lay underneath\nevery other. This mark"
+    },
+    {
+      "text": "mark",
+      "start_pos": 277096,
+      "end_pos": 277100,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Mark",
+      "context": "mark, this, that lay underneath\nevery other. This mark, rendered in the placement of facial features.\nTh"
+    },
+    {
+      "text": "mark",
+      "start_pos": 277153,
+      "end_pos": 277157,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Mark",
+      "context": "endered in the placement of facial features.\nThis mark of a standing human figure poised to embrace. Rem"
+    },
+    {
+      "text": " Jeremiah 1:5",
+      "start_pos": 286684,
+      "end_pos": 286697,
+      "type": "direct_quote",
+      "confidence": 0.95,
+      "biblical_source": "Jeremiah 1:5",
+      "context": " Reverend Pulliam\nhad preached a sermon taken from Jeremiah 1:5: \"Before I formed\nthee in the belly I knew thee, "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 286843,
+      "end_pos": 286847,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " sanctified thee.\" Reverend Misner countered with Paul's\nwords to the Corinthians: “... the greatest of "
+    },
+    {
+      "text": "job",
+      "start_pos": 293691,
+      "end_pos": 293694,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "mental thing\nshe would ever do in Ruby. She got a job in Demby, bought a car and\nprobably would have dr"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 306472,
+      "end_pos": 306477,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "before this stern preacher's wife, thinking: Dear Jesus, I wouldn't last\nan hour in this town if I marrie"
+    },
+    {
+      "text": "grace",
+      "start_pos": 309358,
+      "end_pos": 309363,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Grace",
+      "context": ", lay in the amazing shapes and substances.\nGod's\ngrace took: gospel in times of persecution; the exquisi"
+    },
+    {
+      "text": "Job",
+      "start_pos": 309535,
+      "end_pos": 309538,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "se who\nlet no boot hold them down-people who made Job's patience look\nlike restlessness. Elegance when "
+    },
+    {
+      "text": "lot",
+      "start_pos": 323488,
+      "end_pos": 323491,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "ned\nhim. Pallas had met him in the school parking lot the day her Toyota\nwouldn't start. Actually met h"
+    },
+    {
+      "text": "job",
+      "start_pos": 324578,
+      "end_pos": 324581,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "e thing fell into place. Car-\nlos could leave his job with little outcry during the holidays. Milton\nTr"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 336717,
+      "end_pos": 336721,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "ifficult to see, but Seneca recognized the\nVirgin Mary, the pair of shiny nun shoes, the rosary and, on "
+    },
+    {
+      "text": "hope",
+      "start_pos": 336911,
+      "end_pos": 336915,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": "nnie.\nSeneca sat down on the floor. She had scant hope that Pallas\nwould say much if anything at all. Bu"
+    },
+    {
+      "text": "lot",
+      "start_pos": 341628,
+      "end_pos": 341631,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "Billie turned to watch her friend's car leave the lot then looked\ndown at the vomit. Without making a f"
+    },
+    {
+      "text": "Genesis",
+      "start_pos": 356181,
+      "end_pos": 356188,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Genesis",
+      "context": "ral scent was in the air, sweeping down from some Genesis time\nwhen volcanoes stirred and lava cooled quick"
+    },
+    {
+      "text": "Zechariah",
+      "start_pos": 361984,
+      "end_pos": 361993,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Zechariah",
+      "context": "rse Bible and what the heavy ink blot hid next to Zechariah's\nname in the Morgan Bible. Her father told her s"
+    },
+    {
+      "text": "Zechariah",
+      "start_pos": 364321,
+      "end_pos": 364330,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Zechariah",
+      "context": "announce themselves, while the others waited with Zechariah,\nwho was too lame by then to stand unaided and st"
+    },
+    {
+      "text": "Peter",
+      "start_pos": 366715,
+      "end_pos": 366720,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Peter",
+      "context": "eir shovels: Drum Blackhorse,\nhis sons Thomas and Peter, Rector Morgan, Able Flood, Brood Poole,\nSr., and"
+    },
+    {
+      "text": "Zechariah",
+      "start_pos": 366954,
+      "end_pos": 366963,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Zechariah",
+      "context": " around it. Fulton Best fashioned a sturdy cross. Zechariah,\nflanked by two of his boys, Shepherd and Pryor, "
+    },
+    {
+      "text": "Zechariah",
+      "start_pos": 368579,
+      "end_pos": 368588,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Zechariah",
+      "context": "om where? His first\nname, Coffee, was the same as Zechariah's before he changed it to\nrun for lieutenant gove"
+    },
+    {
+      "text": "Zechariah",
+      "start_pos": 369262,
+      "end_pos": 369271,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Zechariah",
+      "context": " prolific as the earlier ones. They\nwere not like\nZechariah Morgan (aka Big Papa, né Coffee) m. Mindy Flood\n["
+    },
+    {
+      "text": "Zechariah",
+      "start_pos": 369845,
+      "end_pos": 369854,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Zechariah",
+      "context": " 'Queenie.'\" Another com-\nment, threaded out from Zechariah's name and led by arrows, spread\nto the back of t"
+    },
+    {
+      "text": "John",
+      "start_pos": 370207,
+      "end_pos": 370211,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "John",
+      "context": "thing or someplace he liked. Zacharias, father of John the Bap-\ntist? or the Zechariah who had visions? "
+    },
+    {
+      "text": "Zechariah",
+      "start_pos": 370234,
+      "end_pos": 370243,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Zechariah",
+      "context": ". Zacharias, father of John the Bap-\ntist? or the Zechariah who had visions? The one who saw scrolls of\ncurse"
+    },
+    {
+      "text": "Joshua",
+      "start_pos": 370333,
+      "end_pos": 370339,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Joshua",
+      "context": "s of\ncurses and women in baskets; the one who saw Joshua's filthy clothes\nchanged into rich ones; who saw "
+    },
+    {
+      "text": "Zechariah",
+      "start_pos": 370572,
+      "end_pos": 370581,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Zechariah",
+      "context": "d made desolate. All of that would fit\nnicely for Zechariah Morgan: the curse, the women stuffed into a bas-\n"
+    },
+    {
+      "text": "Zechariah",
+      "start_pos": 371476,
+      "end_pos": 371485,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Zechariah",
+      "context": "h with them if you didn't know. That\nwould be the Zechariah Coffee would have chosen for himself. That\nwould "
+    },
+    {
+      "text": "Joshua",
+      "start_pos": 371611,
+      "end_pos": 371617,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Joshua",
+      "context": " had heard some mighty preacher tell\nthe story of Joshua crowned. He would not name himself after Joshua,\n"
+    },
+    {
+      "text": "Joshua",
+      "start_pos": 371659,
+      "end_pos": 371665,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Joshua",
+      "context": "f Joshua crowned. He would not name himself after Joshua,\nthe king, but after the witness to whom God and "
+    },
+    {
+      "text": "Zechariah",
+      "start_pos": 372199,
+      "end_pos": 372208,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Zechariah",
+      "context": ". Because the Morgan line was crop feeble.\nOne of Zechariah's (Big Papa's) sons, Rector, had seven children w"
+    },
+    {
+      "text": "Zechariah",
+      "start_pos": 372487,
+      "end_pos": 372496,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Zechariah",
+      "context": "-all of whom moved from\nHaven to northern states. Zechariah would have hated that. Moving\nwould have been \"sc"
+    },
+    {
+      "text": "mark",
+      "start_pos": 373007,
+      "end_pos": 373011,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Mark",
+      "context": "one of the intact nine fami-\nlies, had the little mark she had chosen to put after their names: 8-R.\nAn "
+    },
+    {
+      "text": "Zechariah",
+      "start_pos": 374292,
+      "end_pos": 374301,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Zechariah",
+      "context": "ded his days as a street sweeper. But they alone\n(Zechariah Morgan and Juvenal DuPres in Louisiana, Drum Blac"
+    },
+    {
+      "text": "Zechariah",
+      "start_pos": 375782,
+      "end_pos": 375791,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Zechariah",
+      "context": "d had become a stain. The\nscattering that alarmed Zechariah because he believed it would\ndeplete them was now"
+    },
+    {
+      "text": "Zechariah",
+      "start_pos": 376134,
+      "end_pos": 376143,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Zechariah",
+      "context": " generations of 8-rock\nmales did scatter, just as Zechariah feared, into the army, it could\nhave been over an"
+    },
+    {
+      "text": "Aaron",
+      "start_pos": 377083,
+      "end_pos": 377088,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Aaron",
+      "context": "or-\ngan, Steward Morgan, William Cato, Ace Flood, Aaron Poole, Nathan\nDuPres, Moss DuPres, Arnold Fleetwo"
+    },
+    {
+      "text": "John",
+      "start_pos": 377189,
+      "end_pos": 377193,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "John",
+      "context": "d, Ossie Beauchamp, Harper\nJury, Sargeant Person, John Seawright, Edward Sands and Pat's father,\nRoger B"
+    },
+    {
+      "text": "Zechariah",
+      "start_pos": 377709,
+      "end_pos": 377718,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Zechariah",
+      "context": "y longer than a night's rest. The story went that\nZechariah Morgan and Drum Blackhorse forbade the women to e"
+    },
+    {
+      "text": "Zechariah",
+      "start_pos": 378248,
+      "end_pos": 378257,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Zechariah",
+      "context": "was\nnever spoken of, except for the hint in words Zechariah forged for the\nOven. More than a rule. A conundru"
+    },
+    {
+      "text": "lot",
+      "start_pos": 379989,
+      "end_pos": 379992,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": ", as you and everybody knew I would. Notice how a\nlot of those Sands who married Seawrights are careful"
+    },
+    {
+      "text": "Peter",
+      "start_pos": 381143,
+      "end_pos": 381148,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Peter",
+      "context": "r the rest\nof her life.) Since Bitty Cato married Peter Blackhorse, and since her\ndaughter, Fawn Blackhor"
+    },
+    {
+      "text": "Peter",
+      "start_pos": 381239,
+      "end_pos": 381244,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Peter",
+      "context": " Blackhorse, was wife to Bitty's uncle, and since Peter\nBlackhorse is Billy Cato's grandfather-well, you "
+    },
+    {
+      "text": "Peter",
+      "start_pos": 382137,
+      "end_pos": 382142,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Peter",
+      "context": "looking outside the families and\nasked Thomas and Peter Blackhorse for Peter's daughter, Fawn. And\nmaybe "
+    },
+    {
+      "text": "Peter",
+      "start_pos": 382158,
+      "end_pos": 382163,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Peter",
+      "context": "amilies and\nasked Thomas and Peter Blackhorse for Peter's daughter, Fawn. And\nmaybe his advanced age was "
+    },
+    {
+      "text": "Peter",
+      "start_pos": 382390,
+      "end_pos": 382395,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Peter",
+      "context": "elia, a fifth? cousin to Soane and Dovey, because\nPeter Blackhorse was brother to Thomas Blackhorse and S"
+    },
+    {
+      "text": "Aaron",
+      "start_pos": 382548,
+      "end_pos": 382553,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Aaron",
+      "context": "and Dovey's father. Now,\nSally Blackhorse married Aaron Poole and had thirteen children. One\nof whom Aaro"
+    },
+    {
+      "text": "Aaron",
+      "start_pos": 382599,
+      "end_pos": 382604,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Aaron",
+      "context": "aron Poole and had thirteen children. One\nof whom Aaron was going to name Deep, but Sally pitched a fit, "
+    },
+    {
+      "text": "Aaron",
+      "start_pos": 382657,
+      "end_pos": 382662,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Aaron",
+      "context": "s going to name Deep, but Sally pitched a fit, so\nAaron, with a humor more grim than anybody would have t"
+    },
+    {
+      "text": "Charity",
+      "start_pos": 383217,
+      "end_pos": 383224,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Charity",
+      "context": "s dead\nnow), along with Lone and Dovey Morgan and Charity Flood. But\nnone of them could drive then. You mus"
+    },
+    {
+      "text": "Charity",
+      "start_pos": 383563,
+      "end_pos": 383570,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Charity",
+      "context": "ouse: to Harper Jury, Catherine's own husband, to\nCharity's husband, Ace Flood, and to Sargeant Person's (h"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 384451,
+      "end_pos": 384456,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "o would have hitched Hard Goods and gal-\nloped to Jesus for help). So did Steward, the Pooles, the Sands "
+    },
+    {
+      "text": "job",
+      "start_pos": 385192,
+      "end_pos": 385195,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": " No time for a decent wake. So you were his\nfirst job. And a wonderful job he did too. You were beautif"
+    },
+    {
+      "text": "job",
+      "start_pos": 385213,
+      "end_pos": 385216,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": " wake. So you were his\nfirst job. And a wonderful job he did too. You were beautiful. With the\nbaby in "
+    },
+    {
+      "text": "Aaron",
+      "start_pos": 390073,
+      "end_pos": 390078,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Aaron",
+      "context": "he older women\nwith children too advise you, like Aaron's wife, Sally, with four chil-\ndren already? What"
+    },
+    {
+      "text": "lot",
+      "start_pos": 392824,
+      "end_pos": 392827,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "ow. Here is the money order. I am going to have a lot\nof trouble keeping my heart quiet. Until you all "
+    },
+    {
+      "text": "lot",
+      "start_pos": 393378,
+      "end_pos": 393381,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "ve too.\" A remark Dovey must have thought\nabout a lot until 1964, when the curse was completed. But the"
+    },
+    {
+      "text": "job",
+      "start_pos": 395661,
+      "end_pos": 395664,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "'t come back till early this year to\ndescribe her job and write down her address. Since then Pat had se"
+    },
+    {
+      "text": "Calvary",
+      "start_pos": 404472,
+      "end_pos": 404479,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Calvary",
+      "context": "r than a political one. Then, as\nhe stood outside Calvary, continuing his requests, he would not have\nhad t"
+    },
+    {
+      "text": "Hope",
+      "start_pos": 407911,
+      "end_pos": 407915,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": "e children\nonstage. The four youngest Cary girls: Hope, Chaste, Lovely and Pure;\nDina Poole; and one of "
+    },
+    {
+      "text": "James",
+      "start_pos": 408237,
+      "end_pos": 408242,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "James",
+      "context": "h his sister Dina;\nDrew and Harriet Person's son, James; Payne Sands' boy, Lorcas, and\ntwo of Timothy Sea"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 409206,
+      "end_pos": 409211,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": " Christianity; they were\noften its obstacle. That Jesus had been freed from white religion, and\nhe wanted"
+    },
+    {
+      "text": "job",
+      "start_pos": 409768,
+      "end_pos": 409771,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": " think education\nwas knowing just enough to get a job? She didn't seem to trust these\nRuby hardheads wi"
+    },
+    {
+      "text": "faith",
+      "start_pos": 411459,
+      "end_pos": 411464,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Faith",
+      "context": "cold.\"\n\"I meant the chart, not you. Limiting your faith to molecules\nas if-\"\n\"I don't limit anything. I j"
+    },
+    {
+      "text": "lot",
+      "start_pos": 412055,
+      "end_pos": 412058,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": " you're looking for?\"\n\"Why not? There was a whole lot of life before slavery. And we\nought to know what"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 413933,
+      "end_pos": 413938,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": ", which he arranges on the floor. The little Lord\nJesus lay down His sweet head.\nWhat's the point? Richar"
+    },
+    {
+      "text": "grace",
+      "start_pos": 414781,
+      "end_pos": 414786,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Grace",
+      "context": "own those two words mean the same\nthing.\"\nAmazing grace, how sweet the sound. In a shower of gold paper s"
+    },
+    {
+      "text": "numbers",
+      "start_pos": 420819,
+      "end_pos": 420826,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Numbers",
+      "context": "ol-before she even\nnoticed the singularity of the numbers. It was some time later that she\nsaw there were o"
+    },
+    {
+      "text": "numbers",
+      "start_pos": 425150,
+      "end_pos": 425157,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Numbers",
+      "context": "id they really think they could keep this up? The numbers, the\nbloodlines, the who fucks who? All those gen"
+    },
+    {
+      "text": "Zechariah",
+      "start_pos": 425799,
+      "end_pos": 425808,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Zechariah",
+      "context": "ity. That was their holi-\nness. That was the deal Zechariah had made during his humming\nprayer.\nIt wasn't God"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 430890,
+      "end_pos": 430894,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "orgiveness condemned her soul. But to die without\nMary Magna's fouled it per omnia saecula saeculorum. S"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 431495,
+      "end_pos": 431499,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "actually; the easiest thing in the world in 1925. Mary Magna, a\nsister, not a mother, then, flatly refus"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 432583,
+      "end_pos": 432587,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "t city.\nWhen they arrived in Puerto Limón, Sister Mary Magna placed two\nof them in an orphanage, for by "
+    },
+    {
+      "text": "Mary",
+      "start_pos": 433367,
+      "end_pos": 433371,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": " years Consolata worked hard to become and remain\nMary Magna's pride, one of her singular accomplishment"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 435463,
+      "end_pos": 435467,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "it, the house was like a\ncastle, full of a beauty Mary Magna said had to be eliminated at once.\nConsolat"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 437091,
+      "end_pos": 437095,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "un\nto build a feed store, a grocery store and, to Mary Magna's delight,\na pharmacy closer than ninety mi"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 437469,
+      "end_pos": 437473,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "On one of these trips, when Consolata accompanied Mary Magna\nin the school's Mercury station wagon, even"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 438764,
+      "end_pos": 438768,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "olata\nknew she knew them.\nIt was some time before Mary Magna could get the pharmacist's\nattention. Final"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 439003,
+      "end_pos": 439007,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "en door and, politely inclining his head, ushered Mary\nMagna in. It was while Consolata waited on the st"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 439544,
+      "end_pos": 439548,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "He rode\non past and disappeared into the feedlot. Mary Magna emerged with\nher purchases, complaining a l"
+    },
+    {
+      "text": "redemption",
+      "start_pos": 441800,
+      "end_pos": 441810,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Redemption",
+      "context": "g the one and only\nGod and a chance, thereby, for redemption. Mary Magna wrote letter\nafter letter, traveled t"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 441812,
+      "end_pos": 441816,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "d only\nGod and a chance, thereby, for redemption. Mary Magna wrote letter\nafter letter, traveled to Okla"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 442887,
+      "end_pos": 442891,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "in. One of the reasons she so gratefully\naccepted Mary Magna's hand, stretching over the litter like a d"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 446969,
+      "end_pos": 446973,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "re to hide outra-\ngeousness. If Sister Roberta or Mary Magna calls to her or asks for an\nexplanation she"
+    },
+    {
+      "text": "lot",
+      "start_pos": 447987,
+      "end_pos": 447990,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": " to explain.\"\n\"I'm trying to get on in my life. A lot of people depend on me.”\n\"I know you're married.\""
+    },
+    {
+      "text": "Mary",
+      "start_pos": 449389,
+      "end_pos": 449393,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "t struck her\nmostly on Fridays. Around noon.\nWhen Mary Magna and Sister Roberta left on business in Sep-"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 449459,
+      "end_pos": 449463,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "r Roberta left on business in Sep-\ntember, Sister Mary Elizabeth and three, now, feckless students\nconti"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 451023,
+      "end_pos": 451027,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "e swelling in the places where radishes\nhad been, Mary Magna and Sister Roberta returned, severely irrit"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 451252,
+      "end_pos": 451256,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": ", except her own. That\ndecision would come later. Mary Magna's age, seventy-two, was a con-\nsideration, "
+    },
+    {
+      "text": "Mary",
+      "start_pos": 451991,
+      "end_pos": 451995,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "n it. They could not simply walk off, could they? Mary\nMagna called everyone together to explain. Anothe"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 452445,
+      "end_pos": 452449,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": " way.\nConsolata, however, paid scant attention to Mary Magna's words.\nShe wasn't going anywhere. She wou"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 456301,
+      "end_pos": 456306,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "ear God, a truck. And one person at the\nwheel, my Jesus. And now it slowed. Consolata turned to watch it\n"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 467763,
+      "end_pos": 467767,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "idn't want to eat him. I just\nwanted to go home.\"\nMary Magna came into the chapel and, kneeling with her"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 468060,
+      "end_pos": 468064,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "he and I are the same.\n“Sh sh sh. Sh sh sh,\" said Mary Magna. \"Never speak of him\nagain.\"\nShe might not "
+    },
+    {
+      "text": "Mary",
+      "start_pos": 468145,
+      "end_pos": 468149,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "in.\"\nShe might not have agreed so quickly, but as Mary Magna led her\nout of the chapel into the schoolro"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 468348,
+      "end_pos": 468352,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "e best\nin the dark. Consolata had been spoken to.\nMary Magna spent money she could not afford to take th"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 468650,
+      "end_pos": 468654,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "and Western\nMuseum advertised on the road. Sister Mary Elizabeth said it was an\nunwise way to spend post"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 468919,
+      "end_pos": 468923,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": " only Mother and Sister Roberta were left. Sister Mary Eliza-\nbeth accepted a teaching post in Indiana. "
+    },
+    {
+      "text": "Mary",
+      "start_pos": 470617,
+      "end_pos": 470621,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "ht life for Consolata. Better than all right, for Mary\nMagna had taught her patience as the first order "
+    },
+    {
+      "text": "Mary",
+      "start_pos": 471473,
+      "end_pos": 471477,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "Consolata had nothing on her mind but the\ncare of Mary Magna.\nBut before that, before the disheveled wom"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 471591,
+      "end_pos": 471595,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "ippers\nhollered at the edge of the garden, before Mary Magna's illness, still in\na state of devotion and"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 474046,
+      "end_pos": 474050,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "When she described her spell and Lone's remedy to Mary\nMagna she laughed, saying, \"Well, the teacher I a"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 474194,
+      "end_pos": 474198,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "ything that helps, helps. But be very care-\nful.\" Mary Magna lowered her voice. \"I think she practices.\""
+    },
+    {
+      "text": "faith",
+      "start_pos": 474592,
+      "end_pos": 474597,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Faith",
+      "context": "folks need more.\"\n\"Never,\" said Consolata. “In my faith, faith is all I need.”\n\"You need what we all need"
+    },
+    {
+      "text": "faith",
+      "start_pos": 474599,
+      "end_pos": 474604,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Faith",
+      "context": "eed more.\"\n\"Never,\" said Consolata. “In my faith, faith is all I need.”\n\"You need what we all need: earth"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 478350,
+      "end_pos": 478354,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "vil craft. Something\nit would mortify her to tell Mary Magna, Jesus or the Virgin. She\nhadn't known what"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 478362,
+      "end_pos": 478367,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "omething\nit would mortify her to tell Mary Magna, Jesus or the Virgin. She\nhadn't known what she was doin"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 480021,
+      "end_pos": 480025,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": " basket back and forth for years.\nOther than with Mary Magna, “stepping in\" was of no use. There was\nno "
+    },
+    {
+      "text": "Mary",
+      "start_pos": 480567,
+      "end_pos": 480571,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": " to time. And so intense were the step-\npings in, Mary Magna glowed like a lamp till her very last breat"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 480757,
+      "end_pos": 480761,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "e woman she loved, she knew it was anathema, that Mary\nMagna would have recoiled in disgust and fury kno"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 481675,
+      "end_pos": 481679,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "d, the more dazzling her \"“in sight\" became.\nWhen Mary Magna died, Consolata, fifty-four years old, was\n"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 481880,
+      "end_pos": 481884,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "h cautioned against excessive\nhuman love and when Mary Magna left her, Consolata accepted the\nsympathy o"
+    },
+    {
+      "text": "Grace",
+      "start_pos": 482027,
+      "end_pos": 482032,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Grace",
+      "context": "support from\nMavis, the efforts to cheer her from Grace, but her rope to the world\nhad slid from her fing"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 484414,
+      "end_pos": 484418,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "en days Consolata had been\ninside, alone, keeping Mary Magna's breath coming and going, the\ncool blue li"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 484489,
+      "end_pos": 484493,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "g and going, the\ncool blue light flickering until Mary Magna asked permission to\ngo,\nbereft though she w"
+    },
+    {
+      "text": "Grace",
+      "start_pos": 484586,
+      "end_pos": 484591,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Grace",
+      "context": "h she was of the last sacrament. The second girl,\nGrace, had arrived in time to hold off the fearful lone"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 485003,
+      "end_pos": 485007,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "nerable as she had been at nine\nwhen she clung to Mary Magna's hand at the railing of the Atenas.\nWhatev"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 485645,
+      "end_pos": 485649,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "y. With the first one\nConsolata did what she knew Mary Magna would have done: quieted\nthe girl and advis"
+    },
+    {
+      "text": "Grace",
+      "start_pos": 485811,
+      "end_pos": 485816,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Grace",
+      "context": "liver there if she wanted to. Mavis was jubilant, Grace\namused. They took the field rent and drove off to"
+    },
+    {
+      "text": "hope",
+      "start_pos": 486971,
+      "end_pos": 486975,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": "The shudders in its\nspine. Otherwise there was no hope. Had it not tried to rescue itself, it\nwould brea"
+    },
+    {
+      "text": "Grace",
+      "start_pos": 487189,
+      "end_pos": 487194,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Grace",
+      "context": " flight. But\nbreathing. Sort of. Mavis took over. Grace went to bed. Together Con-\nsolata and Mavis clean"
+    },
+    {
+      "text": "Grace",
+      "start_pos": 487522,
+      "end_pos": 487527,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Grace",
+      "context": "touched, glanced at, inquired\nafter or named him. Grace called him Che and Consolata did not\nknow to this"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 489705,
+      "end_pos": 489709,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "rks? Was what I did for love of you so terrible?\"\nMary Magna had nothing to say. Consolata listened to t"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 492904,
+      "end_pos": 492909,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "sed for conversation with her father\nlast summer.\nJesus Christ where the hell are you? We thought you wer"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 493999,
+      "end_pos": 494004,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": " from? Pallas, you there? Minnesota. Min-\nnesota? Jesus. I thought you were in New Mexico. What the hell'"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 494089,
+      "end_pos": 494093,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " What the hell's up\nthere? Bloomington? No, Saint Paul. Are you near Saint Paul, sweet-\nheart? I'm not n"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 494114,
+      "end_pos": 494118,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Paul",
+      "context": "? Bloomington? No, Saint Paul. Are you near Saint Paul, sweet-\nheart? I'm not near anything, Daddy. It's"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 504760,
+      "end_pos": 504764,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Mary",
+      "context": "en so lonely for them when she'd traveled back to Mary-\nland in 1970. Watching recess at the school wher"
+    },
+    {
+      "text": "James",
+      "start_pos": 504856,
+      "end_pos": 504861,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "James",
+      "context": "ool where she had enrolled\nSal, Frankie and Billy James, she realized with a shock that Sal would\nbe in j"
+    },
+    {
+      "text": "James",
+      "start_pos": 504933,
+      "end_pos": 504938,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "James",
+      "context": "shock that Sal would\nbe in junior high now, Billy James in third grade and Frankie in fifth.\nStill, there"
+    },
+    {
+      "text": "lot",
+      "start_pos": 506156,
+      "end_pos": 506159,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "bus, another and arrived at the bus depot parking lot in\nMiddleton, where she had left the Cadillac. Ru"
+    },
+    {
+      "text": "job",
+      "start_pos": 511812,
+      "end_pos": 511815,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "at summer. She called in sick to her\nbaby-sitting job each time and stayed indoors to cut short streets"
+    },
+    {
+      "text": "lot",
+      "start_pos": 512210,
+      "end_pos": 512213,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "less intact.\nwhen Pallas arrived. She had spent a lot of time trying to cheer and\nfeed her, for when Pa"
+    },
+    {
+      "text": "Eve",
+      "start_pos": 516410,
+      "end_pos": 516413,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Eve",
+      "context": " break them in two.\nNever put one over the other. Eve is Mary's mother. Mary is the daugh-\nter of Eve.\""
+    },
+    {
+      "text": "Mary",
+      "start_pos": 516417,
+      "end_pos": 516421,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "them in two.\nNever put one over the other. Eve is Mary's mother. Mary is the daugh-\nter of Eve.\"\nThen, i"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 516432,
+      "end_pos": 516436,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "ver put one over the other. Eve is Mary's mother. Mary is the daugh-\nter of Eve.\"\nThen, in words clearer"
+    },
+    {
+      "text": "Eve",
+      "start_pos": 516458,
+      "end_pos": 516461,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Eve",
+      "context": ". Eve is Mary's mother. Mary is the daugh-\nter of Eve.\"\nThen, in words clearer than her introductory sp"
+    },
+    {
+      "text": "mark",
+      "start_pos": 519486,
+      "end_pos": 519490,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Mark",
+      "context": "er to slice her inner thigh, she\nchose instead to mark the open body lying on the cellar floor. They\nspo"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 537734,
+      "end_pos": 537739,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "hed less\nthan fifty pounds and shone like sulfur. Jesus! Said the girl he dropped\noff there was openly fl"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 538307,
+      "end_pos": 538312,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": ". No men. Kissing on themselves. Babies hid away. Jesus! No telling\nwhat else. Look what happened to Bill"
+    },
+    {
+      "text": "lot",
+      "start_pos": 545092,
+      "end_pos": 545095,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "ars till she threw\nhim out the door. Take a whole lot of healthy babies to make him for-\nget that. He's"
+    },
+    {
+      "text": "charity",
+      "start_pos": 547185,
+      "end_pos": 547192,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Charity",
+      "context": " them that and he would not tolerate this loss of charity.\nNor did Lone know the glacier that was Deacon Mo"
+    },
+    {
+      "text": "Aaron",
+      "start_pos": 552243,
+      "end_pos": 552248,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Aaron",
+      "context": "d's intention, nothing\ncould stop her. Halfway to Aaron Poole's house the Oldsmobile halted\nin a roadside"
+    },
+    {
+      "text": "Grace",
+      "start_pos": 553770,
+      "end_pos": 553775,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Grace",
+      "context": "rom sleep by its\naroma, rushed to tell Consolata, Grace and Seneca that the longed\nfor rain had finally c"
+    },
+    {
+      "text": "Grace",
+      "start_pos": 554590,
+      "end_pos": 554595,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Grace",
+      "context": "inally let go of a dark morning in\nstate housing. Grace witnessed the successful cleansing of a white shi"
+    },
+    {
+      "text": "Grace",
+      "start_pos": 555027,
+      "end_pos": 555032,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Grace",
+      "context": "urious dancer, Mavis\nthe most elegant. Seneca and Grace danced together, then parted to\nskip through fres"
+    },
+    {
+      "text": "Baptism",
+      "start_pos": 555791,
+      "end_pos": 555798,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Baptism",
+      "context": "by white immigrants. Their deeper\nWeensformations\nBaptism-like\npurification\nreverence was for the generatio"
+    },
+    {
+      "text": "lot",
+      "start_pos": 556470,
+      "end_pos": 556473,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "did not always\nknow what it was, but they spent a lot of time trying to find out. Long\nbefore Juvenal w"
+    },
+    {
+      "text": "Aaron",
+      "start_pos": 557389,
+      "end_pos": 557394,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Aaron",
+      "context": "meet him. He and Lone would get\nto Deed Sands and Aaron Poole. Melinda said they ought to notify\nDovey, b"
+    },
+    {
+      "text": "Aaron",
+      "start_pos": 565960,
+      "end_pos": 565965,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Aaron",
+      "context": "or Lone, would we?\"\n\"It'll be all right, I guess. Aaron and Pious will stop them. And the\nBeauchamps. Eve"
+    },
+    {
+      "text": "Aaron",
+      "start_pos": 570185,
+      "end_pos": 570190,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Aaron",
+      "context": "hey did to\nMenus and Fleet. It was self-defense!\"\nAaron Poole looked at K.D. who had offered that explana"
+    },
+    {
+      "text": "lot",
+      "start_pos": 572849,
+      "end_pos": 572852,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "hs. “Well, the dead don't move. And Roger's got a lot of\nwork to do.\" As the car pulls away, Lone looks"
+    },
+    {
+      "text": "lot",
+      "start_pos": 572925,
+      "end_pos": 572928,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": " car pulls away, Lone looks back at the house. “A\nlot of work.\"\nHe had none. When Roger Best got back t"
+    },
+    {
+      "text": "faith",
+      "start_pos": 573997,
+      "end_pos": 574002,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Faith",
+      "context": "le death of a child-we confirm, defer or lose\nour faith. Here in the tick tock of this moment, in this pl"
+    },
+    {
+      "text": "Noah",
+      "start_pos": 574966,
+      "end_pos": 574970,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Noah",
+      "context": " children,\ndied, people assumed the rest of them, Noah, Esther and Ming, would\nquickly follow. The first"
+    },
+    {
+      "text": "Esther",
+      "start_pos": 574972,
+      "end_pos": 574978,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Esther",
+      "context": "ren,\ndied, people assumed the rest of them, Noah, Esther and Ming, would\nquickly follow. The first was giv"
+    },
+    {
+      "text": "Esther",
+      "start_pos": 575135,
+      "end_pos": 575141,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Esther",
+      "context": "me of his great-grandfather. The second was\nnamed Esther for the great-grandmother who loved and cared for"
+    },
+    {
+      "text": "Aaron",
+      "start_pos": 581634,
+      "end_pos": 581639,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Aaron",
+      "context": " the most damning story-and Pious, Deed\nSands and Aaron-who corroborated much of Lone's version - the\nwho"
+    },
+    {
+      "text": "John",
+      "start_pos": 586322,
+      "end_pos": 586326,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "John",
+      "context": "n white shirt. No shoes. No socks.\nHe entered St. John Street, where he had planted trees fifty feet apa"
+    },
+    {
+      "text": "Luke",
+      "start_pos": 586636,
+      "end_pos": 586640,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Luke",
+      "context": "rnold Fleet-\nwood's house, near the corner of St. Luke, a couple said, “Morning,\nDeek.\" He lifted his ha"
+    },
+    {
+      "text": "Mark",
+      "start_pos": 586788,
+      "end_pos": 586792,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Mark",
+      "context": "ry helloed from the porch of her house near Cross Mark but he did\nnot turn his head. “Car broke down?\" s"
+    },
+    {
+      "text": "Matthew",
+      "start_pos": 586934,
+      "end_pos": 586941,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Matthew",
+      "context": "ury's drugstore, on the corner of Central and St. Matthew, he\nfelt rather than saw watchful eyes traveling "
+    },
+    {
+      "text": "Peter",
+      "start_pos": 587124,
+      "end_pos": 587129,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Peter",
+      "context": "rgan Sav-\nings and Loan Bank as he approached St. Peter. At Cross Peter he\ncrossed and made his way to Ri"
+    },
+    {
+      "text": "Peter",
+      "start_pos": 587140,
+      "end_pos": 587145,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Peter",
+      "context": "nd Loan Bank as he approached St. Peter. At Cross Peter he\ncrossed and made his way to Richard Misner's h"
+    },
+    {
+      "text": "Zechariah",
+      "start_pos": 590310,
+      "end_pos": 590319,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Zechariah",
+      "context": "rted on another story. It seemed his grandfather,\nZechariah, was subject to personal taunts as well as newspa"
+    },
+    {
+      "text": "job",
+      "start_pos": 590597,
+      "end_pos": 590600,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": " other work. He was even passed up for a\nteaching job at a poor country primary school. The Negroes in "
+    },
+    {
+      "text": "Zechariah",
+      "start_pos": 590730,
+      "end_pos": 590739,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Zechariah",
+      "context": "(the depression of '73 was severe), but they took\nZechariah's dignified manner for coldness and his studied s"
+    },
+    {
+      "text": "Zechariah",
+      "start_pos": 591027,
+      "end_pos": 591036,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Zechariah",
+      "context": " did odd jobs. Few knew and\nfewer remembered that Zechariah had a twin, and before he changed\nhis name, they "
+    },
+    {
+      "text": "job",
+      "start_pos": 591147,
+      "end_pos": 591150,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "as Coffee and Tea. When Coffee got the\nstatehouse job, Tea seemed as pleased as everybody else. And whe"
+    },
+    {
+      "text": "faith",
+      "start_pos": 594635,
+      "end_pos": 594640,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Faith",
+      "context": "fe's belief is a mystery.”\n\"Belief is mysterious; faith is mysterious. But God is not a mystery.\nWe are.\""
+    },
+    {
+      "text": "James",
+      "start_pos": 612682,
+      "end_pos": 612687,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "James",
+      "context": "\n\"Mostly. Frankie's fine. Gets all A's. But Billy James ain't so hot.\"\n\"Oh. Why?\"\n\"Hangs out with some re"
+    },
+    {
+      "text": "James",
+      "start_pos": 614789,
+      "end_pos": 614794,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "James",
+      "context": " back?\"\n\"Sure.\"\n\"But you'll try and talk to Billy James, won't you? And Frankie'd\nlove it. You want my ad"
+    },
+    {
+      "text": "lot",
+      "start_pos": 617171,
+      "end_pos": 617174,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": ". Jean and Jack were crossing the stadium parking lot under\nblazing klieg lights. A girl was standing i"
+    },
+    {
+      "text": "mark",
+      "start_pos": 621052,
+      "end_pos": 621056,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Mark",
+      "context": "me contrasts between thick and\nthin elements that mark most modern faces,\nand it attempts to give a feel"
+    }
+  ],
+  "by_type": {
+    "character_reference": 133,
+    "thematic_reference": 138,
+    "direct_quote": 3
+  },
+  "statistics": {
+    "avg_confidence": 0.8390510948905108,
+    "high_confidence_count": 193
+  },
+  "metadata": {
+    "filename": "mdp.39015066087613.txt",
+    "analysis_date": "2025-12-04T00:13:19.321133",
+    "text_length": 621401,
+    "analyzer": "BiblicalAllusionDetector v1.0"
+  }
+}

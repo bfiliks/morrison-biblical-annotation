@@ -1,0 +1,1037 @@
+{
+  "title": "Sula (1973)",
+  "total_allusions": 113,
+  "allusions": [
+    {
+      "text": "Solomon",
+      "start_pos": 2130,
+      "end_pos": 2137,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Solomon",
+      "context": "\n2\nS\nALSO BY TONI MORRISON\nThe Bluest Eye\nSong of Solomon\nTar Baby\nSula\n1\nSULA\nToni Morrison\nALFRED . A . K"
+    },
+    {
+      "text": "Matthew",
+      "start_pos": 5472,
+      "end_pos": 5479,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Matthew",
+      "context": ". He'd have to stand in the back\nof Greater Saint Matthew's and let the tenor's voice dress\nhim in silk, or"
+    },
+    {
+      "text": "grace",
+      "start_pos": 12351,
+      "end_pos": 12356,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Grace",
+      "context": "y of the headless soldier ran\non, with energy and grace, ignoring altogether the drip\nand slide of brain "
+    },
+    {
+      "text": "Eve",
+      "start_pos": 25093,
+      "end_pos": 25096,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Eve",
+      "context": "ew Years, 'stead of before. I get paid New Year's Eve.\"\nAnd his sweetheart answered, \"OK, but make sure"
+    },
+    {
+      "text": "redemption",
+      "start_pos": 25604,
+      "end_pos": 25614,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Redemption",
+      "context": " go on with\nShad and save the Lamb the trouble of redemption.\"\nEasily, quietly, Suicide Day became a part of t"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 26328,
+      "end_pos": 26332,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "\nunder the dolesome eyes of a multicolored Virgin Mary,\ncounseling her to be constantly on guard for any"
+    },
+    {
+      "text": "Eve",
+      "start_pos": 27217,
+      "end_pos": 27220,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Eve",
+      "context": "ew Years, 'stead of before. I get paid New Year's Eve.\"\nAnd his sweetheart answered, \"OK, but make sure"
+    },
+    {
+      "text": "redemption",
+      "start_pos": 27728,
+      "end_pos": 27738,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Redemption",
+      "context": " go on with\nShad and save the Lamb the trouble of redemption.\"\nEasily, quietly, Suicide Day became a part of t"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 28445,
+      "end_pos": 28449,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "\nunder the dolesome eyes of a multicolored Virgin Mary,\ncounseling her to be constantly on guard for any"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 40151,
+      "end_pos": 40155,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "ttin'-up. They stepped into the house. The\nVirgin Mary clasped her hands in front of her neck three\ntime"
+    },
+    {
+      "text": "lot",
+      "start_pos": 41799,
+      "end_pos": 41802,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "at your only one?\"\n\"Yes,\" said Helene.\n\"Pretty. A lot like you.\"\n\"Yes. Well. She's ten now.\"\n\"Ten? Vrai"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 46012,
+      "end_pos": 46017,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "quilts, \"I want... I want to be... wonderful. Oh, Jesus,\nmake me wonderful.\"\nThe many experiences of her "
+    },
+    {
+      "text": "trinity",
+      "start_pos": 61160,
+      "end_pos": 61167,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Trinity",
+      "context": "me\na dewey-joining with the other two to become a trinity\nwith a plural name inseparable, loving nothing an"
+    },
+    {
+      "text": "job",
+      "start_pos": 63667,
+      "end_pos": 63670,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "tly did not have\nhis rent money. When he lost his job altogether, he would\ngo out in the morning, scrou"
+    },
+    {
+      "text": "job",
+      "start_pos": 65456,
+      "end_pos": 65459,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "sense letters about\nminor troubles, her husband's job and who the children\nfavored. Hannah married a la"
+    },
+    {
+      "text": "baptism",
+      "start_pos": 76059,
+      "end_pos": 76066,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Baptism",
+      "context": "le pouring\na wet lightness over him. Some kind of baptism, some kind\nof blessing, he thought. Everything is"
+    },
+    {
+      "text": "hope",
+      "start_pos": 87840,
+      "end_pos": 87844,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": "ould do it\nenthusiastically but without the least hope in the world.\n\"While you sittin' there, honey, go"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 102525,
+      "end_pos": 102530,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Jesus",
+      "context": "t and themselves. For some it was the term \"Sweet\nJesus.\" And they saw the Lamb's eye and the truly inno-"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 106349,
+      "end_pos": 106353,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "tonight.\"\n\"Thought you was gone can some.\"\n\"Uncle Paul ain't brought me none yet. A peck ain't\nenough to"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 107154,
+      "end_pos": 107158,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "dying like\nflies. Stepping tall, ain't you? Uncle Paul gone bring me\ntwo bushels. Yeh. And they's a melo"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 119416,
+      "end_pos": 119421,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "er running, dancing\ntoward them. They whispered, \"Jesus, Jesus,\" and to-\ngether hoisted up their tub of w"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 119423,
+      "end_pos": 119428,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "ing, dancing\ntoward them. They whispered, \"Jesus, Jesus,\" and to-\ngether hoisted up their tub of water in"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 120464,
+      "end_pos": 120469,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "to each other\nand to God. In the midst of calling Jesus they heard the\nhollow clang of the ambulance bell"
+    },
+    {
+      "text": "Jude",
+      "start_pos": 125747,
+      "end_pos": 125751,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": "rls and a comfortable one among men. His\nname was Jude Greene, and with the pick of some eight or\nten gi"
+    },
+    {
+      "text": "job",
+      "start_pos": 125957,
+      "end_pos": 125960,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "get married. He was twenty\nthen, and although his job as a waiter at the Hotel Medal-\nlion was a blessi"
+    },
+    {
+      "text": "Jude",
+      "start_pos": 126946,
+      "end_pos": 126950,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": "er Road).\nAlong with a few other young black men, Jude had\ngone down to the shack where they were hiring"
+    },
+    {
+      "text": "Jude",
+      "start_pos": 127405,
+      "end_pos": 127409,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": "ack men who could tear that road up. The men\nlike Jude who could do real work. Jude himself longed\nmore "
+    },
+    {
+      "text": "Jude",
+      "start_pos": 127434,
+      "end_pos": 127438,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": "oad up. The men\nlike Jude who could do real work. Jude himself longed\nmore than anybody else to be taken"
+    },
+    {
+      "text": "job",
+      "start_pos": 129998,
+      "end_pos": 130001,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "s head of a household pinned to\nan unsatisfactory job out of necessity. The two of them\ntogether would "
+    },
+    {
+      "text": "Jude",
+      "start_pos": 130060,
+      "end_pos": 130064,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": "ecessity. The two of them\ntogether would make one Jude.\nHis fears lest his burst dream of road building "
+    },
+    {
+      "text": "Jude",
+      "start_pos": 130254,
+      "end_pos": 130258,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": "peared altogether when she dis-\ncovered his pain. Jude could see himself taking shape in\nher eyes. She a"
+    },
+    {
+      "text": "Jude",
+      "start_pos": 131005,
+      "end_pos": 131009,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": "\nstern and undemonstrative parents was Sula. When Jude\nbegan to hover around, she was flattered all the "
+    },
+    {
+      "text": "Jude",
+      "start_pos": 131431,
+      "end_pos": 131435,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": "e was a challenge\nto the other.\nNel's response to Jude's shame and anger selected her\naway from Sula. An"
+    },
+    {
+      "text": "Jude",
+      "start_pos": 131625,
+      "end_pos": 131629,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": "singly. She didn't even know she had a neck until Jude\nremarked on it, or that her smile was anything bu"
+    },
+    {
+      "text": "Jude",
+      "start_pos": 132825,
+      "end_pos": 132829,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": " into the first grade together.\nI\nthas\n60\nNel and Jude, who had been the stars all during the\nwedding, w"
+    },
+    {
+      "text": "Jude",
+      "start_pos": 133264,
+      "end_pos": 133268,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": "t. They had taken a housekeeping room with one of\nJude's aunts (over the protest of Mrs. Wright, who had"
+    },
+    {
+      "text": "Jude",
+      "start_pos": 133473,
+      "end_pos": 133477,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": "restless\nto go there.\nAs if reading her thoughts, Jude leaned down and whis-\npered, \"Me too.\" Nel smiled"
+    },
+    {
+      "text": "Eve",
+      "start_pos": 134206,
+      "end_pos": 134209,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Eve",
+      "context": "be thick with birds.\nDisappars like her\ngrandine, Eve\n\nPART\nTWO\n\nPART\nTWO\n\n1937\nAccompanied by a plague"
+    },
+    {
+      "text": "John",
+      "start_pos": 137536,
+      "end_pos": 137540,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "John",
+      "context": "ula could answer his mother had called him, \"You, John.\nGet back in here.\"\nAt Eva's house there were fou"
+    },
+    {
+      "text": "hope",
+      "start_pos": 138200,
+      "end_pos": 138204,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": "The rest of my stuff\nwill be on later.\"\n\"I should hope so. Them little old furry tails ain't going\nto do"
+    },
+    {
+      "text": "Grace",
+      "start_pos": 140629,
+      "end_pos": 140634,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Grace",
+      "context": "\"What the hell do I care about falling?\"\n\"Amazing Grace.\"\n\"You sold your life for twenty-three dollars a "
+    },
+    {
+      "text": "Matthew",
+      "start_pos": 142337,
+      "end_pos": 142344,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Matthew",
+      "context": "et\nagainst the whitewashed walls of Greater Saint Matthew's.\nNel listened and was moved to smile. To smile "
+    },
+    {
+      "text": "Jude",
+      "start_pos": 143645,
+      "end_pos": 143649,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": "the living-room window shade. Even Nel's love for Jude,\nwhich over the years had spun a steady gray web "
+    },
+    {
+      "text": "mark",
+      "start_pos": 144513,
+      "end_pos": 144517,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Mark",
+      "context": "nt in the May shine.\naveless Hey, girl.\" The rose mark over Sula's eye gave her\ndifferentglance\n1-\nerice"
+    },
+    {
+      "text": "Hope",
+      "start_pos": 145345,
+      "end_pos": 145349,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": "ome yet, but it's good and cold.\"\n\"That's fine.\"\n“Hope I didn't speak too soon. Kids run in and out of\nh"
+    },
+    {
+      "text": "Jude",
+      "start_pos": 145467,
+      "end_pos": 145471,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": "bent to open the icebox.\n\"You puttin' it on, Nel. Jude must be wore out.\"\n\"Jude must be wore out? You do"
+    },
+    {
+      "text": "Jude",
+      "start_pos": 145492,
+      "end_pos": 145496,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": "\"You puttin' it on, Nel. Jude must be wore out.\"\n\"Jude must be wore out? You don't care nothin' 'bout\nmy"
+    },
+    {
+      "text": "Jude",
+      "start_pos": 145607,
+      "end_pos": 145611,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": "ou?\"\n\"Is that where it's at, in your back?\"\n\"Hah! Jude thinks it's everywhere.\"\nwhat is\n\"げ​?\n\"He's right"
+    },
+    {
+      "text": "John",
+      "start_pos": 145732,
+      "end_pos": 145736,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "John",
+      "context": "ust be glad he found it,\nwherever it is. Remember John L.?\"\n\"When Shirley said he got her down by the we"
+    },
+    {
+      "text": "John",
+      "start_pos": 146000,
+      "end_pos": 146004,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "John",
+      "context": "ck?\"\n\"Mmm. Like a ox.\"\n\"That was one dumb nigger, John L.\"\n\"Maybe. Maybe he was just sanitary.\"\n\"Sanitar"
+    },
+    {
+      "text": "mark",
+      "start_pos": 147100,
+      "end_pos": 147104,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Mark",
+      "context": "d time-y stuff.\"\n\"Tell us.\"\n\"Tell you?\" The black mark leaped.\n\"Uh huh. Tell us.\"\n\"What tickles us would"
+    },
+    {
+      "text": "John",
+      "start_pos": 147354,
+      "end_pos": 147358,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "John",
+      "context": "\"What happened?\"\n\"Well, some old boy we knew name John L. and a girl\nname...\"\nDamp-faced, Nel stepped ba"
+    },
+    {
+      "text": "lot",
+      "start_pos": 147929,
+      "end_pos": 147932,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "ats me. Such a simple thing.\"\n\"But we sure made a lot out of it, and the boys were\ndumber than we were."
+    },
+    {
+      "text": "Jude",
+      "start_pos": 152887,
+      "end_pos": 152891,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": "n ran in announcing the\nentrance of their father. Jude opened the back door and\nwalked into the kitchen."
+    },
+    {
+      "text": "Jude",
+      "start_pos": 153094,
+      "end_pos": 153098,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": "che under his nose, and a part in his hair.\n\"Hey, Jude. What you know good?\"\n\"White man running it-nothi"
+    },
+    {
+      "text": "Jude",
+      "start_pos": 153737,
+      "end_pos": 153741,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": "ooked like a pretty good\nlife to her.\n\"Say what?\" Jude's temper flared just a bit as he looked\nat this f"
+    },
+    {
+      "text": "lot",
+      "start_pos": 154018,
+      "end_pos": 154021,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "try trying to find some man to burden down with\na lot of lip and a lot of mouths.\nSula was smiling. \"I "
+    },
+    {
+      "text": "lot",
+      "start_pos": 154035,
+      "end_pos": 154038,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "d some man to burden down with\na lot of lip and a lot of mouths.\nSula was smiling. \"I mean, I don't kno"
+    },
+    {
+      "text": "Jude",
+      "start_pos": 155234,
+      "end_pos": 155238,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": ". It looks\nto me like you the envy of the world.\"\nJude and Nel were laughing, he saying, \"Well, if that'"
+    },
+    {
+      "text": "Jude",
+      "start_pos": 155891,
+      "end_pos": 155895,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": "ownward\nwhile it waited with every confidence for Jude to return.\n...\nCould he be gone if his tie is sti"
+    },
+    {
+      "text": "Jude",
+      "start_pos": 156077,
+      "end_pos": 156081,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": "uld\ntell him. Sit down quietly and tell him. \"But\nJude,\" she would say, \"you knew me. All those days and"
+    },
+    {
+      "text": "Jude",
+      "start_pos": 156139,
+      "end_pos": 156143,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": "ould say, \"you knew me. All those days and\nyears, Jude, you knew me. My ways and my hands and\nhow my sto"
+    },
+    {
+      "text": "Jude",
+      "start_pos": 156325,
+      "end_pos": 156329,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": "he landlord said\n...\nbut you said... and I cried, Jude. You knew me and\nhad listened to the things I sai"
+    },
+    {
+      "text": "Jude",
+      "start_pos": 156499,
+      "end_pos": 156503,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": " girdle and I\nlaughed too because I knew you too, Jude. So how could\nyou leave me when you knew me?\"\nBut"
+    },
+    {
+      "text": "Jude",
+      "start_pos": 157166,
+      "end_pos": 157170,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": ". But then they did look\nup. Or you did. You did, Jude. And if only you had not\nlooked at me the way the"
+    },
+    {
+      "text": "Jude",
+      "start_pos": 158700,
+      "end_pos": 158704,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": " I didn't want to say it in\nevoking front of her, Jude. And even when you began to talk, I\ncouldn't hear"
+    },
+    {
+      "text": "Jude",
+      "start_pos": 158975,
+      "end_pos": 158979,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": "ed to custard.\nRemember how big that bedroom was? Jude? How\nwhen we moved here we said, Well, at least w"
+    },
+    {
+      "text": "Jude",
+      "start_pos": 159081,
+      "end_pos": 159085,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": "got us a\nreal big bedroom, but it was small then, Jude, and so\nshambly, and maybe it was that way all al"
+    },
+    {
+      "text": "lot",
+      "start_pos": 165501,
+      "end_pos": 165504,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "hat, somebody she\ncould confide in and who knew a lot of things, like Sula,\nfor Sula would know or if s"
+    },
+    {
+      "text": "Jude",
+      "start_pos": 165817,
+      "end_pos": 165821,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": "nd talked things over. That was too much. To lose Jude\nand not have Sula to talk to about it because it "
+    },
+    {
+      "text": "Jude",
+      "start_pos": 166565,
+      "end_pos": 166569,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": " it\nwas Sula who had taken the life from them and Jude who\nsmashed her heart and the both of them who le"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 166795,
+      "end_pos": 166800,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "walk up and down these rooms? What good are they,\nJesus? They will never give me the peace I need to get "
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 167241,
+      "end_pos": 167246,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "ul the\ncoal up out of the bin even then nobody, O Jesus, I could\nbe a mule or plow the furrows with my ha"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 167527,
+      "end_pos": 167532,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "s but\nyou are trying to tell me no and O my sweet Jesus what\nkind of cross is that?\nShe can nower ke\nInti"
+    },
+    {
+      "text": "Jude",
+      "start_pos": 167783,
+      "end_pos": 167787,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": "la\nwas a roach. Later, when they saw how she took Jude,\nthen ditched him for others, and heard how he bo"
+    },
+    {
+      "text": "lot",
+      "start_pos": 171145,
+      "end_pos": 171148,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "the daintiness of his bones. Teapot's\nMamma got a lot of attention anyway and immersed her-\nself in a r"
+    },
+    {
+      "text": "grace",
+      "start_pos": 175228,
+      "end_pos": 175233,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Grace",
+      "context": "\n\"Well, everybody know he a reprobate.\"\naway from grace\n\"Yeh, so how come he tip his hat to Sula? How com"
+    },
+    {
+      "text": "grace",
+      "start_pos": 176551,
+      "end_pos": 176556,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Grace",
+      "context": "rld, aberrations were as much a part of\nnature as grace. It was not for them to expel or annihilate\nit. T"
+    },
+    {
+      "text": "Jude",
+      "start_pos": 179020,
+      "end_pos": 179024,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": "l of caus-\ning Nel pain when she bedded down with Jude. They\nhad always shared the affection of other pe"
+    },
+    {
+      "text": "grace",
+      "start_pos": 180037,
+      "end_pos": 180042,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Grace",
+      "context": "rld, aberrations were as much a part of\nnature as grace. It was not for them to expel or annihilate\nit. T"
+    },
+    {
+      "text": "Jude",
+      "start_pos": 182501,
+      "end_pos": 182505,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": "l of caus-\ning Nel pain when she bedded down with Jude. They\nhad always shared the affection of other pe"
+    },
+    {
+      "text": "John",
+      "start_pos": 194005,
+      "end_pos": 194009,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "John",
+      "context": "hat she\nneeded, as well as to order Van Van, High John the Con-\nqueror, Little John to Chew, Devil's Sho"
+    },
+    {
+      "text": "John",
+      "start_pos": 194034,
+      "end_pos": 194038,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "John",
+      "context": " order Van Van, High John the Con-\nqueror, Little John to Chew, Devil's Shoe String, Chinese\nWash, Musta"
+    },
+    {
+      "text": "Matthew",
+      "start_pos": 195575,
+      "end_pos": 195582,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Matthew",
+      "context": "suits of the occult as the women of Greater Saint\nMatthew's were in the search for redeeming grace. So\nwhen"
+    },
+    {
+      "text": "grace",
+      "start_pos": 195618,
+      "end_pos": 195623,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Grace",
+      "context": " Saint\nMatthew's were in the search for redeeming grace. So\nwhen his curiosity was high enough he picked "
+    },
+    {
+      "text": "Jude",
+      "start_pos": 197897,
+      "end_pos": 197901,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": "ded-up window. She was smiling,\nthinking how like Jude's was his craving to do the white\nman's work, whe"
+    },
+    {
+      "text": "hope",
+      "start_pos": 201132,
+      "end_pos": 201136,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": "ll\nbelow.\nShe put her head under his chin with no hope in the\nworld of keeping anything at all at bay.\nI"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 208536,
+      "end_pos": 208541,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "at have I done to deserve the wrath, and\nTake me, Jesus, I have seen the promised land, and Do,\nLord, rem"
+    },
+    {
+      "text": "promised land",
+      "start_pos": 208559,
+      "end_pos": 208572,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Promised Land",
+      "context": "ve the wrath, and\nTake me, Jesus, I have seen the promised land, and Do,\nLord, remember me in voices mellowed by "
+    },
+    {
+      "text": "Jude",
+      "start_pos": 211921,
+      "end_pos": 211925,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": "Moreover, she would be doing it with the taste of Jude's\nexit in her mouth, with the resentment and sham"
+    },
+    {
+      "text": "Jude",
+      "start_pos": 212067,
+      "end_pos": 212071,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": " stomach. She would be\nfacing the black rose that Jude had kissed and looking at\nthe nostrils of the wom"
+    },
+    {
+      "text": "Jude",
+      "start_pos": 212403,
+      "end_pos": 212407,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": "breath away in its crying\nneed for honey.\nBecause Jude's leaving was so complete, the full re-\nsponsibil"
+    },
+    {
+      "text": "job",
+      "start_pos": 212689,
+      "end_pos": 212692,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "ived on. And just this past year she\ngot a better job working as a chambermaid in the same\nhotel Jude h"
+    },
+    {
+      "text": "Jude",
+      "start_pos": 212736,
+      "end_pos": 212740,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": "er job working as a chambermaid in the same\nhotel Jude had worked in. The tips were only fair, but\nthe h"
+    },
+    {
+      "text": "charity",
+      "start_pos": 213240,
+      "end_pos": 213247,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Charity",
+      "context": "gone by; it hid from her the true motives for\nher charity, and, finally, it gave her voice the timbre she\nw"
+    },
+    {
+      "text": "Jude",
+      "start_pos": 220366,
+      "end_pos": 220370,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": "ont of me, behind me, in my head. Some space. And\nJude filled it up. That's all. He just filled up the s"
+    },
+    {
+      "text": "hope",
+      "start_pos": 230240,
+      "end_pos": 230244,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": "\nthere were rumors that blacks would work it, and hope\nwas high in spite of the fact that the River Road"
+    },
+    {
+      "text": "job",
+      "start_pos": 230568,
+      "end_pos": 230571,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "k-no, they would\nnot get that. But it was a major job, and the government\nseemed to favor opening up em"
+    },
+    {
+      "text": "hope",
+      "start_pos": 231232,
+      "end_pos": 231236,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": "t Sula's throat.\nSo it was with a strong sense of hope that the people in\nthe Bottom watched October clo"
+    },
+    {
+      "text": "mark",
+      "start_pos": 239605,
+      "end_pos": 239609,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Mark",
+      "context": "that was how he knew she was a friend-she had the\nmark of the fish he loved), and one of her braids had\n"
+    },
+    {
+      "text": "hope",
+      "start_pos": 244922,
+      "end_pos": 244926,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": "e sunshine would last, as though there really\nwas hope. The same hope that kept them picking beans\nfor o"
+    },
+    {
+      "text": "hope",
+      "start_pos": 244937,
+      "end_pos": 244941,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": "d last, as though there really\nwas hope. The same hope that kept them picking beans\nfor other farmers; k"
+    },
+    {
+      "text": "hope",
+      "start_pos": 246589,
+      "end_pos": 246593,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": "heir hooded eyes swept over\nthe place where their hope had lain since 1927. There was\nthe promise: leaf-"
+    },
+    {
+      "text": "lot",
+      "start_pos": 247941,
+      "end_pos": 247944,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "af-dead promise, they\nwent too deep, too far...\nA lot of them died there. The earth, now warm,\nshifted;"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 249879,
+      "end_pos": 249884,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "from the way she remembered them forty years ago.\nJesus, there were some beautiful boys in 1921! Look lik"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 250028,
+      "end_pos": 250033,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "with them.\nThirteen, fourteen, fifteen years old. Jesus, they were fine.\nL. P., Paul Freeman and his brot"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 250058,
+      "end_pos": 250062,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " fifteen years old. Jesus, they were fine.\nL. P., Paul Freeman and his brother Jake, Mrs. Scott's\ntwins-"
+    },
+    {
+      "text": "lot",
+      "start_pos": 251749,
+      "end_pos": 251752,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "e same nine that had\nbeen in the other one. But a lot of white ones. White\npeople didn't fret about put"
+    },
+    {
+      "text": "lot",
+      "start_pos": 251838,
+      "end_pos": 251841,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "fret about putting their old ones away. It\ntook a lot for black people to let them go, and even if\nsome"
+    },
+    {
+      "text": "Jude",
+      "start_pos": 252426,
+      "end_pos": 252430,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": "ace in her mind. For over twenty-five\nyears since Jude walked out she had pinned herself into a\ntiny lif"
+    },
+    {
+      "text": "Jude",
+      "start_pos": 253022,
+      "end_pos": 253026,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": "l that had been\nabout.\nIt didn't take long, after Jude left, for her to see what\nthe future would be. Sh"
+    },
+    {
+      "text": "numbers",
+      "start_pos": 263788,
+      "end_pos": 263795,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Numbers",
+      "context": " stopped what they were do-\ning and turned out in numbers to put the fallen sister\naway.\nIt was Nel who fin"
+    },
+    {
+      "text": "Jude",
+      "start_pos": 266666,
+      "end_pos": 266670,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Jude",
+      "context": "that time, all that time, I thought I was missing\nJude.\" And the loss pressed down on her chest and came"
+    }
+  ],
+  "by_type": {
+    "character_reference": 30,
+    "thematic_reference": 83
+  },
+  "statistics": {
+    "avg_confidence": 0.8508849557522126,
+    "high_confidence_count": 79
+  },
+  "metadata": {
+    "filename": "uc1.32106019072633.txt",
+    "analysis_date": "2025-12-04T00:10:10.338606",
+    "text_length": 269666,
+    "analyzer": "BiblicalAllusionDetector v1.0"
+  }
+}

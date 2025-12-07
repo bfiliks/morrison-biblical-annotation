@@ -1,0 +1,3684 @@
+{
+  "title": "Beloved (1987)",
+  "total_allusions": 407,
+  "allusions": [
+    {
+      "text": "Solomon",
+      "start_pos": 236,
+      "end_pos": 243,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Solomon",
+      "context": "ALSO BY TONI MORRISON\nThe Bluest Eye\nSula\nSong of Solomon\nTar Baby\nBELOVED\nN\nI\nI\n8\nGift\n6129107\nBELOVED\nA N"
+    },
+    {
+      "text": "ROMANS 9:25",
+      "start_pos": 1087,
+      "end_pos": 1098,
+      "type": "direct_quote",
+      "confidence": 0.95,
+      "biblical_source": "Romans 9:25",
+      "context": "y people;\nand her beloved,\nwhich was not beloved.\nROMANS 9:25\n1\nOne\nI\n1\n1\n1\n--\n124 WAS SPITEFUL. Full of a baby"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 9464,
+      "end_pos": 9468,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ory, sitting on the\nporch not forty feet away was Paul D, the last of the Sweet Home\nmen. And although s"
+    },
+    {
+      "text": "lot",
+      "start_pos": 10454,
+      "end_pos": 10457,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "r the house.\n\"No, uh uh. Can't baby feet. A whole lot more tramping they\ngot to do yet.\"\n\"You can't lea"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 10522,
+      "end_pos": 10526,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "they\ngot to do yet.\"\n\"You can't leave right away, Paul D. You got to stay awhile.\"\n\"Well, long enough to"
+    },
+    {
+      "text": "hope",
+      "start_pos": 10687,
+      "end_pos": 10691,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": "\"\n\"Eight years now. Almost nine.\"\n\"Was it hard? I hope she didn't die hard.\"\nSethe shook her head. \"Soft"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 12932,
+      "end_pos": 12936,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "f too, God bless her.\"\n\"You could stay the night, Paul D.\"\n\"You don't sound too steady in the offer.\"\nSe"
+    },
+    {
+      "text": "hope",
+      "start_pos": 13071,
+      "end_pos": 13075,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": "ard the closed door. \"Oh\nit's truly meant. I just hope you'll pardon my house. Come on in.\nTalk to Denve"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 13159,
+      "end_pos": 13163,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "n.\nTalk to Denver while I cook you something.'\n\"\"\nPaul D tied his shoes together, hung them over his sho"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 14990,
+      "end_pos": 14994,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " fire as her pregnant belly allowed\nand told him, Paul D, the last of the Sweet Home men.\nThere had been"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 16084,
+      "end_pos": 16088,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "th of em walked off just before Baby Suggs died.\"\nPaul D looked at the spot where the grief had soaked h"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 16605,
+      "end_pos": 16609,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "urant in\ntown. And I sew a little on the sly.'\n\"\"\nPaul D smiled then, remembering the bedding dress. Set"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 18340,
+      "end_pos": 18344,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "e and call his own niggers men.\nAnd so they were: Paul D Garner, Paul F Garner, Paul A Garner,\nHalle Sug"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 18355,
+      "end_pos": 18359,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "own niggers men.\nAnd so they were: Paul D Garner, Paul F Garner, Paul A Garner,\nHalle Suggs and Sixo, th"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 18370,
+      "end_pos": 18374,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": ".\nAnd so they were: Paul D Garner, Paul F Garner, Paul A Garner,\nHalle Suggs and Sixo, the wild man. All"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 19209,
+      "end_pos": 19213,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "the blue-and-white wallpaper of the second floor.\nPaul D could see just the beginning of the paper; disc"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 19598,
+      "end_pos": 19602,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "s\nround and brown with the face of an alert doll.\nPaul D looked at the girl and then at Sethe who smiled"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 19693,
+      "end_pos": 19697,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ho smiled saying,\n\"Here she is my Denver. This is Paul D, honey, from Sweet Home.\"\n\"Good morning, Mr. D."
+    },
+    {
+      "text": "Paul",
+      "start_pos": 19764,
+      "end_pos": 19768,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "weet Home.\"\n\"Good morning, Mr. D.\"\n\"Garner, baby. Paul D Garner.\"\n\"Yes sir.\"\n\"Glad to get a look at you."
+    },
+    {
+      "text": "Paul",
+      "start_pos": 22069,
+      "end_pos": 22073,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "by ghost.\n\"She's a fine-looking young lady,\" said Paul D. \"Fine-looking.\nGot her daddy's sweet face.\"\n\"Y"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 23545,
+      "end_pos": 23549,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "”\n\"Rebuked. Lonely and rebuked.\"\n\"Is that right?\" Paul D turned to Sethe.\n\"I don't know about lonely,\" s"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 23843,
+      "end_pos": 23847,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "y sister,\" said Denver. \"She died in this house.\"\nPaul D scratched the hair under his jaw. \"Reminds me o"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 24190,
+      "end_pos": 24194,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "u would have stayed.\"\n\"Girl, who you talking to?\"\nPaul D laughed. \"True, true. She's right, Sethe. It wa"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 24621,
+      "end_pos": 24625,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ed him.\"\n\"Don't go to any trouble on my account,\" Paul D said.\n\"Bread ain't trouble. The rest I brought "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 25260,
+      "end_pos": 25264,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "new you to behave this\nway.\"\n\"Leave her be,\" said Paul D. \"I'm a stranger to her.\"\n\"That's just it. She "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 25839,
+      "end_pos": 25843,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "'s she talking 'bout nobody speaks to you?\" asked Paul D.\n\"It's the house. People don't-\"\n\"It's not! It'"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 26266,
+      "end_pos": 26270,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Paul",
+      "context": "ns this house?\"\nOver Denver's shoulder Sethe shot Paul D a look of snow. \"What\nyou care?\"\n\"They won't le"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 26838,
+      "end_pos": 26842,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "id for the ticket, but let me tell\nyou something, Paul D Garner: it cost too much! Do you hear me?\nIt co"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 26951,
+      "end_pos": 26955,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ch. Now sit down and eat with us or leave us be.\"\nPaul D fished in his vest for a little pouch of tobacc"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 29479,
+      "end_pos": 29483,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ere with it.\"\n\"Men don't know nothing much,\" said Paul D, tucking his pouch\nback into his vest pocket, \""
+    },
+    {
+      "text": "Paul",
+      "start_pos": 30405,
+      "end_pos": 30409,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "cuits in. As she raised up from the heat\nshe felt Paul D behind her and his hands under her breasts. She"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 33118,
+      "end_pos": 33122,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "room. The pulse of red light hadn't come back\nand Paul D had not trembled since 1856 and then for eighty"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 33797,
+      "end_pos": 33801,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " vague smile on her lips.\n\"God damn it! Hush up!\" Paul D was shouting, falling, reaching\nfor anchor. \"Le"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 34231,
+      "end_pos": 34235,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "!\"\nThe quaking slowed to an occasional lurch, but Paul D did not\nstop whipping the table around until ev"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 34528,
+      "end_pos": 34532,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " chest. The three of them, Sethe, Denver,\nI 9\nand Paul D, breathed to the same beat, like one tired pers"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 36229,
+      "end_pos": 36233,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "T QUITE in a hurry, but losing no time, Sethe and Paul D climbed\nthe white stairs. Overwhelmed as much b"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 36382,
+      "end_pos": 36386,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " in it as by the certainty of giving her his\nsex, Paul D dropped twenty-five years from his recent memor"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 37770,
+      "end_pos": 37774,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ad turned from him. Out of the\ncorner of his eye, Paul D saw the float of her breasts and disliked it,\nt"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 40286,
+      "end_pos": 40290,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " and the \"tree\" lying next to him didn't compare.\nPaul D looked through the window above his feet and fo"
+    },
+    {
+      "text": "lot",
+      "start_pos": 43334,
+      "end_pos": 43337,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "?\nWell now, that's somebody.\"\nIt made sense for a lot of reasons because in all of Baby's life, as\nwell"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 45077,
+      "end_pos": 45081,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ch but changed her mind.\nShe did not want to call Paul D's attention back to her, so she settled\nfor cro"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 45153,
+      "end_pos": 45157,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " her, so she settled\nfor crossing her ankles.\nBut Paul D noticed the movement as well as the change in h"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 47726,
+      "end_pos": 47730,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "itself on his indigo\nbehind.\nHe told the story to Paul F, Halle, Paul A and Paul D in the\npeculiar way t"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 47741,
+      "end_pos": 47745,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ndigo\nbehind.\nHe told the story to Paul F, Halle, Paul A and Paul D in the\npeculiar way that made them c"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 47752,
+      "end_pos": 47756,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "d.\nHe told the story to Paul F, Halle, Paul A and Paul D in the\npeculiar way that made them cry-laugh. S"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 48320,
+      "end_pos": 48324,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "the. Nothing could be as\ngood as the sex with her Paul D had been imagining off and on for\ntwenty-five y"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 51372,
+      "end_pos": 51376,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "she managed not to laugh\naloud.\nThe jump, thought Paul D, from a calf to a girl wasn't all that\nmighty. "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 52070,
+      "end_pos": 52074,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "The water running\nover their heads made it worse.\nPaul D sighed and turned over. Sethe took the opportun"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 52184,
+      "end_pos": 52188,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Paul",
+      "context": "rded by his movement to shift as well. Looking at Paul D's back,\nshe remembered that some of the corn st"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 52605,
+      "end_pos": 52609,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ner could not doubt was the fault of the\nraccoon. Paul F wanted his roasted; Paul A wanted his boiled an"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 52632,
+      "end_pos": 52636,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " fault of the\nraccoon. Paul F wanted his roasted; Paul A wanted his boiled and\nnow Paul D couldn't remem"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 52665,
+      "end_pos": 52669,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ted his roasted; Paul A wanted his boiled and\nnow Paul D couldn't remember how finally they'd cooked tho"
+    },
+    {
+      "text": "salvation",
+      "start_pos": 55099,
+      "end_pos": 55108,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Salvation",
+      "context": "he live green walls, she felt ripe and clear, and salvation\nwas as easy as a wish.\nOnce when she was in the b"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 55188,
+      "end_pos": 55192,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "hen she was in the boxwood, an autumn long before Paul\nD moved into the house with her mother, she was m"
+    },
+    {
+      "text": "Seth",
+      "start_pos": 59316,
+      "end_pos": 59320,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Seth",
+      "context": "d of cooing\nwomen each of whom was called Ma'am.\n\"Seth-thuh.\"\n\"Ma'am.\"\n\"Hold on to the baby.\"\n\"Yes, Ma'a"
+    },
+    {
+      "text": "Seth",
+      "start_pos": 59375,
+      "end_pos": 59379,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Seth",
+      "context": ".\"\n\"Ma'am.\"\n\"Hold on to the baby.\"\n\"Yes, Ma'am.'\n\"Seth-thuh.\"\n\"Ma'am.\"\n\"\"\n\"Get some kindlin in here.\"\n3 "
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 62547,
+      "end_pos": 62552,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": " tender tongue.\n\"Them the feet you running on? My Jesus my.\" She squatted\ndown and stared at Sethe's feet"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 70889,
+      "end_pos": 70893,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ner passed. The men could have done it, even with Paul F sold.\nBut it was like Halle said. She didn't wa"
+    },
+    {
+      "text": "lot",
+      "start_pos": 71238,
+      "end_pos": 71241,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "alked soft and spit in handkerchiefs. Gentle in a lot\nof ways. You know, the kind who know Jesus by His"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 71279,
+      "end_pos": 71284,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "tle in a lot\nof ways. You know, the kind who know Jesus by His first name, but\nout of politeness never us"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 72366,
+      "end_pos": 72370,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ve plans.\"\nWhatever they were or might have been, Paul D messed them up\nfor good. With a table and a lou"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 73384,
+      "end_pos": 73388,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "had given little thought to the white dress until Paul D\ncame, and then she remembered Denver's interpre"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 73492,
+      "end_pos": 73496,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "on: plans. The\nmorning after the first night with Paul D, Sethe smiled just thinking\nabout what the word"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 73908,
+      "end_pos": 73912,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ak-\ning more.\nYet the morning she woke up next to Paul D, the word her\ndaughter had used a few years ago"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 77045,
+      "end_pos": 77049,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ere was no room for any other thing or body until\nPaul D arrived and broke up the place, making room, sh"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 77235,
+      "end_pos": 77239,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "o, kneeling in the keeping room the morning after Paul D came,\nshe was distracted by the two orange squa"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 81777,
+      "end_pos": 81781,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "g with me. Rats bit everything in there\nbut her.\"\nPaul D turned away. He wanted to know more about it, b"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 82325,
+      "end_pos": 82329,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ving was simply not\nthat other one.\nThe fact that Paul D had come out of \"that other one\" into her\nbed w"
+    },
+    {
+      "text": "job",
+      "start_pos": 82516,
+      "end_pos": 82519,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": " beginning to stroke her mind. As for Denver,\nthe job Sethe had of keeping her from the past that was s"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 82829,
+      "end_pos": 82833,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " interference and on the\nthird day flat-out asked Paul D how long he was going to hang\naround.\nThe phras"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 83025,
+      "end_pos": 83029,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ping boards toward the front\ndoor.\n\"Hang around?\" Paul D didn't even look at the mess he had\nmade.\n\"Denv"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 83172,
+      "end_pos": 83176,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "er daughter,\nfeeling more embarrassed than angry.\nPaul D scratched the hair on his chin. \"Maybe I should"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 83661,
+      "end_pos": 83665,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "and more bread to the heap she was carrying away.\nPaul D leaned over to wipe the spilled coffee with his"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 83977,
+      "end_pos": 83981,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " another\ncupful, and set it carefully before him. Paul D touched its rim but\ndidn't say anything-as thou"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 84298,
+      "end_pos": 84302,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ld have to do it.\n\"I didn't train her like that.\"\nPaul D stroked the rim of the\ncup.\n\"And I'm as surpris"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 84394,
+      "end_pos": 84398,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " surprised by her manners as you are hurt by em.'\nPaul D looked at Sethe. \"Is there history to her quest"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 84735,
+      "end_pos": 84740,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "u know what I mean.\"\n\"I do and I don't like it.\"\n\"Jesus,\" he whispered.\n\"Who?\" Sethe was getting loud aga"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 84795,
+      "end_pos": 84800,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": " whispered.\n\"Who?\" Sethe was getting loud again.\n\"Jesus! I said Jesus! All I did was sit down for supper!"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 84809,
+      "end_pos": 84814,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "ho?\" Sethe was getting loud again.\n\"Jesus! I said Jesus! All I did was sit down for supper! and I get\ncus"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 85246,
+      "end_pos": 85250,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " a question that's on your\nmind too?\"\n\"Oh no. No, Paul D. Oh no.\"\n\"Then she's of one mind and you anothe"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 85471,
+      "end_pos": 85475,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "hastise her.\nYou leave her alone.\"\nRisky, thought Paul D, very risky. For a used-to-be-slave woman\nto lo"
+    },
+    {
+      "text": "acts",
+      "start_pos": 86157,
+      "end_pos": 86161,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Acts",
+      "context": "ean a thing.\"\n\"It means she has to take it if she acts up. You can't protect her\nevery minute. What's go"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 86384,
+      "end_pos": 86388,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "rough,\" he said. \"I quit.\"\n\"That's the way it is, Paul D. I can't explain it to you no better\nthan that,"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 89069,
+      "end_pos": 89073,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " Bodwin, the whitewoman who loved her. Denver and Paul D\nfared better in the heat since neither felt the"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 89213,
+      "end_pos": 89217,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ver's bonnet knocked against her shoulder blades; Paul\nD wore his vest open, no jacket and his shirt sle"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 90064,
+      "end_pos": 90068,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " 'head. Try and\nmake me happy.\" The happy one was Paul D. He said howdy to\neverybody within twenty feet."
+    },
+    {
+      "text": "Paul",
+      "start_pos": 90381,
+      "end_pos": 90385,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "r forehead or stooped to\nretie her shoes; whether Paul D kicked a stone or reached over to\nmeddle a chil"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 91504,
+      "end_pos": 91508,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " creaking down\nthe road's dusty center. All, like Paul D, were in high spirits, which\nthe smell of dying"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 91571,
+      "end_pos": 91575,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "igh spirits, which\nthe smell of dying roses (that Paul D called to everybody's attention)\ncould not damp"
+    },
+    {
+      "text": "lot",
+      "start_pos": 92581,
+      "end_pos": 92584,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "le of themselves. So, although the\ncarnival was a lot less than mediocre (which is why it agreed to a\nC"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 93406,
+      "end_pos": 93410,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "eased her enough to consider the possibility that\nPaul D wasn't all that bad. In fact there was somethin"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 93747,
+      "end_pos": 93751,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "pparently, able to withstand sharing the\npleasure Paul D was having. He slapped his knees when Giant dan"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 94087,
+      "end_pos": 94091,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " African Savage shook his bars\n49\nand said wa wa, Paul D told everybody he knew him back in\nRoanoke.\nPau"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 94138,
+      "end_pos": 94142,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "aul D told everybody he knew him back in\nRoanoke.\nPaul D made a few acquaintances; spoke to them about w"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 96220,
+      "end_pos": 96224,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " full in the face, so that when Sethe, Denver and Paul D rounded\nthe curve in the road all they saw was "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 97168,
+      "end_pos": 97172,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ing\nwomb and there was no stopping now. She hoped Paul D wouldn't\ntake it upon himself to come looking f"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 97536,
+      "end_pos": 97540,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Paul",
+      "context": "he porch. No one was there. All\nthree were inside-Paul D and Denver standing before the stranger,\nwatchi"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 97660,
+      "end_pos": 97664,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "er cup of water.\n\"She said she was thirsty,\" said Paul D. He took off his cap.\n\"Mighty thirsty look like"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 98830,
+      "end_pos": 98834,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ck up the shoes.\n\"What might your name be?\" asked Paul D.\n\"Beloved,\" she said, and her voice was so low "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 99012,
+      "end_pos": 99016,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "he\nname.\n\"Beloved. You use a last name, Beloved?\" Paul D asked her.\n\"Last?\" She seemed puzzled. Then \"No"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 99209,
+      "end_pos": 99213,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "hem.\nSethe dropped the shoes; Denver sat down and Paul D smiled.\nHe recognized the careful enunciation o"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 101141,
+      "end_pos": 101145,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "\nneath the major question, each harbored another. Paul D wondered\nat the newness of her shoes. Sethe was"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 101766,
+      "end_pos": 101770,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " Be-\nloved had fallen asleep again.\n\"Miss. Miss.\" Paul D shook her gently. \"You want to lay down\na spell"
+    },
+    {
+      "text": "job",
+      "start_pos": 101917,
+      "end_pos": 101920,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": " her soft new feet\nwhich, barely capable of their job, slowly bore her to the keeping\nroom. Once there,"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 102152,
+      "end_pos": 102156,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ng like a steam engine.\n\"Sounds like croup,\" said Paul D, closing the door.\n\"Is she feverish? Denver, co"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 102314,
+      "end_pos": 102318,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "from hot to cold.\"\n\"Could have the cholera,\" said Paul D.\n\"Reckon?\"\n\"All that water. Sure sign.'\n99\n\"Poo"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 102909,
+      "end_pos": 102913,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " secretly, after Sethe went to the restaurant and Paul D went\nscrounging for barges to help unload. She "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 104247,
+      "end_pos": 104251,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Paul",
+      "context": "holera.”\n\"You sure that's it? Was just a hunch of Paul D's.\"\n\"I don't know, but she shouldn't eat anyway"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 105953,
+      "end_pos": 105957,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "een sucked away.\nDenver laughed, Sethe smiled and Paul D said it made him sick to\nhis stomach.\nSethe bel"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 106680,
+      "end_pos": 106684,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ck alone.\n\"You just gonna feed her? From now on?\" Paul D, feeling un-\ngenerous, and surprised by it, hea"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 106933,
+      "end_pos": 106937,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " lumbar to me.\"\n\"Something funny 'bout that gal,\" Paul D said, mostly to himself.\n\"Funny how?\"\n\"Acts sic"
+    },
+    {
+      "text": "Acts",
+      "start_pos": 106979,
+      "end_pos": 106983,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Acts",
+      "context": "l,\" Paul D said, mostly to himself.\n\"Funny how?\"\n\"Acts sick, sounds sick, but she don't look sick. Good "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 107404,
+      "end_pos": 107408,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "sing the porch and stuck her head in the\nwindow.\n\"Paul D says you and him saw Beloved pick up the rockin"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 107619,
+      "end_pos": 107623,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ven when she held a steady gaze as she did now\non Paul D. \"No,\" she said. \"I didn't see no such thing.\"\n"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 107673,
+      "end_pos": 107677,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " D. \"No,\" she said. \"I didn't see no such thing.\"\nPaul D frowned but said nothing. If there had been an "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 109123,
+      "end_pos": 109127,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "d sooner. Sethe was leaving for work in the dark; Paul D\nwas walking home in it. On one such evening dar"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 110556,
+      "end_pos": 110560,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "eplies or rambling incomplete reveries.\nEven with Paul D, who had shared some of it and to whom she coul"
+    },
+    {
+      "text": "job",
+      "start_pos": 115961,
+      "end_pos": 115964,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "ack in rice and I sucked from\nanother woman whose job it was. So to answer you, no. I reckon\nnot. She n"
+    },
+    {
+      "text": "mark",
+      "start_pos": 116461,
+      "end_pos": 116465,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Mark",
+      "context": "is,'\nand she pointed. 'I am the only one got this mark now. The rest\ndead. If something happens to me an"
+    },
+    {
+      "text": "mark",
+      "start_pos": 116571,
+      "end_pos": 116575,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Mark",
+      "context": "can't tell me by my face,\nyou can know me by this mark.' Scared me so. All I could think of\nwas how impo"
+    },
+    {
+      "text": "Mark",
+      "start_pos": 116833,
+      "end_pos": 116837,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Mark",
+      "context": " 'But how will you know me?\nHow will you know me? Mark me, too,' I said. 'Mark the mark on\nme too.'\" Set"
+    },
+    {
+      "text": "Mark",
+      "start_pos": 116857,
+      "end_pos": 116861,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Mark",
+      "context": "me?\nHow will you know me? Mark me, too,' I said. 'Mark the mark on\nme too.'\" Sethe chuckled.\n\"Did she?\" "
+    },
+    {
+      "text": "mark",
+      "start_pos": 116866,
+      "end_pos": 116870,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Mark",
+      "context": "ill you know me? Mark me, too,' I said. 'Mark the mark on\nme too.'\" Sethe chuckled.\n\"Did she?\" asked Den"
+    },
+    {
+      "text": "mark",
+      "start_pos": 117007,
+      "end_pos": 117011,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Mark",
+      "context": "?\"\n\"I didn't understand it then. Not till I had a mark of my own.\"\n\"What happened to her?\"\n\"Hung. By the"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 117319,
+      "end_pos": 117324,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "into stars and the smell infuriated them. \"Oh,\nmy Jesus,\" she said and stood up so suddenly the comb she "
+    },
+    {
+      "text": "lot",
+      "start_pos": 118112,
+      "end_pos": 118115,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "randmother she knew.\n\"I never found out. It was a lot of them,\" she said, but what was\ngetting clear an"
+    },
+    {
+      "text": "mark",
+      "start_pos": 118322,
+      "end_pos": 118326,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Mark",
+      "context": " away\nfrom the pile before she could make out the mark. Nan was the one\nshe knew best, who was around al"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 119944,
+      "end_pos": 119948,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "onely daughter. They seemed little and far\naway.\n\"Paul D be here in a minute,\" she said.\nDenver sighed w"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 120792,
+      "end_pos": 120796,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "rrings.\nHow did she know?\nBELOVED WAS shining and Paul D didn't like it. Women did what\nstrawberry plant"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 121129,
+      "end_pos": 121133,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "y. That's how Beloved looked-\ngilded and shining. Paul D took to having Sethe on waking, so that\nlater, "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 121551,
+      "end_pos": 121555,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " men could, when one of their number\nwas aroused. Paul D looked carefully at Beloved to see if she was\na"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 121919,
+      "end_pos": 121923,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "sleep on the stump.\nThey were seated at the table Paul D had broken the day he\narrived at 124. Its mende"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 122337,
+      "end_pos": 122341,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "hat took hold of her as she looked at Sethe, made Paul D speak.\n65\n\"Ain't you got no brothers or sisters"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 123359,
+      "end_pos": 123363,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ou walked so long why don't your shoes\nshow it?\"\n\"Paul D, stop picking on her.\"\n\"I want to know,\" he sai"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 123700,
+      "end_pos": 123704,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "shoes,\" and got\na smile from Beloved as a reward.\nPaul D had the feeling a large, silver fish had slippe"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 126610,
+      "end_pos": 126614,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "t table, chewing on his after-supper broom straw, Paul\nD decided to place her. Consult with the Negroes "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 127585,
+      "end_pos": 127589,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "their talks easier there: at night when Sethe and Paul D were\nasleep; or in the daytime before either ca"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 127916,
+      "end_pos": 127920,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "asin of water.\n\"What is it about her vex you so?\"\nPaul D frowned, but said nothing.\n\"We had one good fig"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 131087,
+      "end_pos": 131091,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ot in my door. Not\nHalle.\"\n\"It broke him, Sethe.\" Paul D looked up at her and sighed. \"You\nmay as well k"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 131380,
+      "end_pos": 131384,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "of what she heard. But she could\nnot picture what Paul D said. Nothing came to mind. Carefully,\ncarefull"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 133014,
+      "end_pos": 133018,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "n, then he is also and certainly dead now. And if Paul D\nsaw him and could not save or comfort him becau"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 133132,
+      "end_pos": 133136,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "t\nwas in his mouth, then there is still more that Paul D could tell\nme and my brain would go right ahead"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 134306,
+      "end_pos": 134310,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "way to Ohio and no butter play would\nchange that.\nPaul D stepped through the door and touched her should"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 134482,
+      "end_pos": 134486,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "\"I can't take it back, but I can leave it alone,\" Paul D said.\nHe wants to tell me, she thought. He want"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 135049,
+      "end_pos": 135053,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "the wildness out of the eye.\nSethe looked up into Paul D's eyes to see if there was any trace\nleft in th"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 136109,
+      "end_pos": 136113,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ook at me.\"\nSethe smiled. \"In that pine?\"\n\"Yeah.\" Paul D smiled with her. \"Must have been five of them\np"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 137508,
+      "end_pos": 137512,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "by hisself but he was still\nking and I was . . .\" Paul D stopped and squeezed his left hand with\nhis rig"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 137842,
+      "end_pos": 137846,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "oster named Mister. But wasn't no way I'd ever be\nPaul D again, living or dead. Schoolteacher changed me"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 138037,
+      "end_pos": 138041,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " tub.\"\nSethe put her hand on his knee and rubbed.\nPaul D had only begun, what he was telling her was onl"
+    },
+    {
+      "text": "lot",
+      "start_pos": 141242,
+      "end_pos": 141245,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "no room to move in.\"\n\"You see anybody?\"\n\"Heaps. A lot of people is down there. Some is dead.\"\n\"You see "
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 141295,
+      "end_pos": 141300,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": " of people is down there. Some is dead.\"\n\"You see Jesus? Baby Suggs?\"\n\"I don't know. I don't know the nam"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 147965,
+      "end_pos": 147970,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": " did not answer.\n\"You don't even know. Come here, Jesus,\" Amy sighed and shook\nher head. \"Hurt?\"\n\"A touch"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 148546,
+      "end_pos": 148551,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "tened the back of her dress and said,\n\"Come here, Jesus,\" when she saw. Sethe guessed it must be bad\nbeca"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 148624,
+      "end_pos": 148629,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "guessed it must be bad\nbecause after that call to Jesus Amy didn't speak for a while. In the\nsilence of a"
+    },
+    {
+      "text": "lot",
+      "start_pos": 149188,
+      "end_pos": 149191,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "'s the parting for\nthe branches. You got a mighty lot of branches. Leaves, too, look\nlike, and dern if "
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 154941,
+      "end_pos": 154946,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "id Amy. \"But you made it through.\nCome down here, Jesus, Lu made it through. That's because of me.\nI'm go"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 156578,
+      "end_pos": 156583,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "s of\nholes and two bird nests.\n\"There you go, Lu. Jesus looking at you.\"\nSethe was looking at one mile of"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 157814,
+      "end_pos": 157819,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "owning in its mother's blood. Amy\nstopped begging Jesus and began to curse His daddy.\n\"Push!\" screamed Am"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 160616,
+      "end_pos": 160620,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "l pretty.\"\nIT WAS TIME to lay it all down. Before Paul D came and sat on\nher porch steps, words whispere"
+    },
+    {
+      "text": "grace",
+      "start_pos": 165061,
+      "end_pos": 165066,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Grace",
+      "context": " its glorybound pure.\nShe told them that the only grace they could have was the grace\nthey could imagine."
+    },
+    {
+      "text": "grace",
+      "start_pos": 165091,
+      "end_pos": 165096,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Grace",
+      "context": " them that the only grace they could have was the grace\nthey could imagine. That if they could not see it"
+    },
+    {
+      "text": "grace",
+      "start_pos": 166428,
+      "end_pos": 166433,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Grace",
+      "context": "nd\nstraight. So love your neck; put a hand on it, grace it, stroke it and\nhold it up. And all your inside"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 167323,
+      "end_pos": 167328,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "she should do with her\nsword and shield now, dear Jesus, now nine years after Baby Suggs,\nholy, proved he"
+    },
+    {
+      "text": "grace",
+      "start_pos": 167934,
+      "end_pos": 167939,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Grace",
+      "context": " Suggs, holy, believed she had lied.\nThere was no grace-imaginary or real-and no sunlit dance in a\nCleari"
+    },
+    {
+      "text": "faith",
+      "start_pos": 168015,
+      "end_pos": 168020,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Faith",
+      "context": "sunlit dance in a\nClearing could change that. Her faith, her love, her imagination and\nher great big old "
+    },
+    {
+      "text": "John",
+      "start_pos": 172841,
+      "end_pos": 172845,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "John",
+      "context": "a pair of men's shoes from the sack. \"My husband, John, is out\nyonder a ways. Where you heading?\"\nSethe "
+    },
+    {
+      "text": "hope",
+      "start_pos": 173824,
+      "end_pos": 173828,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": " said Sethe, wiping sweat from under her chin. \"I\nhope she makes it.\"\nElla looked at the tiny, dirty fac"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 180646,
+      "end_pos": 180650,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ive with in a world happy to\nprovide it.\nShe knew Paul D was adding something to her life—something\nshe "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 183698,
+      "end_pos": 183702,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "as a likelihood-if she\ncould just manage the news Paul D brought and the news he kept\nto himself. Just m"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 184187,
+      "end_pos": 184191,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "house she managed every damn thing. Why now, with Paul D instead\nof the ghost, was she breaking up? gett"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 187217,
+      "end_pos": 187221,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " same. Maybe that was where it had gone\nto. After Paul D beat it out of 124, maybe it collected itself i"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 187846,
+      "end_pos": 187850,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " from\nthe ambition welling in her now: she wanted Paul D. No matter what\nhe told and knew, she wanted hi"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 189750,
+      "end_pos": 189754,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " On her\nmind was the supper she wanted to fix for Paul D-something dif-\nficult to do, something she woul"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 190274,
+      "end_pos": 190278,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " space under the\nwhite stairs, the wooden tub and Paul D sitting in it. She smiled at\nhim and he smiled "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 190458,
+      "end_pos": 190462,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "hind me.”\n\"I don't hear nobody.\"\n\"I have to cook, Paul D.\"\n\"Me too.\" He stood up and made her stay there"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 199463,
+      "end_pos": 199467,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "h the baby ghost, but got nowhere. It took a man, Paul D, to\nshout it off, beat it off and take its plac"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 199640,
+      "end_pos": 199644,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " baby to him any day.\nDuring the first days after Paul D moved in, Denver stayed in her\nemerald closet a"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 201004,
+      "end_pos": 201008,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "the baby and\nwithdrew from everything else. Until Paul D came. But the damage\nhe did came undone with th"
+    },
+    {
+      "text": "resurrection",
+      "start_pos": 201071,
+      "end_pos": 201083,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Resurrection",
+      "context": "the damage\nhe did came undone with the miraculous resurrection of Beloved.\nJust ahead, at the edge of the stream"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 202396,
+      "end_pos": 202400,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "aise His name, from the\nsmiling boss of roosters, Paul D began to tremble. Not all at once\nand not so an"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 203480,
+      "end_pos": 203484,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " what prompted him\nto try-other than Halle, Sixo, Paul A, Paul F and Mister. But the\ntrembling was fixed"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 203488,
+      "end_pos": 203492,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ompted him\nto try-other than Halle, Sixo, Paul A, Paul F and Mister. But the\ntrembling was fixed by the "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 205062,
+      "end_pos": 205066,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " more than a day; promptly with the butt if, like Paul D,\nthey had just arrived. When all forty-six were"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 206377,
+      "end_pos": 206382,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "e, maybe, of taking a bit of foreskin with him to Jesus. Paul D\ndid not know that then. He was looking at"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 206384,
+      "end_pos": 206388,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "e, of taking a bit of foreskin with him to Jesus. Paul D\ndid not know that then. He was looking at his p"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 206602,
+      "end_pos": 206606,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ling in mist on his right. Convinced he was next,\nPaul D retched-vomiting up nothing at all. An observin"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 206997,
+      "end_pos": 207001,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "everything\nhe had. \"Hiiii!\" It was never clear to Paul D how he knew when to\nshout that mercy. They call"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 207069,
+      "end_pos": 207073,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "n to\nshout that mercy. They called him Hi Man and Paul D thought at\nfirst the guards told him when to gi"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 207612,
+      "end_pos": 207616,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " in the astonishing beauty of feldspar, and there Paul D's\nhands disobeyed the furious rippling of his b"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 209555,
+      "end_pos": 209559,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " by me.\"\nEighty-six days and done. Life was dead. Paul D beat her butt\nall day every day till there was "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 210695,
+      "end_pos": 210699,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "atted in muddy water, slept above\nit, peed in it. Paul D thought he was screaming; his mouth was open\nan"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 215886,
+      "end_pos": 215890,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "all forty-six, resting, planning their next\nmove. Paul D had no idea of what to do and knew less than an"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 216329,
+      "end_pos": 216333,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ome\nwanted to leave; some to stay on. Weeks later Paul D was the only\nBuffalo man left-without a plan. A"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 216563,
+      "end_pos": 216567,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " man with buffalo hair among the ailing\nCherokee, Paul D finally woke up and, admitting his ignorance, a"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 218577,
+      "end_pos": 218581,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "led in a heap. But she moved\nhim nonetheless, and Paul D didn't know how to stop it because it\nlooked li"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 218981,
+      "end_pos": 218985,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "st.\n\"I thought you went out somewhere,\" she said.\nPaul D moaned, surprised to find himself exactly where"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 220724,
+      "end_pos": 220728,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ad been\noccupied by one for eighteen years before Paul D came to call. And\nmaybe it was better this way,"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 222747,
+      "end_pos": 222751,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ce is the reason the world has people in it.\nWhen Paul D had been forced out of 124 into a shed behind i"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 223056,
+      "end_pos": 223060,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ces of a dying landscape were insistent and loud. Paul D packed\nnewspaper under himself and over, to giv"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 223403,
+      "end_pos": 223407,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "touch me on the inside part and call me my name.\"\nPaul D never worried about his little tobacco tin anym"
+    },
+    {
+      "text": "Lot",
+      "start_pos": 224308,
+      "end_pos": 224311,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": " of the lard can he\nwas safe. If he trembled like Lot's wife and felt some womanish need\nto see the nat"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 225016,
+      "end_pos": 225020,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ain. Softly and then so loud it woke Denver,\nthen Paul D himself. \"Red heart. Red heart. Red heart.\"\nTO "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 227854,
+      "end_pos": 227858,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "he thought it explained Beloved's behavior around Paul D,\nwhom she hated so.\nDenver neither believed nor"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 232484,
+      "end_pos": 232488,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "she might get up and go into\nthe cold house where Paul D has begun to sleep. Or she might cry,\nsilently."
+    },
+    {
+      "text": "Paul",
+      "start_pos": 236440,
+      "end_pos": 236444,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": ". \"Don't. Don't\ngo back.\"\nThis is worse than when Paul D came to 124 and she cried\nhelplessly into the s"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 237421,
+      "end_pos": 237425,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ing about what would be the case if Sethe died or\nPaul D took her away, a dream-come-true comes true jus"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 241852,
+      "end_pos": 241856,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "t go or stay put where he\nwanted to in 124-shame.\nPaul D could not command his feet, but he thought he c"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 243215,
+      "end_pos": 243219,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "o protect to help\nhim do it, God damn it to hell.\nPaul D blew warm breath into the hollow of his cupped "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 243604,
+      "end_pos": 243608,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "d her smile was both pleasure and surprise.\nsure.\nPaul D believed he smiled back but his face was so col"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 244288,
+      "end_pos": 244292,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ed to the kitchen.\nThe dogs ate without sound and Paul D thought they at least got\nwhat they came for, a"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 245683,
+      "end_pos": 245687,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "int in the\nwind, \"I am not a man.\"\n\"Well, say it, Paul D, whether I like it or not.\"\nSince he could not "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 247159,
+      "end_pos": 247163,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "proached,\ntheir shoes loud on the wooden walkway. Paul D touched Sethe's\nelbow to guide her as they step"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 247332,
+      "end_pos": 247336,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ter, when they reached the city's edge, Sethe and\nPaul D resumed catching and snatching each other's fin"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 248016,
+      "end_pos": 248020,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " The winter light was low. Sethe closed her eyes. Paul D looked\nat the black trees lining the roadside, "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 248253,
+      "end_pos": 248257,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "er eyes to it and said, \"Mercy.\"\nAnd it seemed to Paul D that it was—a little mercy-something given\nto t"
+    },
+    {
+      "text": "mark",
+      "start_pos": 248325,
+      "end_pos": 248329,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Mark",
+      "context": "ittle mercy-something given\nto them on purpose to mark what they were feeling so they would\nremember it "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 249100,
+      "end_pos": 249104,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "y with in the snow.\"\nSethe secured her headcloth.\nPaul D smiled and warmed his hands with his breath. \"I"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 249525,
+      "end_pos": 249529,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "our months, so complete was the attention she and Paul D were\npaying to themselves they both felt a jolt"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 249632,
+      "end_pos": 249636,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Paul",
+      "context": "en they saw her close\nin.\nBeloved did not look at Paul D; her scrutiny was for Sethe. She\nhad no coat, n"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 249916,
+      "end_pos": 249920,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "th nothing\non.\" And stepping away and in front of Paul D, Sethe took the shawl\nand wrapped it around Bel"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 250102,
+      "end_pos": 250106,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "closed her in her left arm.\nSnowflakes stuck now. Paul D felt icy cold in the place Sethe had\nbeen befor"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 250536,
+      "end_pos": 250540,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "know you not sleeping out there tonight, are you, Paul\nD?\" She smiled at him, and like a friend in need,"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 250723,
+      "end_pos": 250727,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " sashes\nshuddered in a blast of winter air.\nI 3 I\nPaul D looked up from the stew meat.\n\"You come upstair"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 250987,
+      "end_pos": 250991,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "mth of Sethe's smile.\nOnce before (and only once) Paul D had been grateful to a woman.\nCrawling out of t"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 252748,
+      "end_pos": 252752,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": ".\nTucked into the well of his arm, Sethe recalled Paul D's face in\nthe street when he asked her to have "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 254795,
+      "end_pos": 254799,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "the sunlight. She had been dreaming it for\nyears.\nPaul D's chest rose and fell, rose and fell under her "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 254960,
+      "end_pos": 254964,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "table.\nBeloved, who had not moved since Sethe and Paul D left the room,\nsat sucking her forefinger. Denv"
+    },
+    {
+      "text": "John",
+      "start_pos": 257004,
+      "end_pos": 257008,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "John",
+      "context": "at he had\ndone for her and for the three children John and Ella delivered to\nher door one summer night. "
+    },
+    {
+      "text": "John",
+      "start_pos": 260018,
+      "end_pos": 260022,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "John",
+      "context": "stry dough and thought she ought to tell Ella\nand John to stop on by because three pies, maybe four, wer"
+    },
+    {
+      "text": "job",
+      "start_pos": 261529,
+      "end_pos": 261532,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "ing, dancing and loving everybody\nlike it was her job and hers alone.\nNow to take two buckets of blackb"
+    },
+    {
+      "text": "Loaves and fishes",
+      "start_pos": 261811,
+      "end_pos": 261828,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Loaves And Fishes",
+      "context": "dding, raised bread, shortbread—it made them mad.\nLoaves and fishes were His powers-they did not belong to an ex-\nsla"
+    },
+    {
+      "text": "John",
+      "start_pos": 262449,
+      "end_pos": 262453,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "John",
+      "context": " brother and sister who gave Stamp Paid, Ella and John\nclothes, goods and gear for runaways because they"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 267049,
+      "end_pos": 267053,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "r, herself, Halle, and four boys, over half named\nPaul, made up the entire population. Mrs. Garner humme"
+    },
+    {
+      "text": "John",
+      "start_pos": 275419,
+      "end_pos": 275423,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "John",
+      "context": " West, she heard. No point in trying for\nTyree or John. They cut thirty years ago and, if she searched t"
+    },
+    {
+      "text": "lot",
+      "start_pos": 280668,
+      "end_pos": 280671,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "d write, I reckon?”\n\"Sure.\"\n\"Good, 'cause I got a lot of digging up to do.\" But the news they\nI 4 7\ndug"
+    },
+    {
+      "text": "Samson",
+      "start_pos": 285583,
+      "end_pos": 285589,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Samson",
+      "context": " it beyond the point of education. Or Chipper,\nor Samson. Suppose you beat the hounds past that point that"
+    },
+    {
+      "text": "lot",
+      "start_pos": 286124,
+      "end_pos": 286127,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "ty of the trouble it was, and the\nloss. The whole lot was lost now. Five. He could claim the baby\nstrug"
+    },
+    {
+      "text": "Samson",
+      "start_pos": 286860,
+      "end_pos": 286866,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Samson",
+      "context": "d the well bucket. Another time\nhe took it out on Samson—a few tossed rocks was all. But no beating\never m"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 293219,
+      "end_pos": 293223,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "e at the restaurant, might\nthink it was hers, but Paul D knew better. Oh well, a little something\naround"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 293828,
+      "end_pos": 293832,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "n his knees, then\non the split top of the piling, Paul D knew that it ought to mess him\nup. That whateve"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 293959,
+      "end_pos": 293963,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "shake him.\nPigs were crying in the chute. All day Paul D, Stamp Paid and\ntwenty more had pushed and prod"
+    },
+    {
+      "text": "lot",
+      "start_pos": 294144,
+      "end_pos": 294147,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "rs moved west, St.\nLouis and Chicago now ate up a lot of the business, Cincinnati was\nstill pig port in"
+    },
+    {
+      "text": "job",
+      "start_pos": 294229,
+      "end_pos": 294232,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "\nstill pig port in the minds of Ohioans. Its main job was to receive,\nslaughter and ship up the river t"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 294480,
+      "end_pos": 294484,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "al and stand up for\ntwelve hours, skills in which Paul D was admirably trained.\nA little pig shit, rinse"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 295349,
+      "end_pos": 295353,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ine Street and rode the\nwind above the pig yards. Paul D heard them but he stayed on because\nall in all "
+    },
+    {
+      "text": "job",
+      "start_pos": 295419,
+      "end_pos": 295422,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "t he stayed on because\nall in all it wasn't a bad job, especially in winter when Cincinnati\nreassumed i"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 296290,
+      "end_pos": 296294,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "rn Row and it was clear why Stamp had been eyeing\nPaul D this last week of work; why he paused when the "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 296374,
+      "end_pos": 296378,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Paul",
+      "context": " he paused when the evening shift\ncame on, to let Paul D's movements catch up to his own. He had\nmade up"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 296581,
+      "end_pos": 296585,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "e except that\nwas not her mouth. Nothing like it.\nPaul D slid the clipping out from under Stamp's palm. "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 298021,
+      "end_pos": 298025,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "id could speak he said it and even while\nhe spoke Paul D said it again. Oh, he heard all the old man was"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 299150,
+      "end_pos": 299154,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " promised, to do it.\"\n\"But this ain't her mouth,\" Paul D said. \"This ain't it at all.\"\nStamp Paid looked"
+    },
+    {
+      "text": "John",
+      "start_pos": 299998,
+      "end_pos": 300002,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "John",
+      "context": "g while the riders\nasked questions. Not Ella, not John, not anybody ran down or to\nBluestone Road, to sa"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 300991,
+      "end_pos": 300995,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "they were not. He was going to tell\nhim that, but Paul D was laughing, saying, \"Uh uh. No way. A little\n"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 301791,
+      "end_pos": 301795,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "urse the saw.\n\"You forgetting I knew her before,\" Paul D was saying. \"Back\nin Kentucky. When she was a g"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 302154,
+      "end_pos": 302158,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "h that was not hers and slowly read out the\nwords Paul D couldn't. And when he finished, Paul D said wit"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 302193,
+      "end_pos": 302197,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " the\nwords Paul D couldn't. And when he finished, Paul D said with a\nvigor fresher than the first time, "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 302339,
+      "end_pos": 302343,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "e 'cause that ain't her mouth.\"\nStamp looked into Paul D's eyes and the sweet conviction in them\nalmost "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 303494,
+      "end_pos": 303498,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "e dry sink, the stove-back\nto the jelly cupboard. Paul D sat at the table watching her drift into\nview t"
+    },
+    {
+      "text": "lot",
+      "start_pos": 306788,
+      "end_pos": 306791,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "er would have thought of that.\nNever. Taught me a lot, Sixo.\"\nIt made him dizzy. At first he thought it"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 309410,
+      "end_pos": 309414,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " before. It felt good. Good\nand right. I was big, Paul D, and deep and wide and when I stretched\nout my "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 309792,
+      "end_pos": 309796,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ldn't love if I wanted to. You know what I mean?\"\nPaul D did not answer because she didn't expect or wan"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 313969,
+      "end_pos": 313973,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Paul",
+      "context": "t my babies where they'd be safe.\"\nThe roaring in Paul D's head did not prevent him from hearing\nthe\npat"
+    },
+    {
+      "text": "job",
+      "start_pos": 316013,
+      "end_pos": 316016,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "t got em.\"\n\"Maybe there's worse.'\n99\n\"It ain't my job to know what's worse. It's my job to know what\nis"
+    },
+    {
+      "text": "job",
+      "start_pos": 316047,
+      "end_pos": 316050,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "99\n\"It ain't my job to know what's worse. It's my job to know what\nis and to keep them away from what I"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 317774,
+      "end_pos": 317778,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": ". Ever since he showed that newspaper clipping\nto Paul D and learned that he'd moved out of 124 that ver"
+    },
+    {
+      "text": "revelation",
+      "start_pos": 318382,
+      "end_pos": 318392,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Revelation",
+      "context": " too much.\" He had insisted on privacy during the revelation\nat the slaughter yard-now he wondered whom he was"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 318455,
+      "end_pos": 318459,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "hter yard-now he wondered whom he was protecting.\nPaul D was the only one in town who didn't know. How d"
+    },
+    {
+      "text": "job",
+      "start_pos": 318717,
+      "end_pos": 318720,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "hind her back, like a sneak. But sneaking was his\njob-his life; though always for a clear and holy purp"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 319698,
+      "end_pos": 319702,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "rching for the eighteen-year-old clipping to show Paul D as\nproof.\nAfterward not before-he considered Se"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 320212,
+      "end_pos": 320216,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "uch store by. Now\n124 was back like it was before Paul D came to town-worrying\nSethe and Denver with a p"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 321133,
+      "end_pos": 321137,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "e thought of Denver,\nif not Sethe, before he gave Paul D the news that ran him off, the\none normal someb"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 323773,
+      "end_pos": 323777,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "Sethe's feelings or Denver's needs when\nhe showed Paul D the clipping.\nHe hadn't the vaguest notion of w"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 324298,
+      "end_pos": 324303,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "d. Other\nthan that, he would rely on the power of Jesus Christ to deal with\nthings older, but not stronge"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 326697,
+      "end_pos": 326701,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ave her, but actually to take it. Four days after Paul D reminded\nher of how many feet she had, Sethe ru"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 326946,
+      "end_pos": 326950,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "rusting, so quick\nto surrender at the stove while Paul D kissed her back. She should\nhave known that he "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 328107,
+      "end_pos": 328111,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "; tentative greetings from other coloredpeople in Paul D's com-\npany; a bed life for herself. Except for"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 328987,
+      "end_pos": 328991,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "peep in and see how she was getting on (including Paul D) would\ndiscover that the woman junkheaped for t"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 342853,
+      "end_pos": 342858,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "iver beyond, \"What are these people? You tell me, Jesus. What\nare they?\"\n1\nI 8 I\nWhen he got to his house"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 345254,
+      "end_pos": 345258,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "holding shadows she had seen on the road\nwere not Paul D, Denver and herself, but \"us three.\" The three\n"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 346882,
+      "end_pos": 346886,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "Baby said: Think on it\nthen lay it down-for good. Paul D convinced me there was a world\nout there and th"
+    },
+    {
+      "text": "lot",
+      "start_pos": 349111,
+      "end_pos": 349114,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "r them, not even to touch their hair. I believe a lot of folks\nwere there, but I just saw the box. Reve"
+    },
+    {
+      "text": "John",
+      "start_pos": 351401,
+      "end_pos": 351405,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "John",
+      "context": " a disagreeable breakfast he went to see Ella and John to\nfind out what they knew. Perhaps there he coul"
+    },
+    {
+      "text": "Joshua",
+      "start_pos": 351573,
+      "end_pos": 351579,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Joshua",
+      "context": "self and there was yet\nanother debt he owed. Born Joshua, he renamed himself when he\nhanded over his wife "
+    },
+    {
+      "text": "John",
+      "start_pos": 352657,
+      "end_pos": 352661,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "John",
+      "context": " welcome door that\nhe never had to knock on, like John and Ella's in front of which he\nstood and said, \""
+    },
+    {
+      "text": "John",
+      "start_pos": 352811,
+      "end_pos": 352815,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "John",
+      "context": "e hinge.\n\"Where you been keeping yourself? I told John must be cold if\nStamp stay inside.”\n\"Oh, I been o"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 353655,
+      "end_pos": 353659,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " see anything at all at 124.\"\n\"True.\"\n\"Better ask Paul D,\" she said.\n\"Can't locate him,\" said Stamp, whi"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 353755,
+      "end_pos": 353759,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " which was the truth although\nhis efforts to find Paul D had been feeble. He wasn't ready to confront\nth"
+    },
+    {
+      "text": "charity",
+      "start_pos": 354036,
+      "end_pos": 354043,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Charity",
+      "context": "ke if he could stay in the cellar.\"\n\"It's cold as charity in there!\"\n\"I expect he knows that.\"\n\"What he do "
+    },
+    {
+      "text": "John",
+      "start_pos": 355546,
+      "end_pos": 355550,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "John",
+      "context": "here is he, huh? Baby never laid eyes on her till John\ncarried her to the door with a baby I strapped on"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 356480,
+      "end_pos": 356484,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": ".\"\n\"What's any of what you talking got to do with Paul D?\"\n\"What run him off? Tell me that.\"\n\"I run him "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 357148,
+      "end_pos": 357152,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ou came\nabout some new girl.\"\n\"That's so.\"\n\"Well, Paul D must know who she is. Or what she is.\"\n\"Your mi"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 357361,
+      "end_pos": 357366,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "d don't stay\nin the ground.\"\nHe couldn't deny it. Jesus Christ Himself didn't, so Stamp ate a\npiece of El"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 357488,
+      "end_pos": 357492,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ow there were no bad feelings and\nset out to find Paul D. He found him on the steps of Holy Redeemer,\nho"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 358140,
+      "end_pos": 358144,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "of them was rot. They buttered Halle's face; gave\nPaul D iron to eat; crisped Sixo; hanged her own mothe"
+    },
+    {
+      "text": "John",
+      "start_pos": 358284,
+      "end_pos": 358288,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "John",
+      "context": "hitefolks; didn't want to know what\nElla knew and John and Stamp Paid, about the world done up the\nway w"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 358980,
+      "end_pos": 358984,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "nd buried all recollection\n1 89\nof them and luck. Paul D dug it up, gave her back her body, kissed\nher d"
+    },
+    {
+      "text": "job",
+      "start_pos": 360588,
+      "end_pos": 360591,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "Sawyer included\nmidday dinner in the terms of the job-along with $3.40 a week—\nand she made him underst"
+    },
+    {
+      "text": "job",
+      "start_pos": 363021,
+      "end_pos": 363024,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": ".\nSethe understood it then, but now with a paying job and an\nemployer who was kind enough to hire an ex"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 375521,
+      "end_pos": 375525,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "go? It was Sixo who brought it up, finally, after\nPaul F. Mrs. Garner sold him, trying to keep things up"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 375967,
+      "end_pos": 375971,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "of paper.\nTalking soft and watching hard. He beat Paul A. Not hard and not\nlong, but it was the first ti"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 376857,
+      "end_pos": 376861,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " A little. Just enough to butter Halle's\nface, so Paul D tells me, and make Sixo laugh at last.\nBut I go"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 377085,
+      "end_pos": 377089,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "e\nor nobody. I didn't know Sixo was burned up and Paul D dressed\nin a collar you wouldn't believe. Not t"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 377405,
+      "end_pos": 377409,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "right by\nthose boys hanging in the trees. One had Paul A's shirt on but not\nhis feet or his head. I walk"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 380578,
+      "end_pos": 380582,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " was\ntough and she back now. I knew she would be. Paul D ran her off\nso she had no choice but to come ba"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 385390,
+      "end_pos": 385395,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "Anyhow I took my babies to the corn, Halle or no. Jesus.\nWhen I heard that woman's rattle. She said, Any "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 386835,
+      "end_pos": 386839,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "y\nI got to 124. I would have known right off, but Paul D distracted\nme. Otherwise I would have seen my f"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 387154,
+      "end_pos": 387158,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Paul",
+      "context": "I would have recognized\nyou right off, except for Paul D. Seems to me he wanted you out\nfrom the beginni"
+    },
+    {
+      "text": "job",
+      "start_pos": 389706,
+      "end_pos": 389709,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "ak, your name. But the Bodwins got me the cooking job at\nSawyer's and left me able to smile on my own l"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 390867,
+      "end_pos": 390871,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ng up the stairs. She was my secret company\nuntil Paul D came. He threw her out. Ever since I was little"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 392286,
+      "end_pos": 392290,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " next to Beloved, she's my sister. The\nother time Paul D went too and when we came back I thought the\nho"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 396687,
+      "end_pos": 396691,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "r did. Even when Buglar and Howard ran away.\nThen Paul D came in here. I heard his voice downstairs, and"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 396862,
+      "end_pos": 396866,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "s\nhouse anymore. But when I got downstairs it was Paul D and he\ndidn't come for me; he wanted my mother."
+    },
+    {
+      "text": "Paul",
+      "start_pos": 399789,
+      "end_pos": 399793,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "zy and even now I bet he's trying to\nget here. If Paul D could do it my daddy could too. Angel man. We\ns"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 399919,
+      "end_pos": 399923,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " him and Beloved. Ma'am could stay or\ngo\noff with Paul D if she wanted to. Unless Daddy wanted her himse"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 400023,
+      "end_pos": 400027,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "lf,\nbut I don't think he would now, since she let Paul D in her bed.\nGrandma Baby said people look down "
+    },
+    {
+      "text": "lot",
+      "start_pos": 401783,
+      "end_pos": 401786,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "for it because it was a greedy ghost and needed a lot of\nlove, which was only natural, considering. And"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 413962,
+      "end_pos": 413966,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "d be hung.\nAnd a oil lamp in a cellar was sad, so Paul D sat on the porch steps\nand\ngot additional warmt"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 415944,
+      "end_pos": 415948,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "bent to make one with the Thirty-Mile\nWoman. When Paul D waved goodbye to his oldest brother, the boss\nw"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 416736,
+      "end_pos": 416740,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ghty sorry; they all were.\n\"Why she call on him?\" Paul D asked. \"Why she need the school-\nteacher?\"\n\"She"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 417298,
+      "end_pos": 417302,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ll men, and stronger than most, they clipped him, Paul D.\nFirst his shotgun, then his thoughts, for scho"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 417807,
+      "end_pos": 417811,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "d his look of\ndeeply felt hurt was enough to make Paul D blink. He was as hard\non his pupils as he was o"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 417906,
+      "end_pos": 417910,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "was on them-except for the corrections.\nFor years Paul D believed schoolteacher broke into children what"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 418369,
+      "end_pos": 418373,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "r of Sixo, and even\nHalle; it was always clear to Paul D that those two were men whether\nGarner said so "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 422052,
+      "end_pos": 422056,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " who will take them\nin; should they try to get to Paul F, whose owner, they remember,\nlived in something"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 427163,
+      "end_pos": 427167,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "that was\nthe last anybody ever saw of Halle. What Paul D knew was that\nHalle disappeared, never told Set"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 427691,
+      "end_pos": 427695,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " Halle was\nnot killed or wounded that day because Paul D saw him later, after\nshe had run off with no on"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 428089,
+      "end_pos": 428093,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ing. He disappeared and\neverybody was on his own.\nPaul A goes back to moving timber after dinner. They a"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 428197,
+      "end_pos": 428201,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "o meet\nat quarters for supper. He never shows up. Paul D leaves for the\ncreek on time, believing, hoping"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 428253,
+      "end_pos": 428257,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " leaves for the\ncreek on time, believing, hoping, Paul A has gone on ahead; certain\n225\nschoolteacher ha"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 428328,
+      "end_pos": 428332,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " certain\n225\nschoolteacher has learned something. Paul D gets to the creek and\nit is as dry as Sixo prom"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 428443,
+      "end_pos": 428447,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "its there with the Thirty-Mile\nWoman for Sixo and Paul A. Only Sixo shows up, his wrists bleeding,\nhis t"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 428543,
+      "end_pos": 428547,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "is tongue licking his lips like a flame.\n\"You see Paul A?\"\n\"No.\"\n\"Halle?\"\n\"No.\"\n\"No sign of them?\"\n\"No s"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 428718,
+      "end_pos": 428722,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " She must be there still.\"\n\"I can't leave without Paul A.”\n\"I can't help you.\"\n\"Should I go back and loo"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 429053,
+      "end_pos": 429057,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " her. Before when she knelt on creek pebbles with Paul\nD, she was nothing, a shape in the dark breathing"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 429435,
+      "end_pos": 429439,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "le Woman and she runs further on in the creekbed.\nPaul D and Sixo run the other way toward the woods. Bo"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 429599,
+      "end_pos": 429603,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "d by the things honeybees love.\nTied like a mule, Paul D feels how dewy and inviting the grass is.\nHe is"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 429684,
+      "end_pos": 429688,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "the grass is.\nHe is thinking about that and where Paul A might be when Sixo\nturns and grabs the mouth of"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 429803,
+      "end_pos": 429807,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "inting rifle. He begins\nto sing. Two others shove Paul D and tie him to a tree. Schoolteacher\nis saying,"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 430131,
+      "end_pos": 430135,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "? Five guns are trained on him\nwhile they listen. Paul D cannot see them when they step away from\nlampli"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 430969,
+      "end_pos": 430973,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "s trousers smokes. He laughs. Something is funny. Paul\nD guesses what it is when Sixo interrupts his lau"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 431186,
+      "end_pos": 431190,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "lking through the perfumed things honeybees love,\nPaul D hears the men talking and for the first time le"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 433351,
+      "end_pos": 433355,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "r is\nnow in his head. Two. Two? Two niggers lost? Paul D thinks his\nheart is jumping. They are going to "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 433425,
+      "end_pos": 433429,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "is jumping. They are going to look for Halle, not Paul A. They\nmust have found Paul A and if a whiteman "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 433454,
+      "end_pos": 433458,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " look for Halle, not Paul A. They\nmust have found Paul A and if a whiteman finds you it means you\nare su"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 433623,
+      "end_pos": 433627,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "loses the\ndoor of the cabin. Carefully, he looks. Paul D does not look back.\nIt is sprinkling now. A tea"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 434606,
+      "end_pos": 434610,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "'t find Halle. Who was\ncaught? Did Sixo get away? Paul A?\nHe tells her what he knows: Sixo is dead; the "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 434720,
+      "end_pos": 434724,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "e Woman\nran, and he doesn't know what happened to Paul A or Halle. \"Where\ncould he be?\" she asks.\nPaul D"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 434768,
+      "end_pos": 434772,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "o Paul A or Halle. \"Where\ncould he be?\" she asks.\nPaul D shrugs because he can't shake his head.\n\"You sa"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 436158,
+      "end_pos": 436162,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": ", besides\nhis labor? What did Mrs. Garner get for Paul F? More than nine\nhundred dollars? How much more?"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 436950,
+      "end_pos": 436954,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " and it made a little\nmotion in his pants pocket.\nPaul D looked up, noticed the side pocket agitation an"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 437250,
+      "end_pos": 437254,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "be-\ntween forefinger and thumb. \"Something else.\"\nPaul D didn't say anything so the two men sat in silen"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 437446,
+      "end_pos": 437450,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ot to say to you. I'm a take the easy one first.\"\nPaul D chuckled. \"If it's hard for you, might kill me "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 437602,
+      "end_pos": 437606,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "r you to ask your\npardon. Apologize.\"\n\"For what?\" Paul D reached in his coat pocket for his bottle.\n\"You"
+    },
+    {
+      "text": "John",
+      "start_pos": 437897,
+      "end_pos": 437901,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "John",
+      "context": "where you want to be. My house is your house too. John and Ella,\nMiss Lady, Able Woodruff, Willie Pike-a"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 438365,
+      "end_pos": 438369,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "at's a load off. I thought everybody gone crazy.\"\nPaul D shook his head. \"Just me.'\n99\n\"You planning to "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 439460,
+      "end_pos": 439464,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "but I know Plank Road. 'Bout a mile up thataway.\"\nPaul D lifted his bottle and swallowed. The rider look"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 439677,
+      "end_pos": 439681,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "d his mind and came back.\n\"Look here,\" he said to Paul D. \"There's a cross up there, so I\nguess this her"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 440379,
+      "end_pos": 440383,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " make\nyou do what you won't, but think about it.\"\nPaul D said nothing.\n\"If I did you harm, I'm here to r"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 440690,
+      "end_pos": 440694,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "d her greeting. \"There's another one,\"\nhe said to Paul D. \"Scripture Woodruff, Able's sister. Works at t"
+    },
+    {
+      "text": "Judith",
+      "start_pos": 441154,
+      "end_pos": 441160,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Judith",
+      "context": "Depends. What you got in mind?”\n\"You know Judy?\"\n\"Judith. I know everybody.\"\n\"Out on Plank Road?\"\n\"Everybo"
+    },
+    {
+      "text": "Joshua",
+      "start_pos": 441653,
+      "end_pos": 441659,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Joshua",
+      "context": "not was tight and\nso was the bow. \"They called me Joshua,\" he said. \"I renamed\nmyself,\" he said, “and I'm "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 444245,
+      "end_pos": 444249,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " you!\nTie it!\"\n\"That make\nyou feel better?\"\n\"No.\" Paul D tossed the bottle on the ground and stared at t"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 444590,
+      "end_pos": 444594,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "Judy will take me in or won't she.\"\n\"I was there, Paul D.\"\n\"You was where?\"\n\"There in the yard. When she"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 444672,
+      "end_pos": 444677,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": " in the yard. When she did it.\"\n\"Judy?\"\n\"Sethe.\"\n\"Jesus.\"\n\"It ain't what you think.\"\n\"You don't know what"
+    },
+    {
+      "text": "Acts",
+      "start_pos": 445447,
+      "end_pos": 445451,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Acts",
+      "context": "ound her.\nSomething funny about her. Talks funny. Acts funny.\" Paul D dug\nhis fingers underneath his cap"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 445460,
+      "end_pos": 445464,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ething funny about her. Talks funny. Acts funny.\" Paul D dug\nhis fingers underneath his cap and rubbed t"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 446478,
+      "end_pos": 446482,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "at I told you 'bout Sethe?\"\nA shudder ran through Paul D. A bone-cold spasm that made\nhim clutch his kne"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 446828,
+      "end_pos": 446832,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " stairs, choke-\ncherry trees, cameo pins, aspens, Paul A's face, sausage or the loss\nof a red, red heart"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 446912,
+      "end_pos": 446916,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "\nof a red, red heart.\n\"Tell me something, Stamp.\" Paul D's eyes were rheumy. \"Tell\nme this one thing. Ho"
+    },
+    {
+      "text": "job",
+      "start_pos": 448868,
+      "end_pos": 448871,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": " to come back. And instead\nof looking for another job, Sethe played all the harder with Beloved,\nwho ne"
+    },
+    {
+      "text": "John",
+      "start_pos": 450398,
+      "end_pos": 450402,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "John",
+      "context": "es and sassy prints. She walked the four miles to John Shillito's\nto buy yellow ribbon, shiny buttons an"
+    },
+    {
+      "text": "job",
+      "start_pos": 456611,
+      "end_pos": 456614,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": " not eaten\nand it rocked Denver like gunshot. The job she started out with,\nprotecting Beloved from Set"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 457536,
+      "end_pos": 457540,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ith white hair called Stamp and Lady Jones. Well, Paul D, of course.\nAnd that boy who told her about Set"
+    },
+    {
+      "text": "job",
+      "start_pos": 459222,
+      "end_pos": 459225,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "u this house.\"\n\"Nobody gave me nothing.\"\n\"I got a job from them.\"\n\"He got a cook from them, girl.\"\n\"Oh,"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 460041,
+      "end_pos": 460046,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "at? Is that why you can't walk\ndown the steps? My Jesus my.\"\nBut you said there was no defense.\n\"There ai"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 474400,
+      "end_pos": 474404,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " of, what Ella knew, what Stamp saw and\nwhat made Paul D tremble. That anybody white could take your\nwho"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 475050,
+      "end_pos": 475054,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " in the tree with a sign on it was her husband or Paul\nA; whether the bubbling-hot girls in the colored-"
+    },
+    {
+      "text": "faith",
+      "start_pos": 487601,
+      "end_pos": 487606,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Faith",
+      "context": "e between their breasts. Others brought Christian faith-as\nshield and sword. Most brought a little of bot"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 497662,
+      "end_pos": 497667,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "d tight. Vines of hair twisted all over\nher head. Jesus. Her smile was dazzling.\nSethe feels her eyes bur"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 499441,
+      "end_pos": 499445,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ng his coat in patches, is asleep by the pump, so\nPaul D knows Beloved is truly gone. Disappeared, some "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 499653,
+      "end_pos": 499657,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "n the trees waiting for another chance.\" But\nwhen Paul D sees the ancient dog, eighteen years if a day, "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 500736,
+      "end_pos": 500740,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "mory, turns it into dust motes\nfloating in light. Paul D shuts the door. He looks toward the house\nand, "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 501281,
+      "end_pos": 501285,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "she was going\nto get rid of it.\"\n\"And him?\" asked Paul D.\n\"Janey say he against it but won't stop it.\"\n\""
+    },
+    {
+      "text": "job",
+      "start_pos": 502044,
+      "end_pos": 502047,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "an\nkill her boss. She and Denver be looking for a job.\"\n265\n\"Who Janey tell him the naked woman was?\"\n\""
+    },
+    {
+      "text": "Paul",
+      "start_pos": 503236,
+      "end_pos": 503240,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " his pocket handkerchief and wiped\nhis eyes while Paul D pressed the heel of his hand in his own. As the"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 503870,
+      "end_pos": 503874,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "t in his house?\nHa!\"\n\"Aw no. Hey. Lay off Denver, Paul D. That's my heart. I'm proud\nof that girl. She w"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 504303,
+      "end_pos": 504307,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "of\nher. She turning out fine. Fine.\"\nIt was true. Paul D saw her the next morning when he was on\nhis way"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 504629,
+      "end_pos": 504633,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "welcome in it and strong traces of Sethe's mouth. Paul D touched\nhis\ncap. \"How you getting along?\"\n\"Don'"
+    },
+    {
+      "text": "job",
+      "start_pos": 504773,
+      "end_pos": 504776,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "e?\"\nShe said no. She had heard about an afternoon job at the shirt\nfactory. She hoped that with her nig"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 505516,
+      "end_pos": 505520,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "know,\" said Denver. \"I think I've lost my mother,\nPaul D.\"\nThey were both silent for a moment and then h"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 505880,
+      "end_pos": 505884,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "at his. \"But who would know that\nbetter than you, Paul D? I mean, you sure 'nough knew her.\"\nHe licked h"
+    },
+    {
+      "text": "job",
+      "start_pos": 506079,
+      "end_pos": 506082,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "said.\n\"Yes, sir.\"\n\"Well. Well, good luck with the job.\"\n\"Thank you. And, Paul D, you don't have to stay"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 506102,
+      "end_pos": 506106,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": ". Well, good luck with the job.\"\n\"Thank you. And, Paul D, you don't have to stay 'way, but be\ncareful ho"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 507030,
+      "end_pos": 507034,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "ed woman with fish for\nhair.\nAs a matter of fact, Paul D doesn't care how It went or even\nwhy. He cares "
+    },
+    {
+      "text": "job",
+      "start_pos": 508350,
+      "end_pos": 508353,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "n he and his group\ncombed the battlefields, their job was to pull the Confederate wounded\naway from the"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 510810,
+      "end_pos": 510814,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": ", had been with the Mas-\nsachusetts 54th. He told Paul D they had been paid less than white\nsoldiers. It"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 510989,
+      "end_pos": 510993,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "sachusetts made to make up the difference in\npay. Paul D was so impressed by the idea of being paid mone"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 511383,
+      "end_pos": 511387,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " their commanders. The captain\nof the gunboat let Paul D stay aboard all the way to Wheeling, West\nVirgi"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 512110,
+      "end_pos": 512114,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "oach cab. Afterward the\nwhiteman gave him a coin. Paul D walked around with it for hours-\nnot sure what "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 512308,
+      "end_pos": 512312,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " a greengrocer selling vege-\ntables from a wagon. Paul D pointed to a bunch of turnips. The\ngrocer hande"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 513992,
+      "end_pos": 513996,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "re railing is wound with ribbons, bows, bouquets. Paul D steps\ninside. The outdoor breeze he brings with"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 516042,
+      "end_pos": 516046,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": " fly.\" She is fingering a long clump of her\nhair.\nPaul D clears his throat to interrupt her. \"Sethe?\"\nSh"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 516115,
+      "end_pos": 516119,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "t to interrupt her. \"Sethe?\"\nShe turns her head. \"Paul D.\"\n\"Aw, Sethe.\"\n\"I made the ink, Paul D. He coul"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 516154,
+      "end_pos": 516158,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "her head. \"Paul D.\"\n\"Aw, Sethe.\"\n\"I made the ink, Paul D. He couldn't have done it if I hadn't\nmade the "
+    },
+    {
+      "text": "Paul",
+      "start_pos": 516677,
+      "end_pos": 516681,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "rvous. This reminds\nhim of something.\n\"I'm tired, Paul D. So tired. I have to rest a while.”\nNow he know"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 518427,
+      "end_pos": 518431,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Paul",
+      "context": "lings and she couldn't find her hat anywhere and \"Paul D?\"\n\"What, baby?\"\n\"She left me.\"\n\"Aw, girl. Don't"
+    },
+    {
+      "text": "Paul",
+      "start_pos": 518513,
+      "end_pos": 518517,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Paul",
+      "context": "\"\n\"Aw, girl. Don't cry.\"\n\"She was my best thing.\"\nPaul D sits down in the rocking chair and examines the"
+    }
+  ],
+  "by_type": {
+    "character_reference": 347,
+    "direct_quote": 1,
+    "thematic_reference": 59
+  },
+  "statistics": {
+    "avg_confidence": 0.8443488943488967,
+    "high_confidence_count": 367
+  },
+  "metadata": {
+    "filename": "mdp.49015003142743.txt",
+    "analysis_date": "2025-12-04T00:12:16.042046",
+    "text_length": 523323,
+    "analyzer": "BiblicalAllusionDetector v1.0"
+  }
+}

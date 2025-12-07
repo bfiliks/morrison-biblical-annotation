@@ -1,0 +1,62 @@
+novel_title,allusion_text,start_pos,end_pos,allusion_type,confidence,biblical_source,context
+Jazz (1992),Solomon,140,147,character_reference,0.85,Solomon,ORRISON The Bluest Eye (1970) Sula (1974) Song of Solomon (1977) Tar Baby (1981) Beloved (1987) Playing in
+Jazz (1992),mark,1378,1382,thematic_reference,0.9,Mark,me contrasts between thick and thin elements that mark most modern faces and attempts to give a feeling
+Jazz (1992),hope,17288,17292,thematic_reference,0.8,Hope,"wife's side, then the face stares at him without hope or regret and it is the absence of accusation tha"
+Jazz (1992),job,30921,30924,thematic_reference,0.9,Job,"which I better get to before I lose this no-count job. O Jesus."" She sighed heavily. ""Leave a note, why"
+Jazz (1992),Jesus,30928,30933,character_reference,0.7,Jesus,"better get to before I lose this no-count job. O Jesus."" She sighed heavily. ""Leave a note, why don't yo"
+Jazz (1992),hope,33164,33168,thematic_reference,0.8,Hope,"man's voice brought tears to the girl's eyes. ""I hope your mama tears you up and down."" Opinions, decis"
+Jazz (1992),job,67504,67507,thematic_reference,0.9,Job,"get to be a lawyer she would end up with an apron job. So she added a note in her own hand, saying, “I"
+Jazz (1992),job,68014,68017,thematic_reference,0.9,Job,"her-money of so little help she was giving up her job, picking up the children and return- ing to Barba"
+Jazz (1992),job,88264,88267,thematic_reference,0.9,Job,"ince before the War. Nor did he need a whiteman's job-he owned a pool hall. As a matter of fact, he was"
+Jazz (1992),Psalms,96721,96727,thematic_reference,0.9,Psalms,"iches to eat; the one-armed one, Neola, read them Psalms. The strict discipline was occasionally lightened"
+Jazz (1992),hope,99077,99081,thematic_reference,0.8,Hope,thing to do or worth doing except to lie down and hope when you are naked she won't laugh at you. Or tha
+Jazz (1992),job,108464,108467,thematic_reference,0.9,Job,"t up, unless, of course, he wanted to come on her job... Joe had decided he would wait till next Saturd"
+Jazz (1992),numbers,120140,120147,thematic_reference,0.9,Numbers,"n the leaf, the tongue, the tail? A mask, flight, numbers in the millions producing numbers in the millions"
+Jazz (1992),numbers,120174,120181,thematic_reference,0.9,Numbers,"A mask, flight, numbers in the millions producing numbers in the millions? A thorn here, a spike there. 75"
+Jazz (1992),lot,130735,130738,character_reference,0.7,Lot,"there?"" ""I just told you it was.” ""She give you a lot of trouble?"" ""No. None. Well. Some."" ""I was a goo"
+Jazz (1992),acts,138273,138277,thematic_reference,0.9,Acts,"s, slashed shoes, ripped socks. Vicious, childish acts of violence to inconvenience him, remind him. But"
+Jazz (1992),Jesus,144344,144349,character_reference,0.85,Jesus,"le trying to explain to these same women or even, Jesus! the men, the fathers and uncles, and grown cousi"
+Jazz (1992),job,144558,144561,thematic_reference,0.9,Job,ed coat make fools of them and ruin the honorable job they had worn white gloves for. They had to wrest
+Jazz (1992),Jordan,149463,149469,character_reference,0.85,Jordan,"stful of it the sonofabitch. And when ""Wings Over Jordan"" came on he probably turned the volume down so he"
+Jazz (1992),job,157670,157673,thematic_reference,0.9,Job,"rue Belle, came when she heard. Left her cushiony job in Baltimore and, with ten eagle dollars stitched"
+Jazz (1992),hope,159562,159566,thematic_reference,0.8,Hope,"likelihood that he was still alive grew fainter, hope never did. Anytime anytime, on another brittle co"
+Jazz (1992),resurrection,160826,160838,thematic_reference,0.8,Resurrection,"ever blotted out Rose. In the midst of the joyful resurrection of this phantom father, taking pleasure in the di"
+Jazz (1992),hope,161925,161929,thematic_reference,0.8,Hope,"ng after the night when craving (which used to be hope) got out of hand? When longing squeezed, then tos"
+Jazz (1992),hope,166354,166358,thematic_reference,0.8,Hope,"led me."" ""Might still, if my arm ain't broke."" ""I hope it is. You won't be picking nothing in the mornin"
+Jazz (1992),Joseph,167564,167570,character_reference,0.85,Joseph,"g twisted into water much too small. His name was Joseph, and even before the sun rose, when 105 it was st"
+Jazz (1992),faith,168924,168929,thematic_reference,0.8,Faith,"the vicinity hunting work. The straw boss had no faith in her, having watched her sweating hard to fill"
+Jazz (1992),john,190633,190637,thematic_reference,0.9,John,"t, swear I'd been fixed and tell me how much high john I need to remedy myself. Neither one of them I'd"
+Jazz (1992),Joseph,194359,194365,character_reference,0.85,Joseph,"s his name. Victory Williams. Mrs. Rhoda named me Joseph after her father, but neither she nor Mr. Frank e"
+Jazz (1992),Joseph,194992,194998,character_reference,0.85,Joseph,chool I had to have two names. I told the teacher Joseph Trace. Victory turned his whole self around in th
+Jazz (1992),lot,195225,195228,character_reference,0.7,Lot,"n the school yard. It was nice, packed dirt but a lot of nails and things were in it. Both of us barefo"
+Jazz (1992),job,199421,199424,thematic_reference,0.9,Job,"Took us five years, but we did it. “Then I got a job laying rail for the Southern Sky. I was twenty-ei"
+Jazz (1992),job,203936,203939,thematic_reference,0.9,Job,o proud it split my heart in two. Gistan got me a job at another hotel where the tip was folding money
+Jazz (1992),Adam,211918,211922,character_reference,0.85,Adam,touch. I told you again that you were the reason Adam ate the apple and its core. That when he left Ede
+Jazz (1992),Eden,211969,211973,character_reference,0.7,Eden,"dam ate the apple and its core. That when he left Eden, he left a rich man. Not only did he have Eve, bu"
+Jazz (1992),Eve,212016,212019,character_reference,0.7,Eve,"ft Eden, he left a rich man. Not only did he have Eve, but he had the taste of the first apple in the w"
+Jazz (1992),Eden,212306,212310,character_reference,0.7,Eden,"hen like you knew me, and I thought it really was Eden, and I couldn't take your eyes in because I was l"
+Jazz (1992),acts,215608,215612,thematic_reference,0.9,Acts,"ke me-curious, inven- tive and well-informed. Joe acts like he knew all about what the old folks did to"
+Jazz (1992),job,220710,220713,thematic_reference,0.9,Job,nd she knew more since she was the one whose sole job it was to tend to whatever Miss Vera Louise wante
+Jazz (1992),lot,224000,224003,character_reference,0.7,Lot,"all out with paper money, because she sure had a lot of it handed to her. Then again, maybe not. Maybe"
+Jazz (1992),lot,225528,225531,character_reference,0.7,Lot,"y were more than enough. I've thought about him a lot, wondered whether he was what True Belle loved an"
+Jazz (1992),lot,255386,255389,character_reference,0.7,Lot,"all and set out. During the journey he worried a lot about what he looked like, what armor he could ca"
+Jazz (1992),lot,258891,258894,character_reference,0.7,Lot,"as felt it now, and it may come again. No doubt a lot of other things will come again: doubt will come,"
+Jazz (1992),mark,260550,260554,thematic_reference,0.9,Mark,"t so were the grandfathers. Any fascination could mark a newborn: melons, rabbits, wisteria, rope, and,"
+Jazz (1992),lot,277747,277750,character_reference,0.7,Lot,"t wild or hit game in messy inefficient places. A lot of his time was spent denying it, convincing hims"
+Jazz (1992),job,284300,284303,thematic_reference,0.9,Job,"aniacal. On his way to Pales- tine, he took every job offered or heard about. Cut trees, cane; plowed t"
+Jazz (1992),Eden,285706,285710,character_reference,0.7,Eden,"is a long way from Virginia, and even longer from Eden. As he puts on his coat and cap he can practicall"
+Jazz (1992),job,308305,308308,thematic_reference,0.9,Job,"ter funerals—she had to say no to, because of her job in Tuxedo. So more than anything she wanted gossi"
+Jazz (1992),lot,311624,311627,character_reference,0.7,Lot,ever said why but I sort of knew. I didn't have a lot of friends in school. Not the boys but the girls
+Jazz (1992),job,316255,316258,thematic_reference,0.9,Job,"t her elbow. ""She wanted to impress Acton. A hard job since he criticized everything. He never gave her"
+Jazz (1992),job,317644,317647,thematic_reference,0.9,Job,"esn't work in Tuxedo anymore, and my father has a job on the Pullman. He is happier than I've ever seen"
+Jazz (1992),lot,318317,318320,character_reference,0.7,Lot,"ee Negroes play baseball ‘in the flesh and on the lot, goddamnit.' It tickles him that whitepeople are"
+Jazz (1992),job,318566,318569,thematic_reference,0.9,Job,me to find some good man to marry. I want a good job first. Make my own money. Like she did. Like Mrs.
+Jazz (1992),job,318993,318996,thematic_reference,0.9,Job,l broke up. Cried all day and all night. Left his job and wasn't good for a thing. I suppose he misses
+Jazz (1992),job,335150,335153,thematic_reference,0.9,Job,"bring some records.' ""Then I best find me another job.' He turned tome, touch- ing my elbow as I walked"
+Jazz (1992),lot,336913,336916,character_reference,0.7,Lot,d was running around with her 'catch.' Somebody a lot of girls older than us wanted and had too. Dorcas
+Jazz (1992),lot,337818,337821,character_reference,0.7,Lot,"colored baseball players 'in the flesh and on the lot,' hollering, jumping up and down when he recounts"
+Jazz (1992),lot,338322,338325,character_reference,0.7,Lot,ging flour the way Mrs. Trace fixed it. I drank a lot of water so as not to hurt her feelings. It eased
+Jazz (1992),mark,339060,339064,thematic_reference,0.9,Mark,"er? Without aching words that set, then miss, the mark? I ought to get out of this place. Avoid the wind"
+Jazz (1992),job,343511,343514,thematic_reference,0.9,Job,"toy. Joe found work at Paydirt, a speakeasy night job that lets him see the City do its unbelievable sk"
+Jazz (1992),lot,345919,345922,character_reference,0.7,Lot,"fas- cinated. Both of them think it's a shame. A lot of the time, though, they stay home figuring thin"
+Jazz (1992),Egypt,349961,349966,character_reference,0.7,Egypt,"ses nearby singing ""Go down, go down, way down in Egypt land. . ."" Answering each other from yard to yard"

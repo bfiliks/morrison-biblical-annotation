@@ -1,0 +1,569 @@
+{
+  "title": "Jazz (1992)",
+  "total_allusions": 61,
+  "allusions": [
+    {
+      "text": "Solomon",
+      "start_pos": 140,
+      "end_pos": 147,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Solomon",
+      "context": "ORRISON\nThe Bluest Eye (1970)\nSula (1974)\nSong of Solomon (1977)\nTar Baby (1981)\nBeloved (1987)\nPlaying in "
+    },
+    {
+      "text": "mark",
+      "start_pos": 1378,
+      "end_pos": 1382,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Mark",
+      "context": "me contrasts between thick and thin elements that mark most modern faces\nand attempts to give a feeling "
+    },
+    {
+      "text": "hope",
+      "start_pos": 17288,
+      "end_pos": 17292,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": " wife's side, then the face stares at him without\nhope or regret and it is the absence of accusation tha"
+    },
+    {
+      "text": "job",
+      "start_pos": 30921,
+      "end_pos": 30924,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "which I better\nget to before I lose this no-count job. O Jesus.\" She sighed\nheavily. \"Leave a note, why"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 30928,
+      "end_pos": 30933,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Jesus",
+      "context": " better\nget to before I lose this no-count job. O Jesus.\" She sighed\nheavily. \"Leave a note, why don't yo"
+    },
+    {
+      "text": "hope",
+      "start_pos": 33164,
+      "end_pos": 33168,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": " man's voice brought tears to the\ngirl's eyes. \"I hope your mama tears you up and down.\"\nOpinions, decis"
+    },
+    {
+      "text": "job",
+      "start_pos": 67504,
+      "end_pos": 67507,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "get to be a lawyer she would end up with an apron job.\nSo she added a note in her own hand, saying, “I "
+    },
+    {
+      "text": "job",
+      "start_pos": 68014,
+      "end_pos": 68017,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "her-money of so little help\nshe was giving up her job, picking up the children and return-\ning to Barba"
+    },
+    {
+      "text": "job",
+      "start_pos": 88264,
+      "end_pos": 88267,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "ince before the War. Nor did he\nneed a whiteman's job-he owned a pool hall. As a matter of\nfact, he was"
+    },
+    {
+      "text": "Psalms",
+      "start_pos": 96721,
+      "end_pos": 96727,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Psalms",
+      "context": "iches to eat; the one-armed one,\nNeola, read them Psalms. The strict discipline was occasionally\nlightened"
+    },
+    {
+      "text": "hope",
+      "start_pos": 99077,
+      "end_pos": 99081,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": "thing to do or worth doing\nexcept to lie down and hope when you are naked she won't\nlaugh at you. Or tha"
+    },
+    {
+      "text": "job",
+      "start_pos": 108464,
+      "end_pos": 108467,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "t up, unless, of course, he wanted to come on her\njob...\nJoe had decided he would wait till next Saturd"
+    },
+    {
+      "text": "numbers",
+      "start_pos": 120140,
+      "end_pos": 120147,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Numbers",
+      "context": "n the leaf, the tongue, the tail? A mask, flight,\nnumbers in the millions producing numbers in the millions"
+    },
+    {
+      "text": "numbers",
+      "start_pos": 120174,
+      "end_pos": 120181,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Numbers",
+      "context": "A mask, flight,\nnumbers in the millions producing numbers in the millions? A\nthorn here, a spike there.\n75\n"
+    },
+    {
+      "text": "lot",
+      "start_pos": 130735,
+      "end_pos": 130738,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "there?\"\n\"I just told you it was.”\n\"She give you a lot of trouble?\"\n\"No. None. Well. Some.\"\n\"I was a goo"
+    },
+    {
+      "text": "acts",
+      "start_pos": 138273,
+      "end_pos": 138277,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Acts",
+      "context": "s, slashed shoes, ripped socks. Vicious, childish\nacts of violence to inconvenience him, remind him. But"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 144344,
+      "end_pos": 144349,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "le trying to explain to\nthese same women or even, Jesus! the men, the fathers and\nuncles, and grown cousi"
+    },
+    {
+      "text": "job",
+      "start_pos": 144558,
+      "end_pos": 144561,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "ed coat make fools of them and ruin the honorable\njob they had worn white gloves for. They had to wrest"
+    },
+    {
+      "text": "Jordan",
+      "start_pos": 149463,
+      "end_pos": 149469,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jordan",
+      "context": "stful\nof it the sonofabitch. And when \"Wings Over Jordan\" came\non he probably turned the volume down so he"
+    },
+    {
+      "text": "job",
+      "start_pos": 157670,
+      "end_pos": 157673,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "rue Belle, came when she heard. Left her\ncushiony job in Baltimore and, with ten eagle dollars stitched"
+    },
+    {
+      "text": "hope",
+      "start_pos": 159562,
+      "end_pos": 159566,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": " likelihood that he was still alive grew\nfainter, hope never did. Anytime anytime, on another brittle\nco"
+    },
+    {
+      "text": "resurrection",
+      "start_pos": 160826,
+      "end_pos": 160838,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Resurrection",
+      "context": "ever blotted out Rose.\nIn the midst of the joyful resurrection of this phantom father,\ntaking pleasure in the di"
+    },
+    {
+      "text": "hope",
+      "start_pos": 161925,
+      "end_pos": 161929,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": "ng after the night when craving (which used to\nbe hope) got out of hand? When longing squeezed, then tos"
+    },
+    {
+      "text": "hope",
+      "start_pos": 166354,
+      "end_pos": 166358,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": "led me.\"\n\"Might still, if my arm ain't broke.\"\n\"I hope it is. You won't be picking nothing in the mornin"
+    },
+    {
+      "text": "Joseph",
+      "start_pos": 167564,
+      "end_pos": 167570,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Joseph",
+      "context": "g twisted into water much too small.\nHis name was Joseph, and even before the sun rose, when\n105\nit was st"
+    },
+    {
+      "text": "faith",
+      "start_pos": 168924,
+      "end_pos": 168929,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Faith",
+      "context": " the vicinity hunting work. The straw boss had no\nfaith in her, having watched her sweating hard to fill "
+    },
+    {
+      "text": "john",
+      "start_pos": 190633,
+      "end_pos": 190637,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "John",
+      "context": "t, swear I'd been fixed and tell\nme how much high john I need to remedy myself. Neither one\nof them I'd "
+    },
+    {
+      "text": "Joseph",
+      "start_pos": 194359,
+      "end_pos": 194365,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Joseph",
+      "context": "s his name. Victory Williams. Mrs. Rhoda named\nme Joseph after her father, but neither she nor Mr. Frank\ne"
+    },
+    {
+      "text": "Joseph",
+      "start_pos": 194992,
+      "end_pos": 194998,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Joseph",
+      "context": "chool I had to have two names. I told\nthe teacher Joseph Trace. Victory turned his whole self around\nin th"
+    },
+    {
+      "text": "lot",
+      "start_pos": 195225,
+      "end_pos": 195228,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "n the school yard. It was nice, packed dirt\nbut a lot of nails and things were in it. Both of us barefo"
+    },
+    {
+      "text": "job",
+      "start_pos": 199421,
+      "end_pos": 199424,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": " Took us five years, but we did it.\n“Then I got a job laying rail for the Southern Sky. I was\ntwenty-ei"
+    },
+    {
+      "text": "job",
+      "start_pos": 203936,
+      "end_pos": 203939,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "o proud it split my heart in two. Gistan\ngot me a job at another hotel where the tip was folding money\n"
+    },
+    {
+      "text": "Adam",
+      "start_pos": 211918,
+      "end_pos": 211922,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Adam",
+      "context": " touch. I told you again that\nyou were the reason Adam ate the apple and its core. That\nwhen he left Ede"
+    },
+    {
+      "text": "Eden",
+      "start_pos": 211969,
+      "end_pos": 211973,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Eden",
+      "context": "dam ate the apple and its core. That\nwhen he left Eden, he left a rich man. Not only did he have\nEve, bu"
+    },
+    {
+      "text": "Eve",
+      "start_pos": 212016,
+      "end_pos": 212019,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Eve",
+      "context": "ft Eden, he left a rich man. Not only did he have\nEve, but he had the taste of the first apple in the w"
+    },
+    {
+      "text": "Eden",
+      "start_pos": 212306,
+      "end_pos": 212310,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Eden",
+      "context": "hen like you knew me, and I thought\nit really was Eden, and I couldn't take your eyes in because I\nwas l"
+    },
+    {
+      "text": "acts",
+      "start_pos": 215608,
+      "end_pos": 215612,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Acts",
+      "context": "ke me-curious, inven-\ntive and well-informed. Joe acts like he knew all about what the\nold folks did to "
+    },
+    {
+      "text": "job",
+      "start_pos": 220710,
+      "end_pos": 220713,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "nd she knew more since she was the one whose\nsole job it was to tend to whatever Miss Vera Louise wante"
+    },
+    {
+      "text": "lot",
+      "start_pos": 224000,
+      "end_pos": 224003,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "\nall out with paper money, because she sure had a lot of it\nhanded to her. Then again, maybe not. Maybe"
+    },
+    {
+      "text": "lot",
+      "start_pos": 225528,
+      "end_pos": 225531,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "y were more than enough.\nI've thought about him a lot, wondered whether he was what\nTrue Belle loved an"
+    },
+    {
+      "text": "lot",
+      "start_pos": 255386,
+      "end_pos": 255389,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": " all\nand set out. During the journey he worried a lot about what\nhe looked like, what armor he could ca"
+    },
+    {
+      "text": "lot",
+      "start_pos": 258891,
+      "end_pos": 258894,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "as felt it now, and it may come again. No doubt a lot of\nother things will come again: doubt will come,"
+    },
+    {
+      "text": "mark",
+      "start_pos": 260550,
+      "end_pos": 260554,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Mark",
+      "context": "t so were the grandfathers. Any fascination could mark\na newborn: melons, rabbits, wisteria, rope, and, "
+    },
+    {
+      "text": "lot",
+      "start_pos": 277747,
+      "end_pos": 277750,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "t wild or hit game in\nmessy inefficient places. A lot of his time was spent denying it,\nconvincing hims"
+    },
+    {
+      "text": "job",
+      "start_pos": 284300,
+      "end_pos": 284303,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "aniacal. On his way to Pales-\ntine, he took every job offered or heard about. Cut trees, cane;\nplowed t"
+    },
+    {
+      "text": "Eden",
+      "start_pos": 285706,
+      "end_pos": 285710,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Eden",
+      "context": "is a long way from Virginia, and even longer from Eden. As\nhe puts on his coat and cap he can practicall"
+    },
+    {
+      "text": "job",
+      "start_pos": 308305,
+      "end_pos": 308308,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "ter funerals—she had to say no to, because of her job in\nTuxedo. So more than anything she wanted gossi"
+    },
+    {
+      "text": "lot",
+      "start_pos": 311624,
+      "end_pos": 311627,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "ever said why but I sort of knew. I didn't have a lot of friends\nin school. Not the boys but the girls "
+    },
+    {
+      "text": "job",
+      "start_pos": 316255,
+      "end_pos": 316258,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "t her elbow.\n\"She wanted to impress Acton. A hard job since he criticized\neverything. He never gave her"
+    },
+    {
+      "text": "job",
+      "start_pos": 317644,
+      "end_pos": 317647,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "esn't work in Tuxedo anymore, and\nmy father has a job on the Pullman. He is happier than I've\never seen"
+    },
+    {
+      "text": "lot",
+      "start_pos": 318317,
+      "end_pos": 318320,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "ee Negroes play baseball ‘in the flesh and on\nthe lot, goddamnit.' It tickles him that whitepeople are "
+    },
+    {
+      "text": "job",
+      "start_pos": 318566,
+      "end_pos": 318569,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": " me to find some\ngood man to marry. I want a good job first. Make my own\nmoney. Like she did. Like Mrs."
+    },
+    {
+      "text": "job",
+      "start_pos": 318993,
+      "end_pos": 318996,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "l broke up. Cried all day and all night. Left his\njob and wasn't good for a thing. I suppose he misses "
+    },
+    {
+      "text": "job",
+      "start_pos": 335150,
+      "end_pos": 335153,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "bring some records.'\n\"Then I best find me another job.' He turned tome, touch-\ning my elbow as I walked"
+    },
+    {
+      "text": "lot",
+      "start_pos": 336913,
+      "end_pos": 336916,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "d was running around with her 'catch.' Somebody a\nlot of girls older than us wanted and had too. Dorcas"
+    },
+    {
+      "text": "lot",
+      "start_pos": 337818,
+      "end_pos": 337821,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "colored baseball players 'in the flesh and on the lot,' hollering,\njumping up and down when he recounts"
+    },
+    {
+      "text": "lot",
+      "start_pos": 338322,
+      "end_pos": 338325,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "ging flour the\nway Mrs. Trace fixed it. I drank a lot of water so as not to hurt\nher feelings. It eased"
+    },
+    {
+      "text": "mark",
+      "start_pos": 339060,
+      "end_pos": 339064,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Mark",
+      "context": "er?\nWithout aching words that set, then miss, the mark?\nI ought to get out of this place. Avoid the wind"
+    },
+    {
+      "text": "job",
+      "start_pos": 343511,
+      "end_pos": 343514,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "toy.\nJoe found work at Paydirt, a speakeasy night job that lets him\nsee the City do its unbelievable sk"
+    },
+    {
+      "text": "lot",
+      "start_pos": 345919,
+      "end_pos": 345922,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": " fas-\ncinated. Both of them think it's a shame.\nA lot of the time, though, they stay home figuring thin"
+    },
+    {
+      "text": "Egypt",
+      "start_pos": 349961,
+      "end_pos": 349966,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Egypt",
+      "context": "ses nearby singing \"Go down, go down, way\ndown in Egypt land. . .\" Answering each other from yard to\nyard"
+    }
+  ],
+  "by_type": {
+    "character_reference": 26,
+    "thematic_reference": 35
+  },
+  "statistics": {
+    "avg_confidence": 0.8188524590163938,
+    "high_confidence_count": 34
+  },
+  "metadata": {
+    "filename": "ien.35556029664190.txt",
+    "analysis_date": "2025-12-04T00:12:38.503086",
+    "text_length": 356222,
+    "analyzer": "BiblicalAllusionDetector v1.0"
+  }
+}

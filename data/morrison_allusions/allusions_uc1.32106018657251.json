@@ -1,0 +1,821 @@
+{
+  "title": "The Bluest Eye (1970)",
+  "total_allusions": 89,
+  "allusions": [
+    {
+      "text": "Solomon",
+      "start_pos": 403,
+      "end_pos": 410,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Solomon",
+      "context": "is the author of five other\nnovels, Sula, Song of Solomon, which won the 1978 National Book\nCritics' Circle"
+    },
+    {
+      "text": "Solomon",
+      "start_pos": 735,
+      "end_pos": 742,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Solomon",
+      "context": "re.\nAlso by Toni Morrison in Picador\nSula\nSong of Solomon\nTar Baby\nBeloved\nJazz\nPlaying in the Dark: Whiten"
+    },
+    {
+      "text": "faith",
+      "start_pos": 5015,
+      "end_pos": 5020,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Faith",
+      "context": "n his own plot of black dirt. Our inno-\ncence and faith were no more productive than his lust or despair."
+    },
+    {
+      "text": "hope",
+      "start_pos": 5112,
+      "end_pos": 5116,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": "despair. What is clear\nnow is that of all of that hope, fear, lust, love, and grief, nothing remains but"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 7682,
+      "end_pos": 7687,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Jesus",
+      "context": "acked tight with phlegm, my mother\nfrowns. \"Great Jesus. Get on in that bed. How many times do I have\nto "
+    },
+    {
+      "text": "hope",
+      "start_pos": 12994,
+      "end_pos": 12998,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": "isten to and watch out for their voices.\n\"Well, I hope don't nobody let me roam around like that when I\n"
+    },
+    {
+      "text": "hope",
+      "start_pos": 13778,
+      "end_pos": 13782,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": "just sensible. A steady worker with quiet ways. I hope it\nworks out all right.\"\n\"It will. How much you c"
+    },
+    {
+      "text": "lot",
+      "start_pos": 14725,
+      "end_pos": 14728,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "\nNile Hair Oil and flecks of Sen-Sen.\nHe smiled a lot, showing small even teeth with a friendly gap in "
+    },
+    {
+      "text": "charity",
+      "start_pos": 28960,
+      "end_pos": 28967,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Charity",
+      "context": " what I'm supposed to be running here, a\n17\n4\nget\ncharity ward, I guess. Time for me to get out of the givi"
+    },
+    {
+      "text": "lot",
+      "start_pos": 51647,
+      "end_pos": 51650,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "uldn't feel hellfire, but I'm cold. I got to do a lot\nof things, but I ain't got to freeze.\"\n\"Leave me "
+    },
+    {
+      "text": "redemption",
+      "start_pos": 53650,
+      "end_pos": 53660,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Redemption",
+      "context": "whom God wanted her to punish.\n(Cholly was beyond redemption, of course, and redemption was hardly\nthe point-M"
+    },
+    {
+      "text": "redemption",
+      "start_pos": 53677,
+      "end_pos": 53687,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Redemption",
+      "context": "sh.\n(Cholly was beyond redemption, of course, and redemption was hardly\nthe point-Mrs. Breedlove was not inter"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 53839,
+      "end_pos": 53844,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "Judge.) Often she could be heard discoursing\nwith Jesus about Cholly, pleading with Him to help her \"stri"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 54044,
+      "end_pos": 54049,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "y into the red-hot stove, she\nscreamed, “Get him, Jesus! Get him!\" If Cholly had stopped drinking,\nshe wo"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 54123,
+      "end_pos": 54128,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "d stopped drinking,\nshe would never have forgiven Jesus. She needed Cholly's sins\ndesperately. The lower "
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 54290,
+      "end_pos": 54295,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": " splendid she and her task became. In the name of\nJesus.\n·\nNo less did Cholly need her. She was one of th"
+    },
+    {
+      "text": "grace",
+      "start_pos": 56690,
+      "end_pos": 56695,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Grace",
+      "context": "Breedlove. Don't.\"\nBut Mrs. Breedlove did.\nBy the grace, no doubt, of God, Mrs. Breedlove sneezed. Just o"
+    },
+    {
+      "text": "Luke",
+      "start_pos": 60159,
+      "end_pos": 60163,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Luke",
+      "context": "e was in front of her, but she shared a desk\nwith Luke Angelino. Her teachers had always treated her thi"
+    },
+    {
+      "text": "hope",
+      "start_pos": 61649,
+      "end_pos": 61653,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": "lthough somewhat discouraged, she was not\nwithout hope. To have something as wonderful as that happen wo"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 63914,
+      "end_pos": 63918,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "e counter, she looks at the array of candies. All Mary Janes,\nshe decides. Three for a penny. The resist"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 64827,
+      "end_pos": 64831,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": " his mouth, his mind honed on the doe-eyed Virgin\nMary, his sensibilities blunted by a permanent awarene"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 65784,
+      "end_pos": 65788,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "taste in white eyes.\nShe points her finger at the Mary Janes-a little black shaft of\nfinger, its tip pre"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 66170,
+      "end_pos": 66174,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "t which, in her\nview, at any rate, identifies the Mary Janes. He cannot see her view—\nthe angle of his v"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 66460,
+      "end_pos": 66464,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "dy.\n\"Christ. Kantcha talk?”\nHis fingers brush the Mary Janes.\nShe nods.\n\"Well, why'nt you say so? One? H"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 66592,
+      "end_pos": 66596,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": " fist, showing the three pennies. He scoots three\nMary Janes toward her-three yellow rectangles in each "
+    },
+    {
+      "text": "revelation",
+      "start_pos": 67185,
+      "end_pos": 67195,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Revelation",
+      "context": " are\nugly. They are weeds.\" Preoccupied with that revelation, she trips on\nthe sidewalk crack. Anger stirs and"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 67762,
+      "end_pos": 67766,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "at to do before the tears come. She remembers\nthe Mary Janes.\nEach pale yellow wrapper has a picture on "
+    },
+    {
+      "text": "Mary",
+      "start_pos": 67840,
+      "end_pos": 67844,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": " wrapper has a picture on it. A picture of little\nMary Jane, for whom the candy is named. Smiling white "
+    },
+    {
+      "text": "Mary",
+      "start_pos": 68155,
+      "end_pos": 68159,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": " To eat the candy\nis somehow to eat the eyes, eat Mary Jane. Love Mary Jane. Be Mary\nJane.\nThree pennies"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 68171,
+      "end_pos": 68175,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "y\nis somehow to eat the eyes, eat Mary Jane. Love Mary Jane. Be Mary\nJane.\nThree pennies had bought her "
+    },
+    {
+      "text": "Mary",
+      "start_pos": 68185,
+      "end_pos": 68189,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "o eat the eyes, eat Mary Jane. Love Mary Jane. Be Mary\nJane.\nThree pennies had bought her nine lovely or"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 68250,
+      "end_pos": 68254,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "e pennies had bought her nine lovely orgasms with Mary Jane.\nLovely Mary Jane, for whom a candy is named"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 68268,
+      "end_pos": 68272,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "ht her nine lovely orgasms with Mary Jane.\nLovely Mary Jane, for whom a candy is named.\nThree whores liv"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 72031,
+      "end_pos": 72036,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "ore people than\nTB. And if you crossed him? Whoa, Jesus! He'd run you as long as\nthere was ground. Well, "
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 73517,
+      "end_pos": 73522,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "Well, this hippo had a ball back in Chicago. Whoa Jesus, ninety-\nnine!\"\n\"How come you always say 'Whoa Je"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 73570,
+      "end_pos": 73575,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "us, ninety-\nnine!\"\n\"How come you always say 'Whoa Jesus' and a number?\" Pecola\nhad long wanted to know.\n\""
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 74498,
+      "end_pos": 74503,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": ".\"\n\"Oh, honey, you've missed half your life. Whoa Jesus, one-nine-five.\nYou talkin' 'bout smooth! I met h"
+    },
+    {
+      "text": "Cain",
+      "start_pos": 85801,
+      "end_pos": 85805,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Cain",
+      "context": " bay a victim, Pecola\nBreedlove.\nBay Boy, Woodrow Cain, Buddy Wilson, Junie Bug—like a\nnecklace of semip"
+    },
+    {
+      "text": "Cain",
+      "start_pos": 87389,
+      "end_pos": 87393,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Cain",
+      "context": "toward them and\nbrought her books down on Woodrow Cain's head. The circle broke.\nWoodrow Cain grabbed hi"
+    },
+    {
+      "text": "Cain",
+      "start_pos": 87428,
+      "end_pos": 87432,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Cain",
+      "context": "on Woodrow Cain's head. The circle broke.\nWoodrow Cain grabbed his head.\nSI\n333\n\"Hey, girl!\"\n\"You cut th"
+    },
+    {
+      "text": "Cain",
+      "start_pos": 106154,
+      "end_pos": 106158,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Cain",
+      "context": "d do that you was gonna tell?\"\n\"Wet the bed. Mrs. Cain told Mama he won't quit.”\n\"Old nasty.\"\nThe sky wa"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 120832,
+      "end_pos": 120837,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "s were on all the windowsills.\nA color picture of Jesus Christ hung on a wall with the prettiest paper\nfl"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 126458,
+      "end_pos": 126463,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "fur. Pecola turned to find the front door and saw\nJesus looking down at her with sad and unsurprised eyes"
+    },
+    {
+      "text": "lot",
+      "start_pos": 127485,
+      "end_pos": 127488,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "hia holds\nno cheer.\nSunk in the grass of an empty lot on a spring Saturday, I split the\nstems of milkwe"
+    },
+    {
+      "text": "numbers",
+      "start_pos": 146092,
+      "end_pos": 146099,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Numbers",
+      "context": "ur years of going to school, she was enchanted by numbers and\ndepressed by words. She missed-without knowin"
+    },
+    {
+      "text": "job",
+      "start_pos": 147538,
+      "end_pos": 147541,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "s old\nenough to leave school. Mrs. Williams got a job cleaning and cooking\nfor a white minister on the "
+    },
+    {
+      "text": "redemption",
+      "start_pos": 148946,
+      "end_pos": 148956,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Redemption",
+      "context": "r mind on the wages of sin, her body\ntrembled for redemption, salvation, a mysterious rebirth that would\nsimpl"
+    },
+    {
+      "text": "salvation",
+      "start_pos": 148958,
+      "end_pos": 148967,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Salvation",
+      "context": "e wages of sin, her body\ntrembled for redemption, salvation, a mysterious rebirth that would\nsimply happen, w"
+    },
+    {
+      "text": "job",
+      "start_pos": 157497,
+      "end_pos": 157500,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "veral months of doing day work, she took a steady job in the\nhome of a family of slender means and nerv"
+    },
+    {
+      "text": "lot",
+      "start_pos": 165032,
+      "end_pos": 165035,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "ame room with the toilet. Them pictures gave me a lot of pleasure, but it\n1\nmade coming home bard, and "
+    },
+    {
+      "text": "job",
+      "start_pos": 171762,
+      "end_pos": 171765,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "ross.\nIt was her good fortune to find a permanent job in the home of a\nwell-to-do family whose members "
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 178220,
+      "end_pos": 178225,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "s in mine, and we stretches our\narms outwise like Jesus on the cross. I hold on tight. My fingers and my "
+    },
+    {
+      "text": "Samuel",
+      "start_pos": 182052,
+      "end_pos": 182058,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Samuel",
+      "context": "an't recollect\nnothing no more. Sam, was it? Yeh. Samuel. No. No, it wasn't. It was\nSamson. Samson Fuller."
+    },
+    {
+      "text": "Samson",
+      "start_pos": 182086,
+      "end_pos": 182092,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Samson",
+      "context": "m, was it? Yeh. Samuel. No. No, it wasn't. It was\nSamson. Samson Fuller.\"\n\"How come you all didn't name me"
+    },
+    {
+      "text": "Samson",
+      "start_pos": 182094,
+      "end_pos": 182100,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Samson",
+      "context": "t? Yeh. Samuel. No. No, it wasn't. It was\nSamson. Samson Fuller.\"\n\"How come you all didn't name me Samson?"
+    },
+    {
+      "text": "Samson",
+      "start_pos": 182143,
+      "end_pos": 182149,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Samson",
+      "context": " Samson Fuller.\"\n\"How come you all didn't name me Samson?\" Cholly's voice was\nlow.\n\"What for? He wasn't no"
+    },
+    {
+      "text": "Samson",
+      "start_pos": 182458,
+      "end_pos": 182464,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Samson",
+      "context": "rother. Charles Breed-\nlove. A good man. Ain't no Samson never come to no good end.”\nCholly didn't ask any"
+    },
+    {
+      "text": "job",
+      "start_pos": 182567,
+      "end_pos": 182570,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "ng else.\nTwo years later he quit school to take a job at Tyson's Feed and\nGrain Store. He swept up, ran"
+    },
+    {
+      "text": "First Corinthians",
+      "start_pos": 186740,
+      "end_pos": 186757,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "First Corinthians",
+      "context": "e nodded\nin drowsy appreciation as the words from First Corinthians droned\nover her. Sweet amens fell from her lips a"
+    },
+    {
+      "text": "Jesus",
+      "start_pos": 193832,
+      "end_pos": 193837,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Jesus",
+      "context": "r Aunt Jimmy, a maiden lady, to wear when she met\nJesus. They even produced a dark suit, white shirt, and"
+    },
+    {
+      "text": "mark",
+      "start_pos": 210994,
+      "end_pos": 210998,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Mark",
+      "context": "t coal, leaving\nonly flakes of ash and a question mark of smoke. He was, in time, to\ndiscover that hatre"
+    },
+    {
+      "text": "job",
+      "start_pos": 213919,
+      "end_pos": 213922,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "the black cook or white mistress that he wanted a\njob weeding, plowing, picking, cleaning, and that he "
+    },
+    {
+      "text": "Samson",
+      "start_pos": 217961,
+      "end_pos": 217967,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Samson",
+      "context": "white-haired man on the back.\n\"Can you tell me is Samson Fuller 'round here somewhere?\"\n\"Fuller?\" The name"
+    },
+    {
+      "text": "Samson",
+      "start_pos": 219136,
+      "end_pos": 219142,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Samson",
+      "context": "\"Who sent you?\"\n\"Huh?\"\n•\n\"You Melba's boy?\"\n99\nis Samson Fuller?”\nyou\n\"No, sir, I'm .. Cholly blinked. He "
+    },
+    {
+      "text": "job",
+      "start_pos": 225385,
+      "end_pos": 225388,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "e\nwhite sheets of a singing woman. Free to take a job, free to leave it. He\ncould go to jail and not fe"
+    },
+    {
+      "text": "acts",
+      "start_pos": 226802,
+      "end_pos": 226806,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Acts",
+      "context": "; to be expected to dredge up enthusiasms for old\nacts, and routine ploys; he wondered at the arrogance "
+    },
+    {
+      "text": "Salvation",
+      "start_pos": 235412,
+      "end_pos": 235421,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Salvation",
+      "context": " a\nrooming house he once lived in, a quilt from a Salvation Army store\ncounter. It was as though his disdain "
+    },
+    {
+      "text": "Micah",
+      "start_pos": 241350,
+      "end_pos": 241355,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Micah",
+      "context": "died soon after\nchildbirth. Her son, named Elihue Micah Whitcomb, provided the\nschoolmaster with ample op"
+    },
+    {
+      "text": "Mary",
+      "start_pos": 241819,
+      "end_pos": 241823,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Mary",
+      "context": "mlet's abuse of Ophelia, but not Christ's love of Mary Magdalene;\nHamlet's frivolous politics, but not C"
+    },
+    {
+      "text": "Magdalene",
+      "start_pos": 241824,
+      "end_pos": 241833,
+      "type": "character_reference",
+      "confidence": 0.85,
+      "biblical_source": "Magdalene",
+      "context": "s abuse of Ophelia, but not Christ's love of Mary Magdalene;\nHamlet's frivolous politics, but not Christ's se"
+    },
+    {
+      "text": "communion",
+      "start_pos": 243125,
+      "end_pos": 243134,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Communion",
+      "context": "e academic gloom, that\nhe equated lovemaking with communion and the Holy Grail, she sim-\nply left. She had no"
+    },
+    {
+      "text": "Holy Grail",
+      "start_pos": 243143,
+      "end_pos": 243153,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Holy Grail",
+      "context": "that\nhe equated lovemaking with communion and the Holy Grail, she sim-\nply left. She had not lived by the sea "
+    },
+    {
+      "text": "job",
+      "start_pos": 248341,
+      "end_pos": 248344,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "\nhad pure and holy yearnings. God had done a poor job, and Soaphead\nsuspected that he himself could hav"
+    },
+    {
+      "text": "mark",
+      "start_pos": 252112,
+      "end_pos": 252116,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Mark",
+      "context": " sleeping on the porch.\nMake sure he eats it. And mark well how he behaves. If nothing hap\npens, you wil"
+    },
+    {
+      "text": "mark",
+      "start_pos": 254884,
+      "end_pos": 254888,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Mark",
+      "context": "nds. Not the Windward or Leeward Island colonies,\nmark you, but within, of course, the Greater of the tw"
+    },
+    {
+      "text": "hope",
+      "start_pos": 256480,
+      "end_pos": 256484,
+      "type": "thematic_reference",
+      "confidence": 0.8,
+      "biblical_source": "Hope",
+      "context": " particular town on that particular business; you hope it is comfort-\nable, but prefer, rather, that it "
+    },
+    {
+      "text": "mark",
+      "start_pos": 259308,
+      "end_pos": 259312,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Mark",
+      "context": " well-phrased, well-placed, well-faced\nlies. But, mark you, I hated it. Not for a moment did I love the "
+    },
+    {
+      "text": "Job",
+      "start_pos": 260319,
+      "end_pos": 260322,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": " could have told her, a long-ago habit broken for Job\n--but no more.) She came to me for them. She had "
+    },
+    {
+      "text": "Micah",
+      "start_pos": 260430,
+      "end_pos": 260435,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Micah",
+      "context": "y cards.\n(Card enclosed.) By the way, I added the Micah-Micah Elihue Whit-\ncomb. But I am called Soaphead"
+    },
+    {
+      "text": "Micah",
+      "start_pos": 260436,
+      "end_pos": 260441,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Micah",
+      "context": "s.\n(Card enclosed.) By the way, I added the Micah-Micah Elihue Whit-\ncomb. But I am called Soaphead Churc"
+    },
+    {
+      "text": "Moses",
+      "start_pos": 260756,
+      "end_pos": 260761,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Moses",
+      "context": " of questions:\n\"What is your name?\" put to you by Moses, You would not say, and\nsaid instead “I am who I "
+    },
+    {
+      "text": "Micah",
+      "start_pos": 263718,
+      "end_pos": 263723,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Micah",
+      "context": "ght. Quite.\nWith kindest regards, I remain,\nYour,\nMicah Elihue Whitcomb\n145\nSoaphead Church folded the sh"
+    },
+    {
+      "text": "lot",
+      "start_pos": 273139,
+      "end_pos": 273142,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": "hanged.\nGo away. Change. What's the difference?\nA lot. Mr. Soaphead said they would last forever.\nForev"
+    },
+    {
+      "text": "job",
+      "start_pos": 274969,
+      "end_pos": 274972,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "re pretty, you know.\nI know. He really did a good job. Everybody's jealous. Every time I\nlook at somebo"
+    },
+    {
+      "text": "lot",
+      "start_pos": 277800,
+      "end_pos": 277803,
+      "type": "character_reference",
+      "confidence": 0.7,
+      "biblical_source": "Lot",
+      "context": " didn't love him, she sure let him do it to\nher a lot.\nThat's nothing.\n157\nHow do you know?\nI saw them "
+    },
+    {
+      "text": "Revelation",
+      "start_pos": 285805,
+      "end_pos": 285815,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Revelation",
+      "context": "uth, seeing in the new pattern of an old\nidea the Revelation and the Word.\nShe, however, stepped over into mad"
+    },
+    {
+      "text": "job",
+      "start_pos": 291662,
+      "end_pos": 291665,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Job",
+      "context": "trying to pursue it.\nSome time ago I did the best job I could of describing strategies\nfor grounding my"
+    },
+    {
+      "text": "revelation",
+      "start_pos": 293242,
+      "end_pos": 293252,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "Revelation",
+      "context": "n, its suggestion of illicit\ngossip, of thrilling revelation, there is also, in the \"whisper,\" the\nassumption "
+    },
+    {
+      "text": "John",
+      "start_pos": 300775,
+      "end_pos": 300779,
+      "type": "thematic_reference",
+      "confidence": 0.9,
+      "biblical_source": "John",
+      "context": "th\npain and wonder that the novel becomes poetry'\nJohn Leonard, New York Times\n'I imagine if our greates"
+    }
+  ],
+  "by_type": {
+    "character_reference": 49,
+    "thematic_reference": 40
+  },
+  "statistics": {
+    "avg_confidence": 0.8303370786516863,
+    "high_confidence_count": 59
+  },
+  "metadata": {
+    "filename": "uc1.32106018657251.txt",
+    "analysis_date": "2025-12-04T00:09:52.616571",
+    "text_length": 301487,
+    "analyzer": "BiblicalAllusionDetector v1.0"
+  }
+}
