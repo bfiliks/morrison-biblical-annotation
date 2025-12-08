@@ -1,0 +1,1412 @@
+Passage_ID,Novel,Text,Allusion_Type,Biblical_Source,Allusion_Function,Confidence_Level,Analysis_Notes,Annotator,Timestamp,label
+1,Song of Solomon (1977),grace,Thematic_Reference,Grace,Narrative_Structure,80,,Batemmy,2025-12-04T23:32:22.502Z,1
+2,Song of Solomon (1977),Ruth,Thematic_Reference,Ruth,Characterization,90,,Batemmy,2025-12-04T23:32:50.809Z,1
+3,Tar Baby (1981),job,No_Allusion,Job,,100,,Batemmy,2025-12-04T23:33:33.787Z,0
+4,Beloved (1987),Jesus,Character_Reference,Jesus,Characterization,100,,Batemmy,2025-12-04T23:34:24.517Z,1
+5,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,100,,Batemmy,2025-12-04T23:34:38.924Z,1
+6,A Mercy (2008),hope,Thematic_Reference,Hope,Spiritual_Dimension,100,,Batemmy,2025-12-04T23:35:13.719Z,1
+7,Tar Baby (1981),lot,No_Allusion,Lot,,100,,Batemmy,2025-12-04T23:35:38.998Z,0
+8,Beloved (1987),Paul,Character_Reference,Paul,Characterization,100,,Batemmy,2025-12-04T23:36:12.994Z,1
+9,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,100,,Batemmy,2025-12-04T23:36:34.161Z,1
+10,A Mercy (2008),hope,Thematic_Reference,Hope,Narrative_Structure,80,,Batemmy,2025-12-04T23:37:09.440Z,1
+11,Tar Baby (1981),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-04T23:37:45.935Z,1
+12,The Bluest Eye (1970),Job,Character_Reference,Job,Characterization,90,,Batemmy,2025-12-04T23:38:48.427Z,1
+13,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,Batemmy,2025-12-04T23:39:11.199Z,1
+14,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-04T23:39:32.692Z,1
+15,Song of Solomon (1977),Numbers,No_Allusion,Numbers,,90,,Batemmy,2025-12-04T23:39:59.373Z,0
+16,Song of Solomon (1977),Ruth,Thematic_Reference,Ruth,Characterization,90,,Batemmy,2025-12-04T23:41:06.790Z,1
+17,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-04T23:41:24.606Z,1
+18,Sula (1973),Jesus,Character_Reference,Jesus,Characterization,85,,Batemmy,2025-12-04T23:41:41.510Z,1
+19,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-04T23:41:57.333Z,1
+20,Paradise (1998),Esther,Thematic_Reference,Esther,Characterization,90,,Batemmy,2025-12-04T23:42:20.776Z,1
+21,Paradise (1998),Zechariah,Thematic_Reference,Zechariah,Characterization,90,,Batemmy,2025-12-04T23:42:54.099Z,1
+22,Paradise (1998),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-04T23:43:08.026Z,0
+23,Song of Solomon (1977),hope,Thematic_Reference,Hope,Thematic_Development,80,,Batemmy,2025-12-04T23:43:28.345Z,1
+24,Paradise (1998),Esther,Character_Reference,Esther,Characterization,90,,Batemmy,2025-12-04T23:44:10.693Z,1
+25,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-04T23:44:22.506Z,1
+26,Paradise (1998),numbers,No_Allusion,Numbers,,90,,Batemmy,2025-12-04T23:44:35.603Z,0
+27,Tar Baby (1981),job,No_Allusion,Job,,90,,Batemmy,2025-12-04T23:44:49.834Z,0
+28,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-04T23:45:09.080Z,1
+29,Paradise (1998),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-04T23:46:24.422Z,0
+30,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-04T23:46:43.613Z,1
+31,Jazz (1992),Jesus,Character_Reference,Jesus,Characterization,70,,Batemmy,2025-12-04T23:46:56.237Z,1
+32,Song of Solomon (1977),Grace,Thematic_Reference,Grace,Characterization,80,,Batemmy,2025-12-05T00:01:28.093Z,1
+33,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-04T23:47:38.439Z,1
+34,Beloved (1987),Jesus,No_Allusion,Jesus,,85,,Batemmy,2025-12-04T23:48:18.235Z,0
+35,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-04T23:48:31.415Z,1
+36,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-04T23:48:56.584Z,1
+37,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-04T23:49:15.921Z,1
+38,The Bluest Eye (1970),revelation,No_Allusion,Revelation,,90,,Batemmy,2025-12-04T23:49:36.533Z,0
+39,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-04T23:49:57.709Z,1
+40,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-04T23:50:16.755Z,1
+41,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-04T23:50:30.444Z,1
+42,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-04T23:51:01.042Z,1
+43,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-04T23:51:16.338Z,1
+44,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-04T23:51:35.360Z,1
+45,Jazz (1992),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-04T23:52:08.249Z,0
+46,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-04T23:52:20.802Z,1
+47,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-04T23:52:41.099Z,1
+48,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-04T23:52:59.534Z,1
+49,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,70,,Batemmy,2025-12-04T23:53:17.147Z,1
+50,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-04T23:53:51.407Z,1
+51,A Mercy (2008),Judith,Character_Reference,Judith,Characterization,85,,Batemmy,2025-12-04T23:57:41.792Z,1
+52,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-04T23:58:24.749Z,1
+53,Song of Solomon (1977),Grace,Thematic_Reference,Grace,Thematic_Development,80,,Batemmy,2025-12-04T23:58:43.744Z,1
+54,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-05T00:02:06.725Z,1
+55,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T00:02:19.740Z,1
+56,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T00:02:35.002Z,1
+57,The Bluest Eye (1970),charity,No_Allusion,Charity,,80,,Batemmy,2025-12-05T00:03:05.680Z,0
+58,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-05T00:03:46.774Z,1
+59,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T00:03:57.737Z,1
+60,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T00:04:10.016Z,1
+61,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T00:04:26.803Z,1
+62,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,70,,Batemmy,2025-12-05T00:04:39.163Z,1
+63,Song of Solomon (1977),Mary,Character_Reference,Mary,Characterization,85,,Batemmy,2025-12-05T00:05:12.344Z,1
+64,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-05T00:05:36.269Z,1
+65,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-05T00:05:46.222Z,1
+66,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T00:05:59.100Z,1
+67,Paradise (1998),Calvary,Thematic_Reference,Calvary,Spiritual_Dimension,70,,Batemmy,2025-12-05T00:06:26.646Z,1
+68,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,Batemmy,2025-12-05T00:06:37.165Z,1
+69,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-05T00:07:16.318Z,1
+70,Paradise (1998),Mary,Character_Reference,Mary,Characterization,85,,Batemmy,2025-12-05T00:07:33.898Z,1
+71,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-05T00:07:45.703Z,1
+72,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T00:08:00.058Z,1
+73,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-05T00:08:18.598Z,1
+74,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-05T00:08:34.272Z,1
+75,Song of Solomon (1977),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-05T00:09:06.945Z,0
+76,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,Batemmy,2025-12-05T00:09:20.468Z,1
+77,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T00:09:32.874Z,1
+78,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-05T00:09:51.220Z,1
+79,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-05T00:10:38.322Z,1
+80,Sula (1973),Jude,Character_Reference,Jude,Characterization,90,,Batemmy,2025-12-05T00:11:13.798Z,1
+81,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-05T00:11:26.738Z,1
+82,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-05T00:11:54.899Z,1
+84,Tar Baby (1981),Gideon,Thematic_Reference,Gideon,Characterization,85,,Batemmy,2025-12-05T00:26:11.632Z,1
+83,Sula (1973),hope,Thematic_Reference,Hope,Thematic_Development,80,,Batemmy,2025-12-05T00:25:54.104Z,1
+85,Paradise (1998),Zechariah,Character_Reference,Zechariah,Characterization,90,,Batemmy,2025-12-05T00:27:47.232Z,1
+86,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T00:28:06.979Z,1
+87,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-05T00:28:19.618Z,1
+88,Paradise (1998),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-05T00:28:32.549Z,1
+89,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-05T00:28:43.768Z,1
+90,A Mercy (2008),salvation,Thematic_Reference,Salvation,Thematic_Development,80,,Batemmy,2025-12-05T00:29:14.595Z,1
+91,Sula (1973),mark,No_Allusion,Mark,,90,,Batemmy,2025-12-05T00:29:46.991Z,0
+92,A Mercy (2008),redemption,Thematic_Reference,Redemption,Thematic_Development,80,,Batemmy,2025-12-05T00:30:02.110Z,1
+93,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-05T00:30:15.595Z,1
+94,Tar Baby (1981),job,No_Allusion,Job,,90,,Batemmy,2025-12-05T00:30:30.068Z,0
+95,Song of Solomon (1977),Jesus,Character_Reference,Jesus,Characterization,85,,Batemmy,2025-12-05T00:31:01.268Z,1
+96,Paradise (1998),Calvary,Thematic_Reference,Calvary,Thematic_Development,70,,Batemmy,2025-12-05T00:31:32.333Z,1
+97,Song of Solomon (1977),Mary,No_Allusion,Mary,,85,,Batemmy,2025-12-05T00:32:09.316Z,0
+98,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,100,,Batemmy,2025-12-05T00:32:32.954Z,1
+99,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-05T00:32:45.180Z,1
+100,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-05T00:32:57.497Z,1
+101,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T00:33:12.353Z,1
+102,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-05T00:33:31.344Z,1
+103,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T00:33:44.869Z,1
+104,Song of Solomon (1977),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-05T00:33:49.781Z,0
+105,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-05T00:34:03.790Z,1
+106,Tar Baby (1981),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T00:34:13.782Z,1
+107,Sula (1973),Hope,No_Allusion,Hope,,80,,Batemmy,2025-12-05T00:34:39.281Z,0
+108,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T00:34:49.367Z,1
+109,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T00:35:04.081Z,1
+110,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T00:35:14.075Z,1
+111,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T00:35:23.256Z,1
+112,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-05T00:35:32.102Z,1
+113,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-05T00:35:46.380Z,1
+114,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T00:36:13.996Z,1
+115,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-05T00:36:20.984Z,1
+117,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,Batemmy,2025-12-05T00:36:52.669Z,1
+116,Beloved (1987),hope,No_Allusion,Hope,,80,,Batemmy,2025-12-05T00:36:44.447Z,0
+118,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-05T00:37:07.811Z,1
+119,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-05T00:37:20.390Z,1
+120,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-05T00:37:31.959Z,1
+121,Sula (1973),Jude,Thematic_Reference,Jude,Thematic_Development,90,,Batemmy,2025-12-05T00:38:39.263Z,1
+122,Jazz (1992),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-05T00:38:55.506Z,0
+123,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-05T00:39:07.437Z,1
+124,Song of Solomon (1977),lot,No_Allusion,Lot,,100,,Batemmy,2025-12-05T00:39:16.681Z,0
+125,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-05T00:39:23.924Z,1
+126,Beloved (1987),Samson,Character_Reference,Samson,Characterization,70,,Batemmy,2025-12-05T00:39:38.260Z,1
+127,Beloved (1987),job,No_Allusion,Job,,100,,Batemmy,2025-12-05T00:39:45.323Z,0
+128,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T00:39:56.067Z,1
+129,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-05T00:40:05.224Z,1
+130,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-05T00:40:11.402Z,1
+131,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-05T00:40:33.453Z,1
+132,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,85,,Batemmy,2025-12-05T00:40:39.393Z,1
+133,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T00:40:48.184Z,1
+134,Sula (1973),Jude,Character_Reference,Jude,Characterization,90,,Batemmy,2025-12-05T00:41:34.443Z,1
+135,Paradise (1998),mark,No_Allusion,Mark,,100,,Batemmy,2025-12-05T00:41:42.480Z,0
+136,Tar Baby (1981),job,No_Allusion,Job,,100,,Batemmy,2025-12-05T00:41:57.531Z,0
+138,Jazz (1992),Solomon,No_Allusion,Solomon,,100,,Batemmy,2025-12-05T00:42:53.954Z,0
+137,Paradise (1998),Deuteronomy,Thematic_Reference,Deuteronomy,Thematic_Development,100,,Batemmy,2025-12-05T00:42:31.150Z,1
+139,Paradise (1998),Jesus,Character_Reference,Jesus,Thematic_Development,85,,Batemmy,2025-12-05T00:43:13.819Z,1
+140,Beloved (1987),lot,No_Allusion,Lot,,100,,Batemmy,2025-12-05T00:43:21.153Z,0
+141,Song of Solomon (1977),Grace,Thematic_Reference,Grace,Thematic_Development,80,,Batemmy,2025-12-05T00:43:32.607Z,1
+142,Beloved (1987),lot,No_Allusion,Lot,,100,,Batemmy,2025-12-05T00:43:58.513Z,0
+143,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T00:44:06.058Z,1
+144,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,70,,Batemmy,2025-12-05T00:44:32.557Z,1
+145,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-05T00:44:48.622Z,1
+146,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,100,,Batemmy,2025-12-05T00:45:06.443Z,1
+147,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,100,,Batemmy,2025-12-05T00:45:20.737Z,1
+148,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T00:45:28.780Z,1
+149,Beloved (1987),mark,No_Allusion,Mark,,98,,Batemmy,2025-12-05T00:45:37.726Z,0
+150,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,100,,Batemmy,2025-12-05T00:45:49.262Z,1
+151,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,100,,Batemmy,2025-12-05T00:46:09.744Z,1
+152,Song of Solomon (1977),charity,No_Allusion,Charity,,100,,Batemmy,2025-12-05T00:46:19.129Z,0
+153,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,100,,Batemmy,2025-12-05T00:46:29.045Z,1
+154,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,100,,Batemmy,2025-12-05T00:46:37.272Z,1
+155,Paradise (1998),John,No_Allusion,John,,100,,Batemmy,2025-12-05T00:46:46.648Z,0
+156,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,100,,Batemmy,2025-12-05T00:46:57.258Z,1
+157,Beloved (1987),Paul,Character_Reference,Paul,Characterization,100,,Batemmy,2025-12-05T00:47:09.396Z,1
+158,Song of Solomon (1977),Mary,No_Allusion,Mary,,100,,Batemmy,2025-12-05T00:47:17.293Z,0
+159,Song of Solomon (1977),Babylon,Thematic_Reference,Babylon,Thematic_Development,100,,Batemmy,2025-12-05T00:47:36.321Z,1
+160,Beloved (1987),Joshua,Character_Reference,Joshua,Characterization,90,,Batemmy,2025-12-05T00:48:09.271Z,1
+161,Paradise (1998),mark,No_Allusion,Mark,,100,,Batemmy,2025-12-05T00:48:16.194Z,0
+162,Tar Baby (1981),Mary,Character_Reference,Mary,Characterization,100,,Batemmy,2025-12-05T00:48:30.461Z,1
+163,Sula (1973),John,Character_Reference,John,Characterization,90,,Batemmy,2025-12-05T00:48:40.591Z,1
+164,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,90,,Batemmy,2025-12-05T00:48:53.814Z,1
+165,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-05T00:49:04.399Z,1
+166,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-05T00:49:10.547Z,1
+167,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T00:49:19.390Z,1
+168,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,70,,Batemmy,2025-12-05T00:49:25.804Z,1
+169,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T00:49:32.381Z,1
+170,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-05T00:49:41.262Z,1
+171,Paradise (1998),Esther,Character_Reference,Esther,Characterization,90,,Batemmy,2025-12-05T00:49:53.007Z,1
+172,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-05T00:49:58.512Z,1
+173,Sula (1973),lot,No_Allusion,Lot,,100,,Batemmy,2025-12-05T00:50:08.351Z,0
+174,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T00:50:17.015Z,1
+175,Song of Solomon (1977),Grace,No_Allusion,Grace,,100,,Batemmy,2025-12-05T00:50:29.237Z,0
+176,Song of Solomon (1977),Lot,No_Allusion,Lot,,100,,Batemmy,2025-12-05T00:50:39.576Z,0
+177,Beloved (1987),Jesus,Character_Reference,Jesus,Characterization,100,,Batemmy,2025-12-05T00:50:50.639Z,1
+178,Sula (1973),Jude,Character_Reference,Jude,Characterization,90,,Batemmy,2025-12-05T00:51:03.653Z,1
+179,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T00:51:11.354Z,1
+180,Song of Solomon (1977),First Corinthians,Character_Reference,First Corinthians,Thematic_Development,70,,Batemmy,2025-12-05T00:51:28.891Z,1
+361,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T02:40:27.093Z,1
+362,Paradise (1998),Mary,Character_Reference,Mary,Characterization,85,,Batemmy,2025-12-05T02:41:01.617Z,1
+363,Sula (1973),Jude,Character_Reference,Jude,Characterization,90,,Batemmy,2025-12-05T02:41:22.732Z,1
+364,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-05T02:41:30.149Z,1
+365,Song of Solomon (1977),job,No_Allusion,Job,,90,,Batemmy,2025-12-05T02:41:38.345Z,0
+366,Sula (1973),Eve,No_Allusion,Eve,,70,,Batemmy,2025-12-05T02:41:56.797Z,0
+367,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T02:42:04.934Z,1
+368,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,100,,Batemmy,2025-12-05T02:42:17.852Z,1
+369,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-05T02:42:42.677Z,1
+370,Tar Baby (1981),Jesus,Character_Reference,Jesus,Characterization,85,,Batemmy,2025-12-05T02:43:05.680Z,1
+371,Song of Solomon (1977),numbers,No_Allusion,Numbers,,100,,Batemmy,2025-12-05T02:43:14.268Z,0
+372,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T02:43:22.211Z,1
+373,Beloved (1987),Jesus,Character_Reference,Jesus,Characterization,85,,Batemmy,2025-12-05T02:43:37.199Z,1
+374,Song of Solomon (1977),lot,No_Allusion,Lot,Characterization,100,,Batemmy,2025-12-05T02:43:55.332Z,0
+375,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-05T02:44:03.732Z,1
+376,Paradise (1998),Calvary,Thematic_Reference,Calvary,Thematic_Development,70,,Batemmy,2025-12-05T02:44:27.999Z,1
+377,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,70,,Batemmy,2025-12-05T02:44:42.187Z,1
+378,Jazz (1992),mark,No_Allusion,Mark,,100,,Batemmy,2025-12-05T02:44:49.192Z,0
+379,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T02:44:57.637Z,1
+380,Paradise (1998),faith,Thematic_Reference,Faith,Thematic_Development,80,,Batemmy,2025-12-05T02:45:17.555Z,1
+381,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-05T02:45:27.983Z,1
+382,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-05T02:45:37.616Z,1
+383,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-05T02:45:48.138Z,1
+384,Paradise (1998),Mark,No_Allusion,Mark,,90,,Batemmy,2025-12-05T02:46:19.729Z,0
+385,Paradise (1998),Jesus,Character_Reference,Jesus,Characterization,85,,Batemmy,2025-12-05T02:46:29.637Z,1
+386,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T02:46:37.483Z,1
+387,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,Batemmy,2025-12-05T02:46:45.022Z,1
+388,Sula (1973),Jude,Character_Reference,Jude,Characterization,90,,Batemmy,2025-12-05T02:47:02.188Z,1
+389,The Bluest Eye (1970),mark,No_Allusion,Mark,,90,,Batemmy,2025-12-05T02:47:07.992Z,0
+390,Paradise (1998),John,No_Allusion,John,,90,,Batemmy,2025-12-05T02:47:14.356Z,0
+391,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T02:47:24.796Z,1
+392,The Bluest Eye (1970),Mary,Character_Reference,Mary,Characterization,85,,Batemmy,2025-12-05T02:47:34.334Z,1
+393,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-05T02:47:43.485Z,1
+394,Tar Baby (1981),grace,Thematic_Reference,Grace,Thematic_Development,80,,Batemmy,2025-12-05T02:48:19.302Z,1
+395,Paradise (1998),lot,No_Allusion,Lot,,100,,Batemmy,2025-12-05T02:48:28.263Z,0
+396,Sula (1973),Jesus,Character_Reference,Jesus,Characterization,85,,Batemmy,2025-12-05T02:48:48.574Z,1
+397,Paradise (1998),Calvary,Thematic_Reference,Calvary,Thematic_Development,70,,Batemmy,2025-12-05T02:49:09.274Z,1
+398,A Mercy (2008),Jerusalem,Thematic_Reference,Jerusalem,Thematic_Development,70,,Batemmy,2025-12-05T02:51:55.786Z,1
+399,Paradise (1998), Matthew 19:6,Direct_Quote,Matthew 19:6,Thematic_Development,100,,Batemmy,2025-12-05T02:53:11.349Z,1
+400,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-05T02:54:23.287Z,1
+401,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,100,,Batemmy,2025-12-05T02:54:37.050Z,1
+402,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-05T02:54:46.348Z,1
+403,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-05T02:54:54.471Z,1
+404,Paradise (1998),Esther,Character_Reference,Esther,Characterization,90,,Batemmy,2025-12-05T02:55:17.412Z,1
+405,Song of Solomon (1977),lot,No_Allusion,Lot,,100,,Batemmy,2025-12-05T02:55:27.311Z,0
+406,Jazz (1992),hope,No_Allusion,Hope,,80,,Batemmy,2025-12-05T02:55:40.589Z,0
+407,The Bluest Eye (1970),redemption,Thematic_Reference,Redemption,Thematic_Development,80,,Batemmy,2025-12-05T02:55:57.622Z,1
+408,A Mercy (2008),baptism,Thematic_Reference,Baptism,Thematic_Development,80,,Batemmy,2025-12-05T02:56:10.710Z,1
+409,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T02:56:38.656Z,1
+410,Beloved (1987),Joshua,Character_Reference,Joshua,Characterization,90,,Batemmy,2025-12-05T02:56:47.056Z,1
+411,Jazz (1992),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-05T02:56:55.979Z,0
+412,Beloved (1987),job,No_Allusion,Job,,90,,Batemmy,2025-12-05T02:57:03.146Z,0
+413,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-05T02:57:24.469Z,1
+414,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-05T02:57:35.427Z,1
+415,Song of Solomon (1977),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-05T02:57:40.683Z,0
+416,The Bluest Eye (1970),job,No_Allusion,Job,,96,,Batemmy,2025-12-05T02:57:46.730Z,0
+417,A Mercy (2008),grace,Thematic_Reference,Grace,Thematic_Development,80,,Batemmy,2025-12-05T02:58:04.677Z,1
+418,The Bluest Eye (1970),Jesus,Character_Reference,Jesus,Characterization,85,,Batemmy,2025-12-05T02:58:10.220Z,1
+419,Beloved (1987),Jesus,Character_Reference,Jesus,Characterization,85,,Batemmy,2025-12-05T02:58:56.909Z,1
+420,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T02:59:05.692Z,1
+421,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,Batemmy,2025-12-05T02:59:17.302Z,1
+422,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,Batemmy,2025-12-05T02:59:35.028Z,1
+423,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-05T02:59:59.168Z,1
+424,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,100,,Batemmy,2025-12-05T03:00:12.566Z,1
+425,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-05T03:00:29.963Z,1
+426,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,85,,Batemmy,2025-12-05T03:00:53.169Z,1
+427,Sula (1973),Jesus,Character_Reference,Jesus,Characterization,85,,Batemmy,2025-12-05T03:01:01.269Z,1
+428,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-05T03:01:10.908Z,1
+429,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T03:01:17.518Z,1
+430,Paradise (1998),job,No_Allusion,Job,,90,,Batemmy,2025-12-05T03:01:29.114Z,0
+431,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,70,,Batemmy,2025-12-05T03:01:39.499Z,1
+503,Paradise (1998),Mary,No_Allusion,Mary,,100,,Batemmy,2025-12-05T21:21:04.795Z,0
+504,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,100,,Batemmy,2025-12-05T21:21:53.689Z,1
+505,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-05T21:22:29.698Z,1
+506,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,100,,Batemmy,2025-12-05T21:38:37.188Z,1
+507,Song of Solomon (1977),hope,No_Allusion,Hope,,80,,Batemmy,2025-12-05T21:39:01.523Z,0
+508,Sula (1973),Jude,Character_Reference,Jude,Characterization,90,,Batemmy,2025-12-05T21:39:31.293Z,1
+509,The Bluest Eye (1970),mark,No_Allusion,Mark,,90,,Batemmy,2025-12-05T21:41:11.661Z,0
+510,Song of Solomon (1977),hope,No_Allusion,Hope,,80,,Batemmy,2025-12-05T21:47:19.316Z,0
+511,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,100,,Batemmy,2025-12-05T21:47:32.335Z,1
+512,Song of Solomon (1977),mark,No_Allusion,Mark,,90,,Batemmy,2025-12-05T21:47:39.349Z,0
+513,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,94,,Batemmy,2025-12-05T21:49:39.880Z,1
+514,Tar Baby (1981),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T21:49:50.127Z,1
+515,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-05T21:49:58.712Z,1
+516,Song of Solomon (1977),lot,No_Allusion,Lot,,100,,Batemmy,2025-12-05T21:50:10.577Z,0
+517,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-05T21:50:54.590Z,1
+518,Paradise (1998),Mary,No_Allusion,Mary,,70,,Batemmy,2025-12-05T21:51:01.287Z,0
+519,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,70,,Batemmy,2025-12-05T21:51:10.325Z,1
+520,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-05T21:51:20.663Z,1
+521,Song of Solomon (1977),Eve,No_Allusion,Eve,,70,,Batemmy,2025-12-05T21:51:33.906Z,0
+522,The Bluest Eye (1970),job,No_Allusion,Job,,90,,Batemmy,2025-12-05T21:51:43.664Z,0
+523,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T21:51:54.877Z,1
+524,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-05T21:52:04.853Z,1
+525,Paradise (1998),numbers,No_Allusion,Numbers,,90,,Batemmy,2025-12-05T21:52:09.960Z,0
+526,Paradise (1998),Peter,Character_Reference,Peter,Narrative_Structure,85,,Batemmy,2025-12-05T21:52:52.036Z,1
+527,Tar Baby (1981),acts,No_Allusion,Acts,,90,,Batemmy,2025-12-05T21:53:02.866Z,0
+528,Paradise (1998),Esther,Character_Reference,Esther,Characterization,90,,Batemmy,2025-12-05T21:53:12.212Z,1
+529,Beloved (1987),mark,No_Allusion,Mark,,90,,Batemmy,2025-12-05T21:53:18.954Z,0
+530,Beloved (1987),Jesus,Character_Reference,Jesus,Characterization,85,,Batemmy,2025-12-05T21:53:39.018Z,1
+531,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-05T21:53:46.923Z,1
+532,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-05T21:53:54.557Z,1
+533,Sula (1973),Jude,Character_Reference,Jude,Characterization,90,,Batemmy,2025-12-05T21:54:08.468Z,1
+534,Song of Solomon (1977),Hagar,Paraphrase,Hagar,Characterization,70,,Batemmy,2025-12-05T21:54:16.404Z,1
+535,The Bluest Eye (1970),job,No_Allusion,Job,,90,,Batemmy,2025-12-05T21:54:22.594Z,0
+536,A Mercy (2008),Job,Character_Reference,Job,Thematic_Development,90,,Batemmy,2025-12-05T21:55:50.198Z,1
+537,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-05T22:04:47.981Z,1
+538,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-05T22:04:56.726Z,1
+539,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-05T22:05:09.892Z,1
+540,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,85,,Batemmy,2025-12-05T22:05:16.932Z,1
+541,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-05T22:05:43.512Z,1
+542,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-05T22:05:51.254Z,1
+543,Song of Solomon (1977),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-05T22:05:58.963Z,0
+544,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-05T22:06:09.576Z,1
+545,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-05T22:06:20.122Z,1
+546,Sula (1973),Jesus,Character_Reference,Jesus,Characterization,85,,Batemmy,2025-12-05T22:06:29.767Z,1
+547,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,Batemmy,2025-12-05T22:06:38.198Z,1
+548,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T22:06:48.952Z,1
+549,Beloved (1987),hope,No_Allusion,Hope,,80,,Batemmy,2025-12-05T22:07:03.984Z,0
+550,A Mercy (2008),communion,Thematic_Reference,Communion,Thematic_Development,80,,Batemmy,2025-12-05T22:07:46.111Z,1
+551,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,70,,Batemmy,2025-12-05T22:07:52.907Z,1
+552,Song of Solomon (1977),Jesus,Character_Reference,Jesus,Characterization,70,,Batemmy,2025-12-05T22:08:52.384Z,1
+553,The Bluest Eye (1970),hope,No_Allusion,Hope,,80,,Batemmy,2025-12-05T22:09:02.172Z,0
+554,Tar Baby (1981),Eve,No_Allusion,Eve,,70,,Batemmy,2025-12-05T22:09:44.705Z,0
+555,Song of Solomon (1977),SOLOMON,No_Allusion,Solomon,,100,,Batemmy,2025-12-05T22:09:55.242Z,0
+556,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,100,,Batemmy,2025-12-05T22:10:14.406Z,1
+557,Beloved (1987),job,No_Allusion,Job,,90,,Batemmy,2025-12-05T22:10:27.895Z,0
+558,Song of Solomon (1977),lot,No_Allusion,Lot,,90,,Batemmy,2025-12-05T22:10:38.566Z,0
+559,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-05T22:10:49.651Z,1
+560,Paradise (1998),Luke,Thematic_Reference,Luke,Thematic_Development,90,,Batemmy,2025-12-05T22:11:02.370Z,1
+561,Jazz (1992),job,No_Allusion,Job,,90,,Batemmy,2025-12-05T22:11:09.513Z,0
+562,Paradise (1998),Mary,Character_Reference,Mary,Characterization,85,,Batemmy,2025-12-05T22:11:57.011Z,1
+563,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,100,,Batemmy,2025-12-05T22:12:13.186Z,1
+564,Tar Baby (1981),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T22:12:22.811Z,1
+565,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-05T22:12:31.174Z,1
+566,A Mercy (2008),ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-05T22:13:14.053Z,1
+567,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T22:13:32.242Z,1
+568,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-05T22:13:50.325Z,1
+569,Beloved (1987),Lot,Character_Reference,Lot,Characterization,100,,Batemmy,2025-12-05T22:14:05.655Z,1
+570,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,100,,Batemmy,2025-12-05T22:14:35.065Z,1
+571,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-05T22:14:44.109Z,1
+572,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,99,,Batemmy,2025-12-05T22:15:13.359Z,1
+573,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,Batemmy,2025-12-05T22:15:21.729Z,1
+574,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-05T22:15:38.200Z,1
+575,Tar Baby (1981),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T22:15:55.468Z,1
+576,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,100,,Batemmy,2025-12-05T22:16:07.153Z,1
+577,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,100,,Batemmy,2025-12-05T22:16:33.327Z,1
+578,Sula (1973),Mary,Character_Reference,Mary,Characterization,85,,Batemmy,2025-12-05T22:17:11.180Z,1
+579,Tar Baby (1981),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-05T22:17:29.984Z,0
+580,Paradise (1998),Peter,Character_Reference,Peter,Characterization,85,,Batemmy,2025-12-05T22:17:39.553Z,1
+581,Song of Solomon (1977),communion,Thematic_Reference,Communion,Thematic_Development,80,,Batemmy,2025-12-05T22:17:50.520Z,1
+582,Paradise (1998),Peter,Character_Reference,Peter,Characterization,85,,Batemmy,2025-12-05T22:18:17.273Z,1
+583,The Bluest Eye (1970),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-05T22:18:23.875Z,0
+584,Tar Baby (1981),EVE,Character_Reference,Eve,Characterization,70,,Batemmy,2025-12-05T22:18:58.097Z,1
+585,Beloved (1987),job,No_Allusion,Job,,90,,Batemmy,2025-12-05T22:19:05.063Z,0
+586,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-05T22:19:13.059Z,1
+587,Song of Solomon (1977),Magdalene,Character_Reference,Magdalene,Characterization,85,,Batemmy,2025-12-05T22:19:26.019Z,1
+588,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-05T22:19:32.299Z,1
+589,Paradise (1998),Gomorrah,Character_Reference,Gomorrah,Characterization,85,,Batemmy,2025-12-05T22:19:45.138Z,1
+590,Paradise (1998),Jordan,Character_Reference,Jordan,Characterization,85,,Batemmy,2025-12-05T22:20:15.959Z,1
+591,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-05T22:20:33.222Z,1
+592,Sula (1973),Jude,Character_Reference,Jude,Characterization,90,,Batemmy,2025-12-05T22:20:42.470Z,1
+593,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T22:21:01.377Z,1
+594,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T22:21:09.252Z,1
+595,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-05T22:21:18.583Z,1
+596,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,Batemmy,2025-12-05T22:21:27.005Z,1
+597,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-05T22:21:35.001Z,1
+598,Paradise (1998),John,Character_Reference,John,Characterization,90,,Batemmy,2025-12-05T22:21:57.351Z,1
+599,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,70,,Batemmy,2025-12-05T22:22:28.792Z,1
+600,Paradise (1998),Aaron,Character_Reference,Aaron,Characterization,85,,Batemmy,2025-12-05T22:22:37.170Z,1
+601,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-05T22:22:45.405Z,1
+602,Tar Baby (1981),job,No_Allusion,Job,,90,,Batemmy,2025-12-05T22:23:22.172Z,0
+603,Jazz (1992),Eve,Character_Reference,Eve,Characterization,70,,Batemmy,2025-12-05T22:23:39.430Z,1
+604,Tar Baby (1981),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-05T22:23:45.223Z,0
+605,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,100,,Batemmy,2025-12-05T22:23:57.122Z,1
+606,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-05T22:24:05.719Z,1
+607,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T22:27:44.771Z,1
+608,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T22:27:53.975Z,1
+609,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T22:28:01.144Z,1
+610,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-05T22:28:11.338Z,1
+611,Song of Solomon (1977),lot,No_Allusion,Lot,,100,,Batemmy,2025-12-05T22:28:24.087Z,0
+612,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-05T22:28:38.963Z,1
+613,Beloved (1987),charity,No_Allusion,Charity,,80,,Batemmy,2025-12-05T22:29:08.122Z,0
+614,Song of Solomon (1977),Grace,No_Allusion,Grace,,80,,Batemmy,2025-12-05T22:30:20.799Z,0
+615,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-05T22:30:41.223Z,1
+616,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-05T22:30:48.027Z,1
+617,Song of Solomon (1977),Magdalene,Character_Reference,Magdalene,Characterization,85,,Batemmy,2025-12-05T22:31:07.076Z,1
+618,Paradise (1998),Paul,Character_Reference,Paul,Characterization,70,,Batemmy,2025-12-05T22:31:14.674Z,1
+619,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-05T22:31:34.608Z,1
+620,Sula (1973),Jude,Character_Reference,Jude,Characterization,90,,Batemmy,2025-12-05T22:32:02.720Z,1
+621,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T22:34:01.930Z,1
+622,Sula (1973),John,Character_Reference,John,Characterization,90,,Batemmy,2025-12-05T22:35:59.136Z,1
+623,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,70,,Batemmy,2025-12-05T22:36:58.741Z,1
+624,Jazz (1992),hope,No_Allusion,Hope,,80,,Batemmy,2025-12-05T22:37:20.566Z,0
+625,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T22:39:59.004Z,1
+626,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T22:40:41.258Z,1
+627,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-05T22:40:50.844Z,1
+628,Song of Solomon (1977),Rebecca,Character_Reference,Rebecca,Characterization,85,,Batemmy,2025-12-05T22:41:25.143Z,1
+629,Paradise (1998),Zechariah,Character_Reference,Zechariah,Characterization,90,,Batemmy,2025-12-05T22:41:32.903Z,1
+630,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-05T22:41:41.034Z,1
+631,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-05T22:41:48.715Z,1
+632,Song of Solomon (1977),Elijah,Character_Reference,Elijah,Characterization,85,,Batemmy,2025-12-05T22:42:00.190Z,1
+633,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T22:42:19.430Z,1
+634,A Mercy (2008),faith,Thematic_Reference,Faith,Thematic_Development,80,,Batemmy,2025-12-05T22:42:30.740Z,1
+635,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,Batemmy,2025-12-05T22:42:59.811Z,1
+636,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-05T22:43:08.612Z,1
+637,Song of Solomon (1977),Saul,Character_Reference,Saul,Characterization,85,,Batemmy,2025-12-05T22:43:16.612Z,1
+638,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,Batemmy,2025-12-05T22:43:25.199Z,1
+639,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-05T22:43:32.013Z,1
+640,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-05T22:43:40.712Z,1
+641,Jazz (1992),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-05T22:43:46.761Z,0
+642,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-05T22:43:54.855Z,1
+643,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-05T22:44:02.063Z,1
+644,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-05T22:44:09.086Z,1
+645,Jazz (1992),Egypt,Character_Reference,Egypt,Characterization,100,,Batemmy,2025-12-05T22:44:19.643Z,1
+646,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-05T22:44:26.274Z,1
+647,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-05T22:44:33.272Z,1
+648,Tar Baby (1981),Joseph,Character_Reference,Joseph,Characterization,85,,Batemmy,2025-12-05T22:44:42.173Z,1
+649,Jazz (1992),acts,No_Allusion,Acts,,90,,Batemmy,2025-12-05T22:44:54.519Z,0
+650,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,Batemmy,2025-12-05T22:45:01.743Z,1
+799,Song of Solomon (1977),Mary,Character_Reference,Mary,Characterization,85,,Batemmy,2025-12-06T06:09:56.486Z,1
+800,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-06T06:10:09.300Z,1
+801,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-06T06:10:15.890Z,1
+802,Tar Baby (1981),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-06T06:10:24.178Z,1
+803,Paradise (1998),Peter,Character_Reference,Peter,Characterization,85,,Batemmy,2025-12-06T06:10:32.906Z,1
+804,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-06T06:10:42.340Z,1
+805,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-06T06:10:47.969Z,1
+806,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-06T06:10:58.527Z,1
+807,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-06T06:11:08.418Z,1
+808,A Mercy (2008),grace,Thematic_Reference,Grace,Thematic_Development,80,,Batemmy,2025-12-06T06:11:24.602Z,1
+809,Sula (1973),redemption,Thematic_Reference,Redemption,Thematic_Development,80,,Batemmy,2025-12-06T06:11:34.116Z,1
+810,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-06T06:11:40.734Z,1
+811,Beloved (1987),Jesus,Character_Reference,Jesus,Characterization,85,,Batemmy,2025-12-06T06:11:55.308Z,1
+812,Paradise (1998),Jude,Character_Reference,Jude,Characterization,90,,Batemmy,2025-12-06T06:12:06.136Z,1
+813,Tar Baby (1981),Mary,Character_Reference,Mary,Characterization,85,,Batemmy,2025-12-06T06:12:13.936Z,1
+814,Song of Solomon (1977),Salvation,Thematic_Reference,Salvation,Thematic_Development,80,,Batemmy,2025-12-06T06:12:30.144Z,1
+815,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-06T06:12:41.818Z,1
+816,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-06T06:12:52.270Z,1
+817,Beloved (1987),Jesus,Character_Reference,Jesus,Characterization,85,,Batemmy,2025-12-06T06:13:17.502Z,1
+818,Beloved (1987),John,Character_Reference,John,Characterization,90,,Batemmy,2025-12-06T06:13:31.287Z,1
+819,Sula (1973),grace,Thematic_Reference,Grace,Thematic_Development,80,,Batemmy,2025-12-06T06:13:48.329Z,1
+820,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-06T06:13:56.217Z,1
+821,Jazz (1992),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-06T06:14:03.514Z,0
+822,Paradise (1998),Hope,Thematic_Reference,Hope,Thematic_Development,80,,Batemmy,2025-12-06T06:14:10.057Z,1
+823,Sula (1973),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-06T06:14:13.498Z,0
+824,Beloved (1987),Judith,Character_Reference,Judith,Characterization,85,,Batemmy,2025-12-06T06:14:21.945Z,1
+825,Beloved (1987),John,Character_Reference,John,Characterization,90,,Batemmy,2025-12-06T06:14:29.723Z,1
+826,Sula (1973),Jude,Character_Reference,Jude,Characterization,90,,Batemmy,2025-12-06T06:14:42.232Z,1
+827,Paradise (1998),Jesus,Character_Reference,Jesus,Characterization,85,,Batemmy,2025-12-06T06:14:50.791Z,1
+828,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-06T06:15:01.598Z,1
+829,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-06T06:15:10.313Z,1
+830,Paradise (1998),Matthew,Thematic_Reference,Matthew,Thematic_Development,90,,Batemmy,2025-12-06T06:15:45.907Z,1
+831,Paradise (1998),John,Character_Reference,John,Characterization,90,,Batemmy,2025-12-06T06:15:59.063Z,1
+832,Song of Solomon (1977),Grace,Character_Reference,Grace,Characterization,80,,Batemmy,2025-12-06T06:16:07.121Z,1
+833,Song of Solomon (1977),Esther,Character_Reference,Esther,Characterization,90,,Batemmy,2025-12-06T06:16:15.245Z,1
+834,Paradise (1998),Calvary,No_Allusion,Calvary,,70,,Batemmy,2025-12-06T06:17:05.037Z,0
+835,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-06T06:17:14.917Z,1
+836,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-06T06:17:21.340Z,1
+837,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-06T06:17:28.559Z,1
+838,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-06T06:17:36.713Z,1
+839,Jazz (1992),job,No_Allusion,Job,,90,,Batemmy,2025-12-06T06:17:40.733Z,0
+840,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-06T06:17:48.370Z,1
+841,Song of Solomon (1977),Esther,Character_Reference,Esther,Characterization,90,,Batemmy,2025-12-06T06:17:57.202Z,1
+842,A Mercy (2008),Judith,Character_Reference,Judith,Characterization,85,,Batemmy,2025-12-06T06:18:06.380Z,1
+843,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,70,,Batemmy,2025-12-06T06:18:12.437Z,1
+844,Song of Solomon (1977),John,Thematic_Reference,John,Thematic_Development,90,,Batemmy,2025-12-06T06:18:35.955Z,1
+845,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-06T06:18:41.935Z,1
+846,Paradise (1998),Zechariah,Character_Reference,Zechariah,Characterization,90,,Batemmy,2025-12-06T06:18:55.833Z,1
+847,Song of Solomon (1977),Magdalene,Character_Reference,Magdalene,Characterization,70,,Batemmy,2025-12-06T06:19:08.034Z,1
+848,Beloved (1987),salvation,Thematic_Reference,Salvation,Thematic_Development,80,,Batemmy,2025-12-06T06:19:14.338Z,1
+849,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-06T06:19:26.678Z,1
+850,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-06T06:19:34.546Z,1
+851,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-06T06:19:41.104Z,1
+852,Paradise (1998),Zechariah,Character_Reference,Zechariah,Characterization,90,,Batemmy,2025-12-06T06:19:50.046Z,1
+853,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-06T06:20:32.271Z,1
+854,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-06T06:20:40.497Z,1
+855,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-06T06:20:47.684Z,1
+856,Song of Solomon (1977),job,No_Allusion,Job,,90,,Batemmy,2025-12-06T06:20:51.898Z,0
+857,Sula (1973),job,No_Allusion,Job,,90,,Batemmy,2025-12-06T06:20:57.983Z,0
+858,Song of Solomon (1977),job,No_Allusion,Job,,90,,Batemmy,2025-12-06T06:21:05.542Z,0
+859,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,Batemmy,2025-12-06T06:21:12.138Z,1
+860,Tar Baby (1981),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-06T06:21:21.268Z,1
+861,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,70,,Batemmy,2025-12-06T06:21:27.631Z,1
+862,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-06T06:21:36.992Z,1
+863,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-06T06:21:42.528Z,1
+864,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,70,,Batemmy,2025-12-06T06:21:48.232Z,1
+865,Paradise (1998),James,Character_Reference,James,Characterization,90,,Batemmy,2025-12-06T06:22:02.214Z,1
+866,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,85,,Batemmy,2025-12-06T06:22:08.829Z,1
+867,Tar Baby (1981),hope,No_Allusion,Hope,Thematic_Development,80,,Batemmy,2025-12-06T06:22:44.995Z,0
+868,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-06T06:22:50.928Z,1
+869,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-06T06:22:59.290Z,1
+870,Paradise (1998),Mary,Character_Reference,Mary,Characterization,85,,Batemmy,2025-12-06T06:23:05.824Z,1
+871,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-06T06:23:24.600Z,1
+872,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,85,,Batemmy,2025-12-06T06:23:31.955Z,1
+873,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-06T06:23:39.627Z,1
+874,The Bluest Eye (1970),mark,No_Allusion,Mark,,90,,Batemmy,2025-12-06T06:23:46.835Z,0
+875,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-06T06:23:55.119Z,1
+876,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-06T06:24:01.056Z,1
+877,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-06T06:24:10.740Z,1
+878,Paradise (1998),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-06T06:24:16.507Z,0
+879,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-06T06:24:23.435Z,1
+880,Tar Baby (1981),Lot,No_Allusion,Lot,,70,,Batemmy,2025-12-06T06:24:28.484Z,0
+881,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-06T06:24:34.779Z,1
+882,Beloved (1987),grace,Thematic_Reference,Grace,Thematic_Development,80,,Batemmy,2025-12-06T06:25:05.134Z,1
+883,Tar Baby (1981),mark,No_Allusion,Mark,,90,,Batemmy,2025-12-06T06:25:10.897Z,0
+884,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-06T06:25:15.708Z,1
+885,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-06T06:25:29.658Z,1
+886,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-06T06:25:46.307Z,1
+887,Sula (1973),mark,No_Allusion,Mark,,90,,Batemmy,2025-12-06T06:25:50.792Z,0
+888,Paradise (1998),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-06T06:25:56.079Z,0
+889,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-06T06:26:06.354Z,1
+890,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,85,,Batemmy,2025-12-06T06:26:12.445Z,1
+891,Paradise (1998),Jesus,Character_Reference,Jesus,Characterization,85,,Batemmy,2025-12-06T06:26:22.225Z,1
+892,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-06T06:26:27.146Z,1
+893,Beloved (1987),grace,Thematic_Reference,Grace,Thematic_Development,80,,Batemmy,2025-12-06T06:26:44.966Z,1
+894,Song of Solomon (1977),Magdalene,Character_Reference,Magdalene,Characterization,85,,Batemmy,2025-12-06T06:26:52.386Z,1
+895,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,70,,Batemmy,2025-12-06T06:26:59.156Z,1
+896,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-06T06:27:08.475Z,1
+897,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,70,,Batemmy,2025-12-06T06:27:14.787Z,1
+898,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,70,,Batemmy,2025-12-06T06:27:21.626Z,1
+899,Paradise (1998),Aaron,Character_Reference,Aaron,Characterization,85,,Batemmy,2025-12-06T06:27:47.961Z,1
+900,Jazz (1992),Joseph,Character_Reference,Joseph,Characterization,85,,Batemmy,2025-12-06T06:28:04.506Z,1
+901,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-06T06:28:20.774Z,1
+902,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,70,,Batemmy,2025-12-06T06:28:25.896Z,1
+903,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-06T06:28:36.100Z,1
+904,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-06T06:28:47.535Z,1
+905,Paradise (1998),Mary,Character_Reference,Mary,Characterization,85,,Batemmy,2025-12-06T06:28:54.423Z,1
+906,Tar Baby (1981),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-06T06:28:58.105Z,0
+907,Tar Baby (1981),numbers,No_Allusion,Numbers,,90,,Batemmy,2025-12-06T06:29:04.500Z,0
+908,Beloved (1987),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-06T06:29:08.610Z,0
+909,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-06T06:29:53.665Z,1
+910,Jazz (1992),Eden,Thematic_Reference,Eden,Characterization,70,,Batemmy,2025-12-06T06:30:08.477Z,1
+911,Beloved (1987),Paul,Character_Reference,Paul,Characterization,70,,Batemmy,2025-12-06T06:30:16.593Z,1
+912,Paradise (1998),Matthew,Thematic_Reference,Matthew,Thematic_Development,90,,Batemmy,2025-12-06T06:30:55.107Z,1
+913,Song of Solomon (1977),Jesus,Character_Reference,Jesus,Characterization,85,,Batemmy,2025-12-06T06:31:00.971Z,1
+914,Song of Solomon (1977),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-06T06:31:33.682Z,0
+915,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-06T06:31:51.585Z,1
+916,Paradise (1998),Grace,Character_Reference,Grace,Characterization,80,,Batemmy,2025-12-06T06:32:15.682Z,1
+917,Sula (1973),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-06T06:33:23.461Z,0
+1037,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-07T04:14:41.471Z,1
+1038,Song of Solomon (1977),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-07T04:14:47.899Z,0
+1039,Beloved (1987),Jesus,Character_Reference,Jesus,Characterization,85,,Batemmy,2025-12-07T04:14:54.748Z,1
+1040,Tar Baby (1981),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-07T04:15:04.699Z,0
+1041,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T04:15:15.074Z,1
+1042,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-07T04:15:23.374Z,1
+1043,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:17:04.103Z,1
+1044,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-07T04:17:09.699Z,1
+1045,Beloved (1987),Paul,Character_Reference,Paul,Characterization,70,,Batemmy,2025-12-07T04:17:16.563Z,1
+1046,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-07T04:17:23.272Z,1
+1047,Tar Baby (1981),John,Character_Reference,John,Characterization,90,,Batemmy,2025-12-07T04:17:31.778Z,1
+1048,Song of Solomon (1977),hope,No_Allusion,Hope,,80,,Batemmy,2025-12-07T04:18:02.673Z,0
+1049,Beloved (1987),Jesus,Character_Reference,Jesus,Characterization,85,,Batemmy,2025-12-07T04:18:09.087Z,1
+1050,Song of Solomon (1977),Jesus,Character_Reference,Jesus,Characterization,85,,Batemmy,2025-12-07T04:18:17.528Z,1
+1051,Paradise (1998),Mary,Character_Reference,Mary,Characterization,85,,Batemmy,2025-12-07T04:18:28.594Z,1
+1052,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T04:18:33.875Z,1
+1053,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-07T04:18:39.744Z,1
+1054,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-07T04:18:45.958Z,1
+1055,Jazz (1992),job,No_Allusion,Job,,90,,Batemmy,2025-12-07T04:18:53.936Z,0
+1056,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-07T04:19:01.858Z,1
+1057,Paradise (1998),Jesus,Character_Reference,Jesus,Characterization,85,,Batemmy,2025-12-07T04:19:08.336Z,1
+1058,Jazz (1992),job,Character_Reference,Job,Characterization,90,,Batemmy,2025-12-07T04:19:17.353Z,1
+1059,Paradise (1998),job,Character_Reference,Job,Characterization,90,,Batemmy,2025-12-07T04:19:23.061Z,1
+1060,Jazz (1992),Eden,Thematic_Reference,Eden,Thematic_Development,70,,Batemmy,2025-12-07T04:19:31.794Z,1
+1061,Tar Baby (1981),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-07T04:19:38.844Z,0
+1062,The Bluest Eye (1970),Mary,Character_Reference,Mary,Characterization,85,,Batemmy,2025-12-07T04:19:45.097Z,1
+1063,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:19:51.652Z,1
+1064,Sula (1973),Jude,Character_Reference,Jude,Characterization,90,,Batemmy,2025-12-07T04:19:57.727Z,1
+1065,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-07T04:20:08.211Z,1
+1066,Song of Solomon (1977),Grace,Character_Reference,Grace,Characterization,80,,Batemmy,2025-12-07T04:20:16.610Z,1
+1067,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:20:21.888Z,1
+1068,Beloved (1987),Paul,Paraphrase,Paul,Characterization,85,,Batemmy,2025-12-07T04:20:28.972Z,1
+1069,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,Batemmy,2025-12-07T04:20:36.918Z,1
+1070,Song of Solomon (1977),Saul,Character_Reference,Saul,Characterization,85,,Batemmy,2025-12-07T04:20:43.337Z,1
+1071,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:20:50.117Z,1
+1072,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T04:20:57.743Z,1
+1073,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T04:21:03.708Z,1
+1074,Paradise (1998),James,Character_Reference,James,Characterization,90,,Batemmy,2025-12-07T04:21:09.773Z,1
+1075,Song of Solomon (1977),hope,No_Allusion,Hope,,80,,Batemmy,2025-12-07T04:21:13.675Z,0
+1076,Paradise (1998),Charity,Thematic_Reference,Charity,Characterization,80,,Batemmy,2025-12-07T04:21:31.792Z,1
+1077,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-07T04:21:37.381Z,1
+1078,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:21:43.168Z,1
+1079,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-07T04:21:49.495Z,1
+1080,Paradise (1998),Mary,Character_Reference,Mary,Characterization,85,,Batemmy,2025-12-07T04:21:57.744Z,1
+1081,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-07T04:22:03.720Z,1
+1082,Paradise (1998),Mary,Character_Reference,Mary,Characterization,85,,Batemmy,2025-12-07T04:22:10.863Z,1
+1083,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:22:16.804Z,1
+1084,A Mercy (2008),hope,No_Allusion,Hope,,80,,Batemmy,2025-12-07T04:22:23.097Z,0
+1085,Song of Solomon (1977),Saul,Character_Reference,Saul,Characterization,70,,Batemmy,2025-12-07T04:22:33.836Z,1
+1086,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,70,,Batemmy,2025-12-07T04:22:40.152Z,1
+1087,Sula (1973),grace,Thematic_Reference,Grace,Thematic_Development,80,,Batemmy,2025-12-07T04:22:49.937Z,1
+1088,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:22:59.235Z,1
+1089,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:23:09.598Z,1
+1090,Paradise (1998),numbers,No_Allusion,Numbers,,90,,Batemmy,2025-12-07T04:23:13.596Z,0
+1091,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,70,,Batemmy,2025-12-07T04:23:20.368Z,1
+1092,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,Batemmy,2025-12-07T04:23:28.139Z,1
+1093,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T04:23:34.611Z,1
+1094,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:23:41.108Z,1
+1095,Paradise (1998),David,Character_Reference,David,Characterization,85,,Batemmy,2025-12-07T04:23:49.139Z,1
+1096,Paradise (1998),numbers,No_Allusion,Numbers,,90,,Batemmy,2025-12-07T04:23:53.587Z,0
+1097,Song of Solomon (1977),Judgment Day,Thematic_Reference,Judgment Day,Thematic_Development,80,,Batemmy,2025-12-07T04:24:00.192Z,1
+1098,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T04:24:06.969Z,1
+1099,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T04:24:12.880Z,1
+1100,Song of Solomon (1977),Mary,Character_Reference,Mary,Characterization,85,,Batemmy,2025-12-07T04:24:23.572Z,1
+1101,Sula (1973),hope,No_Allusion,Hope,,80,,Batemmy,2025-12-07T04:24:28.080Z,0
+1102,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-07T04:24:35.198Z,1
+1103,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-07T04:24:41.026Z,1
+1104,Sula (1973),Jude,Character_Reference,Jude,Characterization,90,,Batemmy,2025-12-07T04:24:48.728Z,1
+1105,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:24:55.284Z,1
+1106,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-07T04:25:01.121Z,1
+1107,Beloved (1987),Jesus,Character_Reference,Jesus,Characterization,85,,Batemmy,2025-12-07T04:25:09.247Z,1
+1108,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:25:17.750Z,1
+1110,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-07T04:25:41.364Z,1
+1109,Beloved (1987),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-07T04:25:36.155Z,0
+1111,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:25:47.657Z,1
+1112,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-07T04:25:54.026Z,1
+1113,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:26:01.909Z,1
+1114,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:26:10.828Z,1
+1115,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:26:18.608Z,1
+1116,Paradise (1998),Mary,Character_Reference,Mary,Characterization,85,,Batemmy,2025-12-07T04:26:24.156Z,1
+1117,Song of Solomon (1977),faith,Thematic_Reference,Faith,Thematic_Development,80,,Batemmy,2025-12-07T04:26:34.626Z,1
+1118,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:26:39.870Z,1
+1119,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:26:44.873Z,1
+1120,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-07T04:26:51.562Z,1
+1121,Paradise (1998),Peter,Character_Reference,Peter,Characterization,85,,Batemmy,2025-12-07T04:28:53.332Z,1
+1122,Sula (1973),Jesus,Character_Reference,Jesus,Characterization,85,,Batemmy,2025-12-07T04:28:59.068Z,1
+1123,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T04:29:06.068Z,1
+1124,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T04:29:11.571Z,1
+1125,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:29:17.176Z,1
+1126,Paradise (1998),Zechariah,Character_Reference,Zechariah,Characterization,90,,Batemmy,2025-12-07T04:29:29.414Z,1
+1127,Paradise (1998),faith,Thematic_Reference,Faith,Thematic_Development,80,,Batemmy,2025-12-07T04:29:43.292Z,1
+1128,Song of Solomon (1977),Grace,Thematic_Reference,Grace,Thematic_Development,80,,Batemmy,2025-12-07T04:30:07.225Z,1
+1129,Sula (1973),Jude,Character_Reference,Jude,Characterization,90,,Batemmy,2025-12-07T04:30:13.920Z,1
+1130,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T04:30:20.824Z,1
+1131,Beloved (1987),Paul,Paraphrase,Paul,Characterization,85,,Batemmy,2025-12-07T04:30:27.204Z,1
+1132,Jazz (1992),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-07T04:30:34.262Z,0
+1133,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-07T04:30:40.368Z,1
+1134,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-07T04:30:47.269Z,1
+1135,Song of Solomon (1977),Magdalene,Character_Reference,Magdalene,Characterization,85,,Batemmy,2025-12-07T04:30:52.857Z,1
+1136,A Mercy (2008),hope,No_Allusion,Hope,,80,,Batemmy,2025-12-07T04:30:59.787Z,0
+1137,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:31:05.118Z,1
+1138,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-07T04:31:11.238Z,1
+1139,Paradise (1998),James,Character_Reference,James,Characterization,90,,Batemmy,2025-12-07T04:31:20.891Z,1
+1140,A Mercy (2008),Job,Character_Reference,Job,Characterization,90,,Batemmy,2025-12-07T04:31:35.075Z,1
+1141,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:31:41.339Z,1
+1142,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-07T04:31:53.309Z,1
+1143,Jazz (1992),Adam,Character_Reference,Adam,Characterization,85,,Batemmy,2025-12-07T04:32:10.620Z,1
+1144,Sula (1973),job,No_Allusion,Job,,90,,Batemmy,2025-12-07T04:32:17.295Z,0
+1145,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:32:28.935Z,1
+1146,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-07T04:32:35.507Z,1
+1147,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-07T04:32:43.163Z,1
+1148,Paradise (1998), Revelation 19:7,Direct_Quote,Revelation 19:7,Spiritual_Dimension,95,,Batemmy,2025-12-07T04:36:57.970Z,1
+1149,Tar Baby (1981),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:37:09.150Z,1
+1150,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-07T04:37:18.295Z,1
+1151,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,70,,Batemmy,2025-12-07T04:37:24.475Z,1
+1152,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T04:37:32.149Z,1
+1153,Jazz (1992),mark,No_Allusion,Mark,,90,,Batemmy,2025-12-07T04:37:36.693Z,0
+1154,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,70,,Batemmy,2025-12-07T04:37:48.348Z,1
+1155,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-07T04:37:55.000Z,1
+1156,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-07T04:38:03.042Z,1
+1157,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:38:08.458Z,1
+1158,Song of Solomon (1977),hope,No_Allusion,Hope,,80,,Batemmy,2025-12-07T04:38:15.679Z,0
+1159,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T04:38:23.081Z,1
+1160,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-07T04:38:30.193Z,1
+1162,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T04:38:45.373Z,1
+1161,Paradise (1998),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-07T04:38:40.903Z,0
+1163,Tar Baby (1981),Mary,Character_Reference,Mary,Characterization,85,,Batemmy,2025-12-07T04:38:52.476Z,1
+1164,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T04:38:58.601Z,1
+1165,Paradise (1998),James,Character_Reference,James,Characterization,90,,Batemmy,2025-12-07T04:39:06.725Z,1
+1166,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,Batemmy,2025-12-07T04:39:13.400Z,1
+1167,Song of Solomon (1977),Jesus,Character_Reference,Jesus,Characterization,70,,Batemmy,2025-12-07T04:39:19.087Z,1
+1168,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:39:24.629Z,1
+1169,A Mercy (2008),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-07T04:39:29.714Z,1
+1170,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:39:37.641Z,1
+1171,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T04:39:43.881Z,1
+1172,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-07T04:39:50.782Z,1
+1173,Jazz (1992),job,No_Allusion,Job,,90,,Batemmy,2025-12-07T04:40:05.370Z,0
+1174,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-07T04:40:11.940Z,1
+1175,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:40:18.275Z,1
+1176,Beloved (1987),Seth,Character_Reference,Seth,Characterization,70,,Batemmy,2025-12-07T04:40:26.159Z,1
+1177,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-07T04:40:33.502Z,1
+1178,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-07T04:40:40.434Z,1
+1179,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:40:46.321Z,1
+1180,Tar Baby (1981),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-07T04:40:52.539Z,0
+1181,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,70,,Batemmy,2025-12-07T04:40:58.448Z,1
+1182,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:41:07.096Z,1
+1183,Tar Baby (1981),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:41:16.656Z,1
+1184,Tar Baby (1981),Eve,Thematic_Reference,Eve,Thematic_Development,70,,Batemmy,2025-12-07T04:41:31.535Z,1
+1185,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-07T04:41:42.551Z,1
+1186,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:41:52.629Z,1
+1187,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-07T04:41:58.426Z,1
+1188,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-07T04:42:03.936Z,1
+1189,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T04:42:09.719Z,1
+1190,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-07T04:42:19.334Z,1
+1191,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:42:28.294Z,1
+1192,Tar Baby (1981),hope,No_Allusion,Hope,,80,,Batemmy,2025-12-07T04:42:34.197Z,0
+1193,Sula (1973),Jude,Character_Reference,Jude,Characterization,90,,Batemmy,2025-12-07T04:42:39.035Z,1
+1194,Paradise (1998),job,No_Allusion,Job,,90,,Batemmy,2025-12-07T04:42:42.260Z,0
+1195,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T04:42:49.167Z,1
+1196,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:43:00.923Z,1
+1197,Song of Solomon (1977),hope,No_Allusion,Hope,,80,,Batemmy,2025-12-07T04:43:09.216Z,0
+1198,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:43:17.033Z,1
+1199,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,70,,Batemmy,2025-12-07T04:43:25.326Z,1
+1200,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:43:37.507Z,1
+1201,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-07T04:43:42.967Z,1
+1202,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T04:43:49.119Z,1
+1203,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T04:43:55.611Z,1
+1204,Paradise (1998),grace,Thematic_Reference,Grace,Spiritual_Dimension,80,,Batemmy,2025-12-07T04:44:11.055Z,1
+1205,Sula (1973),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-07T04:44:16.075Z,0
+1206,Paradise (1998),Eve,Character_Reference,Eve,Characterization,70,,Batemmy,2025-12-07T04:44:23.372Z,1
+1207,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-07T04:44:29.412Z,1
+1208,Paradise (1998),hope,No_Allusion,Hope,,80,,Batemmy,2025-12-07T04:44:35.974Z,0
+1209,Sula (1973),Jesus,Character_Reference,Jesus,Characterization,85,,Batemmy,2025-12-07T04:44:50.657Z,1
+1210,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-07T04:44:57.602Z,1
+1211,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T04:45:03.611Z,1
+1212,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,70,,Batemmy,2025-12-07T04:45:11.990Z,1
+1213,Song of Solomon (1977),communion,Thematic_Reference,Communion,Thematic_Development,80,,Batemmy,2025-12-07T04:45:22.180Z,1
+1214,Paradise (1998),charity,Thematic_Reference,Charity,Thematic_Development,80,,Batemmy,2025-12-07T04:45:36.744Z,1
+1216,Song of Solomon (1977),Jesus,Character_Reference,Jesus,Characterization,85,,Batemmy,2025-12-07T04:45:50.472Z,1
+1215,Song of Solomon (1977),job,No_Allusion,Job,,90,,Batemmy,2025-12-07T04:45:45.522Z,0
+1217,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,70,,Batemmy,2025-12-07T04:45:56.398Z,1
+1218,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:46:01.992Z,1
+1219,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,70,,Batemmy,2025-12-07T04:46:07.490Z,1
+1220,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T04:46:13.820Z,1
+1221,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:46:30.903Z,1
+1222,The Bluest Eye (1970),acts,No_Allusion,Acts,,90,,Batemmy,2025-12-07T04:46:39.893Z,0
+1223,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:46:51.599Z,1
+1224,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-07T04:47:00.254Z,1
+1225,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-07T04:47:09.368Z,1
+1226,Sula (1973),Jude,Character_Reference,Jude,Characterization,90,,Batemmy,2025-12-07T04:47:14.994Z,1
+1227,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T04:47:22.040Z,1
+1228,Tar Baby (1981),Joseph,Character_Reference,Joseph,Characterization,85,,Batemmy,2025-12-07T04:47:29.717Z,1
+1229,A Mercy (2008),Job,Character_Reference,Job,Characterization,90,,Batemmy,2025-12-07T04:47:45.874Z,1
+1230,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:47:57.061Z,1
+1231,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-07T04:48:11.826Z,1
+1232,A Mercy (2008),hope,No_Allusion,Hope,,80,,Batemmy,2025-12-07T04:48:16.835Z,0
+1233,Song of Solomon (1977),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-07T04:48:21.199Z,0
+1234,Jazz (1992),hope,No_Allusion,Hope,,80,,Batemmy,2025-12-07T04:48:24.823Z,0
+1235,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,70,,Batemmy,2025-12-07T04:48:30.095Z,1
+1236,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:48:40.522Z,1
+1237,Tar Baby (1981),Mary,Character_Reference,Mary,Characterization,85,,Batemmy,2025-12-07T04:48:52.544Z,1
+1238,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,70,,Batemmy,2025-12-07T04:48:58.176Z,1
+1239,Song of Solomon (1977),Magdalene,Character_Reference,Magdalene,Characterization,85,,Batemmy,2025-12-07T04:49:05.009Z,1
+1240,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-07T04:49:15.976Z,1
+1241,Paradise (1998),Hope,No_Allusion,Hope,,80,,Batemmy,2025-12-07T04:49:21.617Z,0
+1242,Paradise (1998),Grace,Character_Reference,Grace,Characterization,80,,Batemmy,2025-12-07T04:49:44.089Z,1
+1243,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-07T04:49:55.983Z,1
+1244,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T04:50:01.628Z,1
+1245,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T04:50:09.236Z,1
+1246,The Bluest Eye (1970),Mary,Character_Reference,Mary,Characterization,85,,Batemmy,2025-12-07T04:50:15.190Z,1
+1247,The Bluest Eye (1970),Moses,Character_Reference,Moses,Characterization,70,,Batemmy,2025-12-07T04:50:20.808Z,1
+1248,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:50:36.319Z,1
+1250,Paradise (1998),mark,No_Allusion,Mark,Characterization,90,,Batemmy,2025-12-07T04:51:27.403Z,0
+1251,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-07T04:51:35.603Z,1
+1252,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-07T04:51:44.648Z,1
+1249,Song of Solomon (1977),Saul,Character_Reference,Saul,Characterization,85,,Batemmy,2025-12-07T04:51:18.930Z,1
+1253,Sula (1973),Mary,Character_Reference,Mary,Characterization,85,,Batemmy,2025-12-07T04:51:51.532Z,1
+1254,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-07T04:51:57.561Z,1
+1255,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,Batemmy,2025-12-07T04:52:51.691Z,1
+1256,Song of Solomon (1977),Magdalene,Character_Reference,Magdalene,Characterization,85,,Batemmy,2025-12-07T04:52:57.857Z,1
+1257,The Bluest Eye (1970),Luke,Character_Reference,Luke,Characterization,90,,Batemmy,2025-12-07T04:53:05.611Z,1
+1258,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-07T04:53:13.353Z,1
+1259,Song of Solomon (1977),job,No_Allusion,Job,,90,,Batemmy,2025-12-07T04:53:32.592Z,0
+1260,Tar Baby (1981),hope,No_Allusion,Hope,,80,,Batemmy,2025-12-07T04:53:38.043Z,0
+1262,Beloved (1987),job,No_Allusion,Job,,90,,Batemmy,2025-12-07T04:53:46.773Z,0
+1263,Song of Solomon (1977),Ruth,No_Allusion,Ruth,,90,,Batemmy,2025-12-07T04:53:54.365Z,0
+1264,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-07T04:53:59.838Z,1
+1265,Tar Baby (1981),mark,No_Allusion,Mark,,90,,Batemmy,2025-12-07T04:54:12.689Z,0
+1266,Paradise (1998),Mary,Character_Reference,Mary,Characterization,85,,Batemmy,2025-12-07T04:54:20.127Z,1
+1267,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:54:25.391Z,1
+1268,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-07T04:54:38.975Z,1
+1269,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T04:54:50.338Z,1
+1270,Song of Solomon (1977),Jesus,Character_Reference,Jesus,Characterization,85,,Batemmy,2025-12-07T04:54:55.726Z,1
+1271,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-07T04:55:04.979Z,1
+1272,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-07T04:55:11.295Z,1
+1273,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T04:55:16.536Z,1
+1274,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:55:22.583Z,1
+1275,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:55:29.009Z,1
+1276,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:55:36.882Z,1
+1277,Beloved (1987),Paul,Character_Reference,Paul,Characterization,70,,Batemmy,2025-12-07T04:55:42.503Z,1
+1278,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,70,,Batemmy,2025-12-07T04:55:48.887Z,1
+1279,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T04:55:58.448Z,1
+1280,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-07T04:56:03.489Z,1
+1281,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,70,,Batemmy,2025-12-07T04:56:09.558Z,1
+1282,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,Batemmy,2025-12-07T04:56:15.143Z,1
+1283,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,70,,Batemmy,2025-12-07T04:56:21.796Z,1
+1284,Song of Solomon (1977),Mary,Character_Reference,Mary,Characterization,85,,Batemmy,2025-12-07T04:56:31.298Z,1
+1285,Tar Baby (1981),job,No_Allusion,Job,,90,,Batemmy,2025-12-07T04:56:37.044Z,0
+1286,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-07T04:56:44.943Z,1
+1287,Paradise (1998),job,No_Allusion,Job,,90,,Batemmy,2025-12-07T04:56:51.838Z,0
+1288,Paradise (1998),Zechariah,Character_Reference,Zechariah,Characterization,90,,Batemmy,2025-12-07T04:57:13.083Z,1
+1289,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T04:57:18.963Z,1
+1290,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-07T04:57:27.595Z,1
+1291,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T04:57:33.596Z,1
+1292,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-07T04:57:44.284Z,1
+1293,Jazz (1992),john,No_Allusion,John,,90,,Batemmy,2025-12-07T04:57:58.392Z,0
+1294,Beloved (1987),Seth,Character_Reference,Seth,Characterization,70,,Batemmy,2025-12-07T04:58:07.051Z,1
+1295,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,70,,Batemmy,2025-12-07T04:58:14.417Z,1
+1296,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:58:19.700Z,1
+1297,Sula (1973),Jude,Character_Reference,Jude,Characterization,90,,Batemmy,2025-12-07T04:58:29.937Z,1
+1298,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:59:06.127Z,1
+1299,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-07T04:59:14.979Z,1
+1300,Song of Solomon (1977),promised land,Thematic_Reference,Promised Land,Thematic_Development,80,,Batemmy,2025-12-07T04:59:29.735Z,1
+1301,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T04:59:36.046Z,1
+1302,Paradise (1998),Aaron,Character_Reference,Aaron,Characterization,85,,Batemmy,2025-12-07T04:59:42.287Z,1
+1303,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-07T04:59:49.427Z,1
+1304,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T04:59:57.585Z,1
+1305,Paradise (1998),Zechariah,Character_Reference,Zechariah,Characterization,90,,Batemmy,2025-12-07T05:00:03.843Z,1
+1306,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-07T05:00:12.716Z,1
+1307,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T05:00:20.741Z,1
+1308,Tar Baby (1981),Mary,Character_Reference,Mary,Characterization,85,,Batemmy,2025-12-07T05:00:33.056Z,1
+1309,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T05:00:43.256Z,1
+1310,Beloved (1987),Acts,No_Allusion,Acts,,90,,Batemmy,2025-12-07T05:00:50.148Z,0
+1311,The Bluest Eye (1970),Samson,Character_Reference,Samson,Characterization,70,,Batemmy,2025-12-07T05:01:06.870Z,1
+1312,Paradise (1998),Zechariah,Character_Reference,Zechariah,Characterization,90,,Batemmy,2025-12-07T05:01:13.398Z,1
+1313,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-07T05:01:23.212Z,1
+1314,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-07T05:01:29.504Z,1
+1315,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-07T05:01:38.166Z,1
+1316,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-07T05:01:45.654Z,1
+1317,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,70,,Batemmy,2025-12-07T05:01:53.529Z,1
+1318,Paradise (1998),Jesus,Character_Reference,Jesus,Characterization,85,,Batemmy,2025-12-07T05:01:59.077Z,1
+1319,Tar Baby (1981),job,No_Allusion,Job,,90,,Batemmy,2025-12-07T05:02:04.831Z,0
+1320,Beloved (1987),Paul,Character_Reference,Paul,Characterization,70,,Batemmy,2025-12-07T05:02:10.730Z,1
+1321,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T05:02:16.878Z,1
+1322,Beloved (1987),ROMANS 9:25,Direct_Quote,Romans 9:25,Thematic_Development,95,,Batemmy,2025-12-07T05:02:54.505Z,1
+1323,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-07T05:03:05.322Z,1
+1324,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T05:03:12.642Z,1
+1325,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,70,,Batemmy,2025-12-07T05:03:19.281Z,1
+1326,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,Batemmy,2025-12-07T05:03:25.070Z,1
+1327,Song of Solomon (1977),Grace,Character_Reference,Grace,Characterization,80,,Batemmy,2025-12-07T05:03:42.387Z,1
+1328,Beloved (1987),John,Character_Reference,John,Characterization,90,,Batemmy,2025-12-07T05:03:48.021Z,1
+1329,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-07T05:03:54.539Z,1
+1330,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,Batemmy,2025-12-07T05:03:59.368Z,1
+1331,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-07T05:04:08.475Z,1
+1332,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-07T05:04:14.354Z,1
+1333,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,Batemmy,2025-12-07T05:04:19.995Z,1
+1334,Paradise (1998),Mary,Character_Reference,Mary,Characterization,85,,Batemmy,2025-12-07T05:04:26.780Z,1
+1335,The Bluest Eye (1970),Mary,Character_Reference,Mary,Characterization,85,,Batemmy,2025-12-07T05:04:34.600Z,1
+1336,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,70,,Batemmy,2025-12-07T05:04:39.600Z,1
+1337,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T05:04:44.667Z,1
+1338,Song of Solomon (1977),Jesus,Character_Reference,Jesus,Characterization,85,,Batemmy,2025-12-07T05:04:51.453Z,1
+1339,Song of Solomon (1977),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-07T05:04:55.825Z,0
+1340,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T05:05:18.616Z,1
+1341,Paradise (1998),Mary,Character_Reference,Mary,Characterization,85,,Batemmy,2025-12-07T05:05:25.323Z,1
+1342,The Bluest Eye (1970),Jesus,Character_Reference,Jesus,Characterization,85,,Batemmy,2025-12-07T05:05:30.763Z,1
+1343,Paradise (1998),Calvary,Thematic_Reference,Calvary,,70,,Batemmy,2025-12-07T05:05:44.166Z,1
+1344,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T05:05:50.352Z,1
+1345,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,70,,Batemmy,2025-12-07T05:06:27.036Z,1
+1346,Tar Baby (1981),job,No_Allusion,Job,,90,,Batemmy,2025-12-07T05:06:31.670Z,0
+1347,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-07T05:06:37.315Z,1
+1348,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T05:06:46.162Z,1
+1349,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T05:06:52.349Z,1
+1350,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T05:06:58.507Z,1
+1351,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,Batemmy,2025-12-07T05:07:05.235Z,1
+1352,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T05:07:11.295Z,1
+1353,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,85,,Batemmy,2025-12-07T05:07:17.985Z,1
+1354,Song of Solomon (1977),Magdalene,Character_Reference,Magdalene,Characterization,85,,Batemmy,2025-12-07T05:07:46.545Z,1
+1355,The Bluest Eye (1970),Samson,Character_Reference,Samson,Characterization,70,,Batemmy,2025-12-07T05:07:57.142Z,1
+1356,Paradise (1998),grace,Thematic_Reference,Grace,Spiritual_Dimension,80,,Batemmy,2025-12-07T05:08:16.350Z,1
+1357,The Bluest Eye (1970),numbers,No_Allusion,Numbers,,90,,Batemmy,2025-12-07T05:08:20.424Z,0
+1358,Song of Solomon (1977),numbers,No_Allusion,Numbers,,90,,Batemmy,2025-12-07T05:08:36.710Z,0
+1359,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-07T05:08:43.645Z,1
+1360,Song of Solomon (1977),Grace,Character_Reference,Grace,Characterization,80,,Batemmy,2025-12-07T05:08:51.079Z,1
+1361,Beloved (1987),Jesus,Character_Reference,Jesus,Characterization,85,,Batemmy,2025-12-07T05:08:58.902Z,1
+1362,Paradise (1998),hope,No_Allusion,Hope,,80,,Batemmy,2025-12-07T05:09:11.652Z,0
+1363,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-07T05:09:17.374Z,1
+1364,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T05:09:22.664Z,1
+1365,Song of Solomon (1977),Mary,Character_Reference,Mary,Characterization,85,,Batemmy,2025-12-07T05:09:36.906Z,1
+1366,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-07T05:09:43.551Z,1
+1367,Song of Solomon (1977),mark,No_Allusion,Mark,,90,,Batemmy,2025-12-07T05:09:48.164Z,0
+1368,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-07T05:09:53.431Z,1
+1369,Jazz (1992),job,No_Allusion,Job,,90,,Batemmy,2025-12-07T05:10:02.393Z,0
+1370,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T05:10:07.668Z,1
+1371,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T05:10:13.644Z,1
+1372,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T05:10:26.620Z,1
+1373,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,85,,Batemmy,2025-12-07T05:10:35.822Z,1
+1374,Song of Solomon (1977),Grace,Character_Reference,Grace,Characterization,80,,Batemmy,2025-12-07T05:10:45.205Z,1
+1375,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,70,,Batemmy,2025-12-07T05:10:55.120Z,1
+1376,Tar Baby (1981),hope,No_Allusion,Hope,,80,,Batemmy,2025-12-07T05:10:58.906Z,0
+1377,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T05:11:03.723Z,1
+1378,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,70,,Batemmy,2025-12-07T05:11:10.919Z,1
+1379,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,70,,Batemmy,2025-12-07T05:11:15.798Z,1
+1380,Paradise (1998),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-07T05:11:19.637Z,0
+1381,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T05:11:26.338Z,1
+1382,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-07T05:11:31.376Z,1
+1383,The Bluest Eye (1970),job,No_Allusion,Job,,90,,Batemmy,2025-12-07T05:11:35.957Z,0
+1384,Sula (1973),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-07T05:11:50.450Z,0
+1385,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T05:11:56.978Z,1
+1386,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T05:12:06.365Z,1
+1387,Paradise (1998),Grace,Thematic_Reference,Grace,Thematic_Development,80,,Batemmy,2025-12-07T05:12:26.315Z,1
+1388,Song of Solomon (1977),job,No_Allusion,Job,,90,,Batemmy,2025-12-07T05:12:31.026Z,0
+1389,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T05:12:37.567Z,1
+1390,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-07T05:12:42.728Z,1
+1391,Paradise (1998),grace,No_Allusion,Grace,,80,,Batemmy,2025-12-07T05:12:54.337Z,0
+1392,Paradise (1998),Mark,Thematic_Reference,Mark,Thematic_Development,90,,Batemmy,2025-12-07T05:13:23.078Z,1
+1393,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-07T05:13:31.085Z,1
+1394,Paradise (1998),job,No_Allusion,Job,,90,,Batemmy,2025-12-07T05:13:37.065Z,0
+1395,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T05:13:45.738Z,1
+1396,The Bluest Eye (1970),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-07T05:13:49.642Z,0
+1397,Song of Solomon (1977),acts,No_Allusion,Acts,,90,,Batemmy,2025-12-07T05:13:58.771Z,0
+1398,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-07T05:14:04.913Z,1
+1399,Paradise (1998),Mary,Character_Reference,Mary,Characterization,85,,Batemmy,2025-12-07T05:14:09.997Z,1
+1400,Song of Solomon (1977),Mary,Character_Reference,Mary,Characterization,85,,Batemmy,2025-12-07T05:14:17.164Z,1
+1401,The Bluest Eye (1970),Micah,Character_Reference,Micah,Characterization,90,,Batemmy,2025-12-07T05:14:27.061Z,1
+1402,Tar Baby (1981),acts,No_Allusion,Acts,,90,,Batemmy,2025-12-07T05:14:31.052Z,0
+1403,Paradise (1998),grace,No_Allusion,Grace,,80,,Batemmy,2025-12-07T05:14:36.984Z,0
+1404,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-07T05:14:46.960Z,1
+1405,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T05:14:53.092Z,1
+1406,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T05:14:58.607Z,1
+1407,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T05:15:08.313Z,1
+1408,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T05:15:14.979Z,1
+1409,Paradise (1998),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-07T05:15:18.780Z,0
+1410,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-07T05:15:23.629Z,1
+1411,Paradise (1998),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-07T05:15:37.264Z,0
+1412,Song of Solomon (1977),Grace,Character_Reference,Grace,Characterization,80,,Batemmy,2025-12-07T05:15:49.473Z,1
+1413,The Bluest Eye (1970),Cain,Character_Reference,Cain,Characterization,85,,Batemmy,2025-12-07T05:16:08.689Z,1
+1414,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-07T05:16:16.055Z,1
+1415,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T05:16:22.690Z,1
+1416,Beloved (1987),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-07T05:16:26.780Z,0
+1417,Jazz (1992),Joseph,Character_Reference,Joseph,Characterization,85,,Batemmy,2025-12-07T05:16:37.924Z,1
+1418,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,Batemmy,2025-12-07T05:16:44.524Z,1
+1419,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,85,,Batemmy,2025-12-07T05:16:50.339Z,1
+1420,Beloved (1987),job,No_Allusion,Job,,90,,Batemmy,2025-12-07T05:16:54.666Z,0
+1421,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-07T05:17:01.896Z,1
+1422,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-07T05:17:07.107Z,1
+1423,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T05:17:13.213Z,1
+1424,A Mercy (2008),faith,Thematic_Reference,Faith,Thematic_Development,80,,Batemmy,2025-12-07T05:17:32.713Z,1
+1425,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,85,,Batemmy,2025-12-07T05:17:38.349Z,1
+1426,Paradise (1998),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-07T05:17:44.110Z,0
+1427,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,Batemmy,2025-12-07T05:17:49.204Z,1
+1428,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-07T05:17:55.900Z,1
+1429,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-07T05:18:03.242Z,1
+1430,Paradise (1998),Zechariah,Character_Reference,Zechariah,Characterization,90,,Batemmy,2025-12-07T05:18:08.552Z,1
+1431,Paradise (1998),Luke,Character_Reference,Luke,Characterization,90,,Batemmy,2025-12-07T05:18:14.085Z,1
+1432,Jazz (1992),Psalms,Thematic_Reference,Psalms,Thematic_Development,90,,Batemmy,2025-12-07T05:18:27.010Z,1
+1433,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T05:18:34.893Z,1
+1434,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-07T05:18:42.072Z,1
+1435,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T05:18:47.450Z,1
+1436,The Bluest Eye (1970),Jesus,Character_Reference,Jesus,Characterization,85,,Batemmy,2025-12-07T05:18:54.822Z,1
+1437,Paradise (1998),Grace,Character_Reference,Grace,Characterization,80,,Batemmy,2025-12-07T05:19:05.025Z,1
+1438,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T05:19:09.914Z,1
+1439,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,70,,Batemmy,2025-12-07T05:19:16.452Z,1
+1440,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T05:19:24.886Z,1
+1441,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-07T05:19:31.079Z,1
+1442,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-07T05:19:39.705Z,1
+1443,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-07T05:19:45.428Z,1
+1444,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-07T05:19:52.778Z,1
+1445,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-07T05:19:58.570Z,1
+1446,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T05:20:04.488Z,1
+1447,Paradise (1998),Aaron,Character_Reference,Aaron,Characterization,85,,Batemmy,2025-12-07T05:20:09.872Z,1
+1448,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T05:20:23.799Z,1
+1449,Song of Solomon (1977),communion,Thematic_Reference,Communion,Thematic_Development,80,,Batemmy,2025-12-07T05:20:30.032Z,1
+1450,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-07T05:20:36.375Z,1
+1451,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-07T05:20:47.564Z,1
+1452,The Bluest Eye (1970),First Corinthians,Character_Reference,First Corinthians,Characterization,70,,Batemmy,2025-12-07T05:20:59.427Z,1
+1453,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T05:21:06.673Z,1
+1454,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T05:21:12.118Z,1
+1455,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T05:21:19.093Z,1
+1456,A Mercy (2008),Judah,Character_Reference,Judah,Characterization,70,,Batemmy,2025-12-07T05:21:25.880Z,1
+1457,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T05:21:31.530Z,1
+1458,Song of Solomon (1977),Matthew,Thematic_Reference,Matthew,Thematic_Development,90,,Batemmy,2025-12-07T05:22:06.624Z,1
+1459,Song of Solomon (1977),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-07T05:22:13.043Z,0
+1460,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-07T05:22:19.225Z,1
+1461,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T05:22:42.595Z,1
+1462,Paradise (1998),Jesus,Character_Reference,Jesus,Characterization,85,,Batemmy,2025-12-07T05:22:48.565Z,1
+1463,Paradise (1998),grace,Thematic_Reference,Grace,Thematic_Development,80,,Batemmy,2025-12-07T05:22:57.386Z,1
+1464,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T05:23:02.778Z,1
+1465,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,70,,Batemmy,2025-12-07T05:23:10.853Z,1
+1467,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,85,,Batemmy,2025-12-07T05:23:18.455Z,1
+1466,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,85,,Batemmy,2025-12-07T05:23:24.649Z,1
+1468,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T05:23:30.995Z,1
+1469,The Bluest Eye (1970),Samuel,Character_Reference,Samuel,Characterization,85,,Batemmy,2025-12-07T05:23:36.598Z,1
+1470,Tar Baby (1981),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-07T05:23:42.420Z,0
+1471,Song of Solomon (1977),Mary,Character_Reference,Mary,Characterization,85,,Batemmy,2025-12-07T05:23:48.548Z,1
+1472,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T05:23:56.564Z,1
+1473,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,Batemmy,2025-12-07T05:24:02.063Z,1
+1474,Song of Solomon (1977),Esther,Character_Reference,Esther,Characterization,90,,Batemmy,2025-12-07T05:24:23.055Z,1
+1475,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-07T05:24:29.595Z,1
+1476,A Mercy (2008),Job,Thematic_Reference,Job,Thematic_Development,90,,Batemmy,2025-12-07T05:24:34.553Z,1
+1477,Beloved (1987),John,Character_Reference,John,Characterization,90,,Batemmy,2025-12-07T05:24:51.247Z,1
+1478,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-07T05:24:58.486Z,1
+1479,Jazz (1992),job,No_Allusion,Job,,90,,Batemmy,2025-12-07T05:25:03.313Z,0
+1480,Paradise (1998),Hope,No_Allusion,Hope,,80,,Batemmy,2025-12-07T05:25:12.498Z,0
+1481,A Mercy (2008),hope,No_Allusion,Hope,,80,,Batemmy,2025-12-07T05:25:26.937Z,0
+1482,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Batemmy,2025-12-07T05:25:32.771Z,1
+1483,The Bluest Eye (1970),hope,No_Allusion,Hope,,80,,Batemmy,2025-12-07T05:25:38.214Z,0
+1484,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T05:25:44.173Z,1
+1485,Song of Solomon (1977),Magdalene,Character_Reference,Magdalene,Characterization,85,,Batemmy,2025-12-07T05:25:50.405Z,1
+1486,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Batemmy,2025-12-07T05:25:55.601Z,1
+1487,Paradise (1998),Mary,Character_Reference,Mary,Characterization,85,,Batemmy,2025-12-07T05:26:03.839Z,1
+1488,The Bluest Eye (1970),Mary,Character_Reference,Mary,Characterization,85,,Batemmy,2025-12-07T05:26:10.515Z,1
+1489,Sula (1973),Eve,No_Allusion,Eve,,70,,Batemmy,2025-12-07T05:26:50.264Z,0
+1490,Tar Baby (1981),job,No_Allusion,Job,,90,,Batemmy,2025-12-07T05:26:55.115Z,0
+1491,Sula (1973),Grace,Character_Reference,Grace,Characterization,80,,Batemmy,2025-12-07T05:27:00.982Z,1
+1492,Sula (1973),trinity,No_Allusion,Trinity,,80,,Batemmy,2025-12-07T05:27:21.204Z,0
+1493,Paradise (1998),Peter,Character_Reference,Peter,Characterization,85,,Batemmy,2025-12-07T05:27:28.598Z,1
+1494,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T05:27:33.911Z,1
+1495,The Bluest Eye (1970),Holy Grail,No_Allusion,Holy Grail,,80,,Batemmy,2025-12-07T05:27:43.285Z,0
+1496,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-07T05:27:53.586Z,1
+1497,Beloved (1987),Jesus,Character_Reference,Jesus,Characterization,85,,Batemmy,2025-12-07T05:27:58.864Z,1
+1498,Paradise (1998),job,No_Allusion,Job,,90,,Batemmy,2025-12-07T05:28:02.634Z,0
+1499,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-07T05:28:12.071Z,1
+1500,Beloved (1987),Paul,Character_Reference,Paul,Characterization,70,,Batemmy,2025-12-07T05:28:18.819Z,1
+1501,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T05:28:29.633Z,1
+1502,Song of Solomon (1977),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-07T05:28:34.526Z,0
+1503,Paradise (1998),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T05:28:41.495Z,1
+1504,Sula (1973),Jude,Character_Reference,Jude,Characterization,90,,Batemmy,2025-12-07T05:28:46.842Z,1
+1505,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T05:28:52.034Z,1
+1506,Paradise (1998),Matthew,No_Allusion,Matthew,,90,,Batemmy,2025-12-07T05:29:06.892Z,0
+1507,Paradise (1998),Mary,Character_Reference,Mary,Characterization,85,,Batemmy,2025-12-07T05:29:12.244Z,1
+1508,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-07T05:29:18.531Z,1
+1509,Beloved (1987),lot,No_Allusion,Lot,,70,,Batemmy,2025-12-07T05:29:24.815Z,0
+1510,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,85,,Batemmy,2025-12-07T05:29:34.034Z,1
+1511,The Bluest Eye (1970),Mary,Character_Reference,Mary,Characterization,85,,Batemmy,2025-12-07T05:29:39.424Z,1
+1512,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,70,,Batemmy,2025-12-07T05:29:45.424Z,1
+1513,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,70,,Batemmy,2025-12-07T05:29:57.719Z,1
+1514,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T05:30:07.933Z,1
+1515,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Batemmy,2025-12-07T05:30:19.471Z,1
+1516,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Batemmy,2025-12-07T05:30:26.663Z,1
+1517,Song of Solomon (1977),Mary,Character_Reference,Mary,Characterization,85,,Batemmy,2025-12-07T05:30:33.659Z,1
+1518,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Batemmy,2025-12-07T05:30:39.578Z,1
+1519,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Batemmy,2025-12-07T05:31:29.951Z,1
+1,Song of Solomon (1977),Matthew,Thematic_Reference,Matthew,Thematic_Development,100,,JM,2025-12-05T20:29:03.050Z,1
+2,Tar Baby (1981),Gideon,Structural_Echo,Gideon,Narrative_Structure,90,,JM,2025-12-05T20:32:20.202Z,1
+3,Beloved (1987),Paul,No_Allusion,Paul,Characterization,58,,JM,2025-12-05T20:34:42.501Z,0
+4,Song of Solomon (1977),charity,Thematic_Reference,Charity,Thematic_Development,80,,JM,2025-12-06T15:18:31.610Z,1
+5,Beloved (1987),Paul,No_Allusion,Paul,Narrative_Structure,85,,JM,2025-12-06T15:19:20.775Z,0
+6,Song of Solomon (1977),Solomon,No_Allusion,Solomon,Narrative_Structure,85,,JM,2025-12-06T15:20:19.363Z,0
+7,Song of Solomon (1977),Hagar,No_Allusion,Hagar,Narrative_Structure,70,,JM,2025-12-06T15:21:00.164Z,0
+9,Song of Solomon (1977),Ruth,No_Allusion,Ruth,Characterization,100,,JM,2025-12-06T15:37:10.460Z,0
+8,Tar Baby (1981),lot,No_Allusion,Lot,Narrative_Structure,70,,JM,2025-12-06T15:36:17.383Z,0
+10,Paradise (1998),lot,No_Allusion,Lot,Characterization,70,,JM,2025-12-06T15:43:38.320Z,0
+11,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,JM,2025-12-06T15:44:21.634Z,1
+12,Beloved (1987),faith,Paraphrase,Faith,Thematic_Development,44,,JM,2025-12-06T15:46:12.464Z,1
+13,Paradise (1998),Grace,No_Allusion,Grace,Characterization,80,,JM,2025-12-06T15:46:41.642Z,0
+14,Song of Solomon (1977),Babylon,Thematic_Reference,Babylon,Thematic_Development,100,,JM,2025-12-06T15:47:39.819Z,1
+15,Song of Solomon (1977),Solomon,No_Allusion,Solomon,Characterization,85,,JM,2025-12-06T15:48:46.871Z,0
+16,Tar Baby (1981),Mary,No_Allusion,Mary,Narrative_Structure,85,,JM,2025-12-06T15:49:18.349Z,0
+17,Song of Solomon (1977),Pilate,Structural_Echo,Pilate,Thematic_Development,100,,JM,2025-12-06T15:50:14.588Z,1
+18,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,100,,JM,2025-12-06T15:51:24.493Z,1
+19,Song of Solomon (1977),Lot,No_Allusion,Lot,Narrative_Structure,100,,JM,2025-12-06T15:52:02.533Z,0
+20,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,JM,2025-12-06T15:52:45.368Z,1
+21,Beloved (1987),Paul,No_Allusion,Paul,Narrative_Structure,85,,JM,2025-12-06T15:53:18.845Z,0
+22,Beloved (1987),Paul,No_Allusion,Paul,Cultural_Commentary,26,,JM,2025-12-06T15:54:31.634Z,0
+23,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,JM,2025-12-06T15:55:47.317Z,1
+24,Paradise (1998),job,No_Allusion,Job,Narrative_Structure,90,,JM,2025-12-06T15:56:14.175Z,0
+25,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,JM,2025-12-06T15:56:46.355Z,1
+26,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,JM,2025-12-06T15:57:17.241Z,1
+27,A Mercy (2008),Judith,No_Allusion,Judith,Narrative_Structure,85,,JM,2025-12-06T15:57:56.164Z,0
+28,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,JM,2025-12-06T15:58:32.133Z,1
+29,The Bluest Eye (1970),hope,No_Allusion,Hope,Narrative_Structure,80,,JM,2025-12-06T15:59:26.180Z,0
+30,Tar Baby (1981),lot,No_Allusion,Lot,Narrative_Structure,100,,JM,2025-12-06T15:59:52.504Z,0
+31,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,JM,2025-12-07T05:35:25.225Z,1
+32,Song of Solomon (1977),Grace,Thematic_Reference,Grace,Thematic_Development,80,,JM,2025-12-07T05:37:05.835Z,1
+33,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,JM,2025-12-07T05:37:13.309Z,1
+34,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,JM,2025-12-07T05:37:20.889Z,1
+35,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,JM,2025-12-07T05:37:26.805Z,1
+36,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,70,,JM,2025-12-07T05:37:35.725Z,1
+37,Jazz (1992),job,No_Allusion,Job,,90,,JM,2025-12-07T05:37:41.263Z,0
+38,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,JM,2025-12-07T05:37:46.510Z,1
+39,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,JM,2025-12-07T05:37:53.200Z,1
+40,Paradise (1998),Mary,Character_Reference,Mary,Characterization,85,,JM,2025-12-07T05:37:59.470Z,1
+41,Paradise (1998),Aaron,Character_Reference,Aaron,Characterization,85,,JM,2025-12-07T05:38:06.275Z,1
+42,Paradise (1998),job,No_Allusion,Job,,90,,JM,2025-12-07T05:38:48.867Z,0
+43,Paradise (1998),Zechariah,Character_Reference,Zechariah,Characterization,90,,JM,2025-12-07T05:38:54.531Z,1
+44,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,JM,2025-12-07T05:39:00.844Z,1
+45,Song of Solomon (1977),lot,No_Allusion,Lot,,70,,JM,2025-12-07T05:39:04.701Z,0
+46,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,JM,2025-12-07T05:39:46.492Z,1
+47,Paradise (1998),Zechariah,Character_Reference,Zechariah,Characterization,90,,JM,2025-12-07T05:40:20.373Z,1
+48,Paradise (1998),lot,No_Allusion,Lot,,70,,JM,2025-12-07T05:40:24.469Z,0
+49,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,JM,2025-12-07T05:40:35.298Z,1
+50,A Mercy (2008),communion,Thematic_Reference,Communion,Thematic_Development,80,,JM,2025-12-07T05:40:47.300Z,1
+51,Song of Solomon (1977),lot,No_Allusion,Lot,,70,,JM,2025-12-07T05:40:51.111Z,0
+52,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,JM,2025-12-07T05:43:32.058Z,1
+53,Paradise (1998),James,Character_Reference,James,Characterization,90,,JM,2025-12-07T05:43:40.091Z,1
+54,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,JM,2025-12-07T05:43:48.378Z,1
+55,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,JM,2025-12-07T05:43:57.344Z,1
+56,Song of Solomon (1977),Grace,Character_Reference,Grace,Characterization,80,,JM,2025-12-07T05:44:08.883Z,1
+57,Tar Baby (1981),Paul,Character_Reference,Paul,Characterization,85,,JM,2025-12-07T05:44:56.473Z,1
+58,Paradise (1998),Zechariah,Character_Reference,Zechariah,Characterization,90,,JM,2025-12-07T05:45:26.378Z,1
+59,Tar Baby (1981),Paul,Character_Reference,Paul,Characterization,85,,JM,2025-12-07T05:45:47.880Z,1
+61,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,JM,2025-12-07T05:59:52.405Z,1
+60,A Mercy (2008),hope,No_Allusion,Hope,,80,,JM,2025-12-07T05:59:46.764Z,0
+62,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,JM,2025-12-07T06:00:44.006Z,1
+63,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,JM,2025-12-07T06:00:50.081Z,1
+64,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,JM,2025-12-07T06:00:55.406Z,1
+65,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,JM,2025-12-07T06:01:00.784Z,1
+66,Song of Solomon (1977),lot,No_Allusion,Lot,,70,,JM,2025-12-07T06:01:06.155Z,0
+67,Song of Solomon (1977),Esther,Character_Reference,Esther,Characterization,90,,JM,2025-12-07T06:01:15.176Z,1
+68,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,JM,2025-12-07T06:01:21.738Z,1
+69,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,85,,JM,2025-12-07T06:01:32.390Z,1
+70,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,JM,2025-12-07T06:01:39.305Z,1
+71,Paradise (1998),Mary,Character_Reference,Mary,Characterization,85,,JM,2025-12-07T06:01:44.362Z,1
+72,Sula (1973),job,No_Allusion,Job,,90,,JM,2025-12-07T06:01:48.057Z,0
+73,Beloved (1987),Solomon,No_Allusion,Solomon,,85,,JM,2025-12-07T06:01:58.445Z,0
+74,Paradise (1998),Mary,Character_Reference,Mary,Characterization,85,,JM,2025-12-07T06:02:04.935Z,1
+75,Beloved (1987),Jesus,Character_Reference,Jesus,Characterization,85,,JM,2025-12-07T06:02:16.085Z,1
+76,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,JM,2025-12-07T06:02:21.344Z,1
+77,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,JM,2025-12-07T06:02:34.538Z,1
+78,Paradise (1998),Grace,Character_Reference,Grace,Characterization,80,,JM,2025-12-07T06:02:45.767Z,1
+79,Sula (1973),Solomon,Character_Reference,Solomon,Characterization,85,,JM,2025-12-07T06:02:51.471Z,1
+80,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,JM,2025-12-07T06:02:58.262Z,1
+81,Beloved (1987),mark,Character_Reference,Mark,Characterization,90,,JM,2025-12-07T06:03:10.418Z,1
+82,Beloved (1987),John,Character_Reference,John,Characterization,90,,JM,2025-12-07T06:03:35.114Z,1
+83,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,JM,2025-12-07T06:03:40.826Z,1
+84,A Mercy (2008),salvation,Thematic_Reference,Salvation,Thematic_Development,80,,JM,2025-12-07T06:03:48.471Z,1
+85,Song of Solomon (1977),lot,No_Allusion,Lot,,70,,JM,2025-12-07T06:03:53.217Z,0
+86,Beloved (1987),lot,No_Allusion,Lot,,70,,JM,2025-12-07T06:03:58.278Z,0
+87,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,JM,2025-12-07T06:04:03.611Z,1
+88,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,JM,2025-12-07T06:04:08.474Z,1
+89,Tar Baby (1981),Lot,No_Allusion,Lot,,70,,JM,2025-12-07T06:04:15.940Z,0
+90,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,JM,2025-12-07T06:04:23.913Z,1
+91,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,JM,2025-12-07T06:04:31.851Z,1
+92,Jazz (1992),lot,No_Allusion,Lot,,70,,JM,2025-12-07T06:04:37.361Z,0
+93,Beloved (1987),Jesus,Character_Reference,Jesus,Characterization,85,,JM,2025-12-07T06:04:45.185Z,1
+94,Paradise (1998),Zechariah,Character_Reference,Zechariah,Characterization,90,,JM,2025-12-07T06:04:52.473Z,1
+95,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,JM,2025-12-07T06:04:57.964Z,1
+96,A Mercy (2008),faith,Thematic_Reference,Faith,Thematic_Development,80,,JM,2025-12-07T06:05:20.141Z,1
+97,Paradise (1998),Luke,Thematic_Reference,Luke,Thematic_Development,90,,JM,2025-12-07T06:05:32.207Z,1
+98,Paradise (1998),Zechariah,Character_Reference,Zechariah,Characterization,90,,JM,2025-12-07T06:05:57.090Z,1
+99,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,JM,2025-12-07T06:06:07.041Z,1
+100,Sula (1973),charity,No_Allusion,Charity,,80,,JM,2025-12-07T06:06:13.777Z,0
+101,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,JM,2025-12-07T06:06:18.682Z,1
+102,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,JM,2025-12-07T06:06:24.571Z,1
+103,The Bluest Eye (1970),Revelation,Thematic_Reference,Revelation,Thematic_Development,90,,JM,2025-12-07T06:06:38.457Z,1
+104,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,JM,2025-12-07T06:06:43.599Z,1
+105,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,JM,2025-12-07T06:06:49.680Z,1
+106,Tar Baby (1981),Eve,No_Allusion,Eve,,70,,JM,2025-12-07T06:06:55.660Z,0
+107,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,70,,JM,2025-12-07T06:07:02.238Z,1
+108,Jazz (1992),mark,No_Allusion,Mark,,90,,JM,2025-12-07T06:07:06.617Z,0
+109,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,JM,2025-12-07T06:07:12.474Z,1
+110,The Bluest Eye (1970),Cain,Character_Reference,Cain,Characterization,85,,JM,2025-12-07T06:07:44.086Z,1
+111,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,JM,2025-12-07T06:07:49.593Z,1
+112,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,70,,JM,2025-12-07T06:07:55.189Z,1
+113,Song of Solomon (1977),job,No_Allusion,Job,,90,,JM,2025-12-07T06:08:01.264Z,0
+114,Beloved (1987),grace,No_Allusion,Grace,,80,,JM,2025-12-07T06:08:10.091Z,0
+115,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,JM,2025-12-07T06:08:15.934Z,1
+116,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,JM,2025-12-07T06:08:21.836Z,1
+117,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,JM,2025-12-07T06:08:29.223Z,1
+118,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,JM,2025-12-07T06:08:34.893Z,1
+119,Paradise (1998),Mary,Character_Reference,Mary,Characterization,85,,JM,2025-12-07T06:08:42.320Z,1
+120,Paradise (1998),John,No_Allusion,John,,90,,JM,2025-12-07T06:08:47.895Z,0
+121,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,JM,2025-12-07T06:08:53.209Z,1
+122,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,JM,2025-12-07T06:08:59.155Z,1
+123,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,JM,2025-12-07T06:09:05.863Z,1
+124,Jazz (1992),job,No_Allusion,Job,,90,,JM,2025-12-07T06:09:17.762Z,0
+125,The Bluest Eye (1970),job,No_Allusion,Job,,90,,JM,2025-12-07T06:09:21.533Z,0
+126,Sula (1973),Jude,Character_Reference,Jude,Characterization,90,,JM,2025-12-07T06:09:29.969Z,1
+127,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,JM,2025-12-07T06:09:35.551Z,1
+128,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,JM,2025-12-07T06:09:42.203Z,1
+129,A Mercy (2008),hope,No_Allusion,Hope,,80,,JM,2025-12-07T06:09:46.570Z,0
+130,Tar Baby (1981),Mary,Character_Reference,Mary,Characterization,85,,JM,2025-12-07T06:09:53.912Z,1
+131,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,JM,2025-12-07T06:09:59.866Z,1
+132,Sula (1973),John,Character_Reference,John,Characterization,90,,JM,2025-12-07T06:10:35.490Z,1
+133,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,JM,2025-12-07T06:10:41.683Z,1
+134,Song of Solomon (1977),Mary,Character_Reference,Mary,Characterization,85,,JM,2025-12-07T06:10:54.899Z,1
+135,The Bluest Eye (1970),job,No_Allusion,Job,,90,,JM,2025-12-07T06:11:01.284Z,0
+136,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,JM,2025-12-07T06:11:06.591Z,1
+137,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,JM,2025-12-07T06:11:13.778Z,1
+138,Paradise (1998),hope,No_Allusion,Hope,,80,,JM,2025-12-07T06:11:18.546Z,0
+139,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,JM,2025-12-07T06:11:27.328Z,1
+140,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,JM,2025-12-07T06:11:33.113Z,1
+141,Tar Baby (1981),numbers,No_Allusion,Numbers,,90,,JM,2025-12-07T06:11:36.930Z,0
+142,Beloved (1987),job,No_Allusion,Job,,90,,JM,2025-12-07T06:11:41.349Z,0
+143,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,JM,2025-12-07T06:11:47.551Z,1
+144,Jazz (1992),Joseph,Character_Reference,Joseph,Characterization,85,,JM,2025-12-07T06:11:52.262Z,1
+145,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,JM,2025-12-07T06:11:57.033Z,1
+146,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,JM,2025-12-07T06:12:05.470Z,1
+147,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,JM,2025-12-07T06:12:12.207Z,1
+148,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,JM,2025-12-07T06:12:18.292Z,1
+149,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,JM,2025-12-07T06:12:25.637Z,1
+150,Jazz (1992),job,No_Allusion,Job,,90,,JM,2025-12-07T06:12:31.354Z,0
+151,Sula (1973),Jude,Character_Reference,Jude,Characterization,90,,JM,2025-12-07T06:12:37.223Z,1
+152,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,JM,2025-12-07T06:12:44.027Z,1
+153,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,JM,2025-12-07T06:12:48.985Z,1
+154,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,70,,JM,2025-12-07T06:12:54.540Z,1
+155,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,JM,2025-12-07T06:13:00.188Z,1
+156,Paradise (1998),faith,Thematic_Reference,Faith,Thematic_Development,80,,JM,2025-12-07T06:13:09.307Z,1
+157,Tar Baby (1981),hope,No_Allusion,Hope,,80,,JM,2025-12-07T06:13:13.530Z,0
+158,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,JM,2025-12-07T06:13:18.413Z,1
+159,Paradise (1998),job,No_Allusion,Job,,90,,JM,2025-12-07T06:13:22.747Z,0
+160,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,70,,JM,2025-12-07T06:13:28.509Z,1
+161,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,JM,2025-12-07T06:13:33.554Z,1
+162,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,85,,JM,2025-12-07T06:13:40.403Z,1
+163,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,JM,2025-12-07T06:13:46.067Z,1
+164,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,JM,2025-12-07T06:13:51.423Z,1
+165,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,70,,JM,2025-12-07T06:13:59.059Z,1
+166,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,JM,2025-12-07T06:14:07.400Z,1
+167,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,JM,2025-12-07T06:14:23.769Z,1
+168,Tar Baby (1981),hope,No_Allusion,Hope,,80,,JM,2025-12-07T06:14:32.727Z,0
+169,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,JM,2025-12-07T06:14:48.133Z,1
+170,Song of Solomon (1977),hope,No_Allusion,Hope,,80,,JM,2025-12-07T06:14:52.361Z,0
+171,Paradise (1998),Mary,Character_Reference,Mary,Characterization,85,,JM,2025-12-07T06:15:01.671Z,1
+172,Paradise (1998),Luke,No_Allusion,Luke,,90,,JM,2025-12-07T06:15:06.701Z,0
+173,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,85,,JM,2025-12-07T06:15:20.661Z,1
+174,Paradise (1998),lot,No_Allusion,Lot,,70,,JM,2025-12-07T06:15:38.665Z,0
+175,Paradise (1998),John,Character_Reference,John,Characterization,90,,JM,2025-12-07T06:15:44.316Z,1
+176,Paradise (1998),lot,No_Allusion,Lot,,70,,JM,2025-12-07T06:16:26.365Z,0
+177,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,JM,2025-12-07T06:16:34.487Z,1
+178,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,JM,2025-12-07T06:16:43.048Z,1
+179,Paradise (1998),lot,No_Allusion,Lot,,70,,JM,2025-12-07T06:16:47.432Z,0
+180,Song of Solomon (1977),Mary,Character_Reference,Mary,Characterization,85,,JM,2025-12-07T06:16:52.426Z,1
+181,Tar Baby (1981),Paul,Character_Reference,Paul,Characterization,85,,JM,2025-12-07T06:16:59.119Z,1
+182,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,JM,2025-12-07T06:17:05.115Z,1
+183,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,JM,2025-12-07T06:17:10.837Z,1
+184,The Bluest Eye (1970),Jesus,Character_Reference,Jesus,Characterization,85,,JM,2025-12-07T06:17:19.243Z,1
+185,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,JM,2025-12-07T06:17:24.559Z,1
+186,Beloved (1987),Samson,Character_Reference,Samson,Characterization,70,,JM,2025-12-07T06:17:35.129Z,1
+187,Sula (1973),grace,No_Allusion,Grace,,80,,JM,2025-12-07T06:17:43.324Z,0
+188,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,JM,2025-12-07T06:17:49.650Z,1
+189,Paradise (1998),Esther,Character_Reference,Esther,Characterization,90,,JM,2025-12-07T06:18:04.886Z,1
+190,Tar Baby (1981),Mary,Character_Reference,Mary,Characterization,85,,JM,2025-12-07T06:18:33.359Z,1
+191,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,JM,2025-12-07T06:18:40.199Z,1
+192,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,JM,2025-12-07T06:18:45.975Z,1
+193,Song of Solomon (1977),Saul,Character_Reference,Saul,Characterization,70,,JM,2025-12-07T06:18:51.849Z,1
+194,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,JM,2025-12-07T06:18:58.067Z,1
+195,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,JM,2025-12-07T06:19:03.590Z,1
+196,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,JM,2025-12-07T06:19:09.375Z,1
+197,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,JM,2025-12-07T06:19:17.159Z,1
+198,Tar Baby (1981),hope,No_Allusion,Hope,,80,,JM,2025-12-07T06:19:21.422Z,0
+199,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,JM,2025-12-07T06:19:27.039Z,1
+200,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,JM,2025-12-07T06:19:45.486Z,1
+47,Beloved (1987),I AM BELOVED and she is mine,Direct_Quote,Song of Songs 6:3,Thematic_Development,75,,JM,2025-12-07T07:30:18.009Z,1
+18,Beloved (1987),Paul,Character_Reference,Paul,Characterization,78,,Temitayo,2025-12-07T08:33:45.861Z,1
+4,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Temitayo,2025-12-07T05:57:27.748Z,1
+5,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Temitayo,2025-12-07T05:59:02.691Z,1
+7,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,75,,Temitayo,2025-12-07T06:00:01.492Z,1
+8,Beloved (1987),John,Character_Reference,John,Characterization,90,,Temitayo,2025-12-07T06:00:18.566Z,1
+6,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Temitayo,2025-12-07T06:00:34.902Z,1
+9,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,70,,Temitayo,2025-12-07T06:00:50.345Z,1
+10,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Temitayo,2025-12-07T06:01:01.397Z,1
+11,Jazz (1992),Eden,Character_Reference,Eden,Thematic_Development,70,,Temitayo,2025-12-07T06:01:23.870Z,1
+231,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Temitayo,2025-12-07T06:01:58.312Z,1
+230,Paradise (1998),lot,No_Allusion,Lot,,70,,Temitayo,2025-12-07T06:02:18.605Z,0
+229,Sula (1973),Jesus,Thematic_Reference,Jesus,Thematic_Development,85,,Temitayo,2025-12-07T06:04:13.827Z,1
+228,Song of Solomon (1977),Grace,Character_Reference,Grace,Characterization,80,,Temitayo,2025-12-07T06:04:31.908Z,1
+227,Tar Baby (1981),job,No_Allusion,Job,,90,,Temitayo,2025-12-07T06:04:58.950Z,0
+226,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Temitayo,2025-12-07T06:05:11.300Z,1
+223,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,70,,Temitayo,2025-12-07T06:05:30.599Z,1
+224,The Bluest Eye (1970),Cain,Character_Reference,Cain,Characterization,90,,Temitayo,2025-12-07T06:05:45.123Z,1
+225,Jazz (1992),job,No_Allusion,Job,,90,,Temitayo,2025-12-07T06:05:52.249Z,0
+219,The Bluest Eye (1970),Mary,Character_Reference,Mary,Characterization,68,,Temitayo,2025-12-07T06:06:47.240Z,1
+220,Tar Baby (1981),hope,Thematic_Reference,Hope,Thematic_Development,80,,Temitayo,2025-12-07T06:07:04.740Z,1
+221,Beloved (1987),Paul,Character_Reference,Paul,Characterization,67,,Temitayo,2025-12-07T06:07:15.859Z,1
+222,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Temitayo,2025-12-07T06:07:29.720Z,1
+215,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,80,,Temitayo,2025-12-07T06:07:45.926Z,1
+216,Paradise (1998),Esther,Character_Reference,Esther,Thematic_Development,90,,Temitayo,2025-12-07T06:07:59.511Z,1
+217,Paradise (1998),Matthew,Thematic_Reference,Matthew,Thematic_Development,90,,Temitayo,2025-12-07T06:08:10.345Z,1
+218,Song of Solomon (1977),hope,Thematic_Reference,Hope,Narrative_Structure,80,,Temitayo,2025-12-07T06:08:32.980Z,1
+211,Paradise (1998),faith,Thematic_Reference,Faith,Thematic_Development,80,,Temitayo,2025-12-07T06:08:53.860Z,1
+212,Beloved (1987),Paul,Character_Reference,Paul,Characterization,68,,Temitayo,2025-12-07T06:09:04.578Z,1
+213,Sula (1973),lot,No_Allusion,Lot,,70,,Temitayo,2025-12-07T06:09:12.643Z,0
+214,Beloved (1987),John,Character_Reference,John,Characterization,90,,Temitayo,2025-12-07T06:09:27.751Z,1
+207,The Bluest Eye (1970),redemption,Thematic_Reference,Redemption,Thematic_Development,80,,Temitayo,2025-12-07T06:09:48.945Z,1
+208,Beloved (1987),Paul,Character_Reference,Paul,Characterization,73,,Temitayo,2025-12-07T06:09:58.816Z,1
+209,Sula (1973),Jude,Character_Reference,Jude,Characterization,90,,Temitayo,2025-12-07T06:10:09.072Z,1
+210,Song of Solomon (1977),Mary,Character_Reference,Mary,Characterization,85,,Temitayo,2025-12-07T06:10:23.733Z,1
+203,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,91,,Temitayo,2025-12-07T06:10:41.946Z,1
+204,Paradise (1998),Calvary,Thematic_Reference,Calvary,Thematic_Development,80,,Temitayo,2025-12-07T06:11:03.738Z,1
+205,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Temitayo,2025-12-07T06:11:17.037Z,1
+206,Beloved (1987),John,Character_Reference,John,Narrative_Structure,71,,Temitayo,2025-12-07T06:11:57.618Z,1
+202,Beloved (1987),Paul,Character_Reference,Paul,Characterization,73,,Temitayo,2025-12-07T06:12:10.039Z,1
+201,The Bluest Eye (1970),Jesus,Thematic_Reference,Jesus,Thematic_Development,90,,Temitayo,2025-12-07T06:12:27.228Z,1
+200,The Bluest Eye (1970),Mary,Character_Reference,Mary,Characterization,72,,Temitayo,2025-12-07T06:12:50.763Z,1
+199,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Temitayo,2025-12-07T06:13:02.429Z,1
+198,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,77,,Temitayo,2025-12-07T06:13:19.803Z,1
+197,Paradise (1998),mark,Thematic_Reference,Mark,Thematic_Development,90,,Temitayo,2025-12-07T06:13:50.352Z,1
+196,Paradise (1998),Mary,Character_Reference,Mary,Characterization,71,Immitating Mary Magdalene in the Bible,Temitayo,2025-12-07T06:14:34.148Z,1
+195,Beloved (1987),job,No_Allusion,Job,,90,,Temitayo,2025-12-07T06:14:44.754Z,0
+194,Beloved (1987),job,No_Allusion,Job,,90,,Temitayo,2025-12-07T06:14:53.562Z,0
+193,Beloved (1987),lot,No_Allusion,Lot,,70,,Temitayo,2025-12-07T06:15:17.530Z,0
+191,Jazz (1992),lot,No_Allusion,Lot,,70,,Temitayo,2025-12-07T06:15:25.302Z,0
+192,Beloved (1987),Paul,Character_Reference,Paul,Characterization,74,,Temitayo,2025-12-07T06:15:37.109Z,1
+189,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,77,,Temitayo,2025-12-07T06:15:48.695Z,1
+190,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Temitayo,2025-12-07T06:16:02.193Z,1
+188,Paradise (1998),Zechariah,Character_Reference,Zechariah,Characterization,90,,Temitayo,2025-12-07T06:16:18.546Z,1
+187,Beloved (1987),Paul,Character_Reference,Paul,Characterization,77,,Temitayo,2025-12-07T06:16:30.778Z,1
+186,Beloved (1987),Paul,Character_Reference,Paul,Characterization,75,,Temitayo,2025-12-07T06:16:46.537Z,1
+349,Paradise (1998),Zechariah,Character_Reference,Zechariah,Characterization,90,,Temitayo,2025-12-07T07:03:39.439Z,1
+350,Beloved (1987),lot,No_Allusion,Lot,,70,,Temitayo,2025-12-07T07:03:50.890Z,0
+351,Paradise (1998),James,Character_Reference,James,Characterization,72,,Temitayo,2025-12-07T07:04:04.965Z,1
+352,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,89,,Temitayo,2025-12-07T07:04:20.010Z,1
+340,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Temitayo,2025-12-07T07:04:32.094Z,1
+341,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Temitayo,2025-12-07T07:04:40.768Z,1
+342,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Temitayo,2025-12-07T07:04:55.778Z,1
+343,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Temitayo,2025-12-07T07:05:12.202Z,1
+344,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Temitayo,2025-12-07T07:05:26.445Z,1
+345,The Bluest Eye (1970),Micah,Thematic_Reference,Micah,Thematic_Development,90,,Temitayo,2025-12-07T07:05:45.329Z,1
+346,A Mercy (2008),Mary,Thematic_Reference,Mary,Thematic_Development,78,,Temitayo,2025-12-07T07:06:07.331Z,1
+347,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Temitayo,2025-12-07T07:06:19.583Z,1
+348,Sula (1973),lot,No_Allusion,Lot,,70,,Temitayo,2025-12-07T07:06:29.853Z,0
+320,Sula (1973),Jesus,Thematic_Reference,Jesus,Thematic_Development,85,,Temitayo,2025-12-07T07:08:09.152Z,1
+321,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,Temitayo,2025-12-07T07:08:43.575Z,1
+322,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,82,,Temitayo,2025-12-07T07:08:54.142Z,1
+323,Song of Solomon (1977),Jesus,Thematic_Reference,Jesus,Thematic_Development,85,,Temitayo,2025-12-07T07:09:58.634Z,1
+324,Tar Baby (1981),Paul,Character_Reference,Paul,Characterization,75,,Temitayo,2025-12-07T07:10:11.568Z,1
+325,Beloved (1987),Paul,Character_Reference,Paul,Characterization,78,,Temitayo,2025-12-07T07:10:23.666Z,1
+326,Sula (1973),Jude,Character_Reference,Jude,Characterization,90,,Temitayo,2025-12-07T07:10:39.904Z,1
+327,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,81,,Temitayo,2025-12-07T07:10:59.454Z,1
+328,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Temitayo,2025-12-07T07:11:10.639Z,1
+329,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,82,,Temitayo,2025-12-07T07:11:27.776Z,1
+330,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Temitayo,2025-12-07T07:11:46.027Z,1
+331,Beloved (1987),Paul,Character_Reference,Paul,Characterization,76,,Temitayo,2025-12-07T07:12:15.297Z,1
+332,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,Temitayo,2025-12-07T07:12:27.392Z,1
+333,The Bluest Eye (1970),Jesus,Structural_Echo,Jesus,Thematic_Development,85,,Temitayo,2025-12-07T07:13:20.301Z,1
+334,Tar Baby (1981),Mary,Character_Reference,Mary,Characterization,85,,Temitayo,2025-12-07T07:13:29.989Z,1
+335,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Temitayo,2025-12-07T07:13:43.308Z,1
+336,Sula (1973),Jude,Character_Reference,Jude,Characterization,90,,Temitayo,2025-12-07T07:14:08.837Z,1
+337,Paradise (1998),Zechariah,Character_Reference,Zechariah,Characterization,90,,Temitayo,2025-12-07T07:14:22.350Z,1
+338,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Temitayo,2025-12-07T07:14:35.746Z,1
+339,Beloved (1987),Lot,Structural_Echo,Lot,Thematic_Development,76,,Temitayo,2025-12-07T07:15:32.230Z,1
+294,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Temitayo,2025-12-07T07:15:49.925Z,1
+295,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Temitayo,2025-12-07T07:16:03.224Z,1
+296,Paradise (1998),Calvary,Thematic_Reference,Calvary,Thematic_Development,79,,Temitayo,2025-12-07T07:16:15.471Z,1
+297,Song of Solomon (1977),numbers,No_Allusion,Numbers,,90,,Temitayo,2025-12-07T07:16:29.597Z,0
+298,Paradise (1998),lot,No_Allusion,Lot,,70,,Temitayo,2025-12-07T07:16:38.937Z,0
+299,Song of Solomon (1977),Ruth,Thematic_Reference,Ruth,Narrative_Structure,90,,Temitayo,2025-12-07T07:17:21.461Z,1
+300,Song of Solomon (1977),John,Thematic_Reference,John,Narrative_Structure,90,,Temitayo,2025-12-07T07:17:36.222Z,1
+301,A Mercy (2008),redemption,Thematic_Reference,Redemption,Narrative_Structure,80,,Temitayo,2025-12-07T07:17:53.641Z,1
+302,Paradise (1998),Mary,Character_Reference,Mary,Characterization,77,,Temitayo,2025-12-07T07:18:20.217Z,1
+303,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Temitayo,2025-12-07T07:20:53.518Z,1
+304,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Narrative_Structure,90,,Temitayo,2025-12-07T07:21:48.684Z,1
+305,Song of Solomon (1977),Matthew,Paraphrase,Matthew,Narrative_Structure,90,,Temitayo,2025-12-07T07:22:25.315Z,1
+306,Tar Baby (1981),Mary,Character_Reference,Mary,Characterization,85,,Temitayo,2025-12-07T07:22:38.744Z,1
+307,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Temitayo,2025-12-07T07:22:53.621Z,1
+308,Paradise (1998),lot,No_Allusion,Lot,,70,,Temitayo,2025-12-07T07:23:13.551Z,0
+309,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,Temitayo,2025-12-07T07:23:25.702Z,1
+310,Song of Solomon (1977),communion,Thematic_Reference,Communion,Thematic_Development,80,,Temitayo,2025-12-07T07:23:34.807Z,1
+2,Song of Solomon (1977),hope,Thematic_Reference,Hope,Thematic_Development,80,,Temitayo,2025-12-07T08:28:26.679Z,1
+3,Sula (1973),numbers,No_Allusion,Numbers,,90,,Temitayo,2025-12-07T08:28:36.686Z,0
+12,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,70,,Temitayo,2025-12-07T08:29:02.584Z,1
+13,Sula (1973),hope,Thematic_Reference,Hope,Thematic_Development,80,,Temitayo,2025-12-07T08:29:40.347Z,1
+14,Beloved (1987),Paul,Character_Reference,Paul,Characterization,74,,Temitayo,2025-12-07T08:31:37.975Z,1
+15,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Temitayo,2025-12-07T08:31:55.888Z,1
+16,Song of Solomon (1977),Grace,Thematic_Reference,Grace,Thematic_Development,80,,Temitayo,2025-12-07T08:33:29.255Z,1
+17,The Bluest Eye (1970),job,No_Allusion,Job,,90,,Temitayo,2025-12-07T08:33:36.336Z,0
+19,Paradise (1998),Aaron,Character_Reference,Aaron,Characterization,85,,Temitayo,2025-12-07T08:33:55.803Z,1
+20,Paradise (1998),Mary,Character_Reference,Mary,Characterization,85,,Temitayo,2025-12-07T08:34:03.559Z,1
+21,Jazz (1992),faith,Thematic_Reference,Faith,Thematic_Development,80,,Temitayo,2025-12-07T08:34:16.478Z,1
+22,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Narrative_Structure,70,,Temitayo,2025-12-07T08:34:50.383Z,1
+23,Paradise (1998),Matthew,Thematic_Reference,Matthew,Thematic_Development,90,,Temitayo,2025-12-07T08:35:02.867Z,1
+24,Paradise (1998),Mary,Character_Reference,Mary,Characterization,85,,Temitayo,2025-12-07T08:35:12.720Z,1
+25,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Temitayo,2025-12-07T08:35:22.944Z,1
+26,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Temitayo,2025-12-07T08:35:45.533Z,1
+27,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Temitayo,2025-12-07T08:35:55.472Z,1
+28,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Temitayo,2025-12-07T08:36:07.041Z,1
+29,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Temitayo,2025-12-07T08:36:34.498Z,1
+30,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Temitayo,2025-12-07T08:36:47.846Z,1
+31,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Narrative_Structure,90,,Temitayo,2025-12-07T08:37:06.513Z,1
+32,Song of Solomon (1977),lot,No_Allusion,Lot,,70,,Temitayo,2025-12-07T08:37:16.718Z,0
+33,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Temitayo,2025-12-07T08:37:27.787Z,1
+34,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,75,,Temitayo,2025-12-07T08:37:40.284Z,1
+35,Song of Solomon (1977),Grace,Thematic_Reference,Grace,Narrative_Structure,80,,Temitayo,2025-12-07T08:38:09.657Z,1
+36,Beloved (1987),Paul,Character_Reference,Paul,Characterization,77,,Temitayo,2025-12-07T08:38:23.170Z,1
+37,The Bluest Eye (1970),Cain,Character_Reference,Cain,Characterization,85,,Temitayo,2025-12-07T08:38:30.899Z,1
+38,Song of Solomon (1977),lot,No_Allusion,Lot,,70,,Temitayo,2025-12-07T08:38:37.896Z,0
+39,Beloved (1987),Paul,Character_Reference,Paul,Characterization,75,,Temitayo,2025-12-07T08:38:47.505Z,1
+40,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Temitayo,2025-12-07T08:38:58.141Z,1
+41,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Temitayo,2025-12-07T08:39:07.700Z,1
+42,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Temitayo,2025-12-07T08:39:42.803Z,1
+43,The Bluest Eye (1970),Micah,Thematic_Reference,Micah,Thematic_Development,90,,Temitayo,2025-12-07T08:40:09.547Z,1
+44,Tar Baby (1981),Joseph,Character_Reference,Joseph,Characterization,85,,Temitayo,2025-12-07T08:40:19.986Z,1
+45,Song of Solomon (1977),Grace,Thematic_Reference,Grace,Narrative_Structure,80,,Temitayo,2025-12-07T08:40:31.368Z,1
+46,Beloved (1987),job,No_Allusion,Job,Characterization,90,,Temitayo,2025-12-07T08:42:43.695Z,0
+47,A Mercy (2008),Judith,No_Allusion,Judith,,70,,Temitayo,2025-12-07T08:42:35.664Z,0
+48,Paradise (1998),Mary,Character_Reference,Mary,Characterization,85,,Temitayo,2025-12-07T08:42:57.339Z,1
+49,Song of Solomon (1977),Saul,Character_Reference,Saul,Characterization,85,,Temitayo,2025-12-07T08:43:11.368Z,1
+50,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,76,,Temitayo,2025-12-07T08:43:21.038Z,1
+51,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Temitayo,2025-12-07T08:43:32.959Z,1
+52,Beloved (1987),Jesus,Character_Reference,Jesus,Characterization,85,,Temitayo,2025-12-07T08:43:56.905Z,1
+53,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Temitayo,2025-12-07T08:44:05.615Z,1
+54,Sula (1973),Mary,Thematic_Reference,Mary,Thematic_Development,85,,Temitayo,2025-12-07T08:44:26.929Z,1
+55,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,Temitayo,2025-12-07T08:44:38.329Z,1
+56,The Bluest Eye (1970),Mary,Character_Reference,Mary,Characterization,71,,Temitayo,2025-12-07T08:44:51.294Z,1
+58,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,70,,Temitayo,2025-12-07T08:53:32.231Z,1
+59,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,Temitayo,2025-12-07T08:53:43.194Z,1
+60,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,Temitayo,2025-12-07T08:53:53.330Z,1
+61,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,70,,Temitayo,2025-12-07T08:54:01.411Z,1
+62,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Temitayo,2025-12-07T08:54:16.885Z,1
+63,Sula (1973),Jude,Character_Reference,Jude,,90,,Temitayo,2025-12-07T08:54:24.083Z,1
+64,Song of Solomon (1977),Grace,Thematic_Reference,Grace,Characterization,80,,Temitayo,2025-12-07T08:55:01.665Z,1
+65,The Bluest Eye (1970),job,Thematic_Reference,Job,Narrative_Structure,90,,Temitayo,2025-12-07T08:55:16.871Z,1
+66,Paradise (1998),Mary,Character_Reference,Mary,Characterization,85,,Temitayo,2025-12-07T08:55:27.872Z,1
+67,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Temitayo,2025-12-07T08:55:37.612Z,1
+68,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Temitayo,2025-12-07T08:55:47.186Z,1
+69,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Temitayo,2025-12-07T08:55:54.936Z,1
+70,Beloved (1987),Paul,Character_Reference,Paul,Characterization,77,,Temitayo,2025-12-07T08:56:06.337Z,1
+71,Jazz (1992),job,No_Allusion,Job,,90,,Temitayo,2025-12-07T08:56:15.611Z,0
+72,Song of Solomon (1977),lot,No_Allusion,Lot,,70,,Temitayo,2025-12-07T08:56:25.699Z,0
+73,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Temitayo,2025-12-07T08:56:34.823Z,1
+74,Song of Solomon (1977),Esther,Character_Reference,Esther,Thematic_Development,90,,Temitayo,2025-12-07T08:56:54.569Z,1
+75,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Thematic_Development,90,,Temitayo,2025-12-07T08:57:07.103Z,1
+76,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Temitayo,2025-12-07T08:57:15.316Z,1
+77,Beloved (1987),Paul,Character_Reference,Paul,Characterization,78,,Temitayo,2025-12-07T08:57:26.984Z,1
+78,Song of Solomon (1977),Pilate,Structural_Echo,Pilate,Characterization,70,,Temitayo,2025-12-07T08:57:40.016Z,1
+79,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Temitayo,2025-12-07T08:57:47.793Z,1
+80,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Temitayo,2025-12-07T08:57:59.656Z,1
+81,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Temitayo,2025-12-07T08:58:29.977Z,1
+82,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Temitayo,2025-12-07T08:58:38.819Z,1
+83,Beloved (1987),Jesus,Thematic_Reference,Jesus,Thematic_Development,85,,Temitayo,2025-12-07T08:58:53.031Z,1
+84,Song of Solomon (1977),Jericho,Character_Reference,Jericho,Thematic_Development,70,,Temitayo,2025-12-07T08:59:13.574Z,1
+85,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Temitayo,2025-12-07T08:59:22.633Z,1
+86,The Bluest Eye (1970),Mary,Character_Reference,Mary,Characterization,77,,Temitayo,2025-12-07T08:59:31.396Z,1
+87,A Mercy (2008),Adam,Character_Reference,Adam,Characterization,85,,Temitayo,2025-12-07T08:59:43.008Z,1
+88,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Temitayo,2025-12-07T08:59:52.719Z,1
+89,The Bluest Eye (1970),acts,No_Allusion,Acts,,90,,Temitayo,2025-12-07T09:00:22.222Z,0
+90,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Thematic_Development,90,,Temitayo,2025-12-07T09:00:44.845Z,1
+91,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Temitayo,2025-12-07T09:00:54.582Z,1
+92,Song of Solomon (1977),Saul,Character_Reference,Saul,Characterization,85,,Temitayo,2025-12-07T09:01:03.442Z,1
+93,Song of Solomon (1977),Magdalene,Character_Reference,Magdalene,Characterization,85,,Temitayo,2025-12-07T09:01:16.054Z,1
+94,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,Temitayo,2025-12-07T09:01:24.252Z,1
+95,Song of Solomon (1977),Magdalene,Character_Reference,Magdalene,Characterization,85,,Temitayo,2025-12-07T09:01:40.459Z,1
+96,Song of Solomon (1977),Hagar,Character_Reference,Hagar,Characterization,85,,Temitayo,2025-12-07T09:01:53.360Z,1
+97,Song of Solomon (1977),job,No_Allusion,Job,,90,,Temitayo,2025-12-07T09:02:06.307Z,0
+98,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Temitayo,2025-12-07T09:02:22.809Z,1
+99,A Mercy (2008),Jacob,Character_Reference,Jacob,Characterization,85,,Temitayo,2025-12-07T09:02:32.697Z,1
+100,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Temitayo,2025-12-07T09:02:45.764Z,1
+102,The Bluest Eye (1970),Jesus,Character_Reference,Jesus,Narrative_Structure,85,,Temitayo,2025-12-07T09:03:14.236Z,1
+101,Jazz (1992),hope,Thematic_Reference,Hope,Thematic_Development,80,,Temitayo,2025-12-07T09:03:31.920Z,1
+103,Paradise (1998),Mary,Character_Reference,Mary,Characterization,85,,Temitayo,2025-12-07T09:03:45.735Z,1
+104,The Bluest Eye (1970),faith,Thematic_Reference,Faith,Thematic_Development,80,,Temitayo,2025-12-07T09:04:01.277Z,1
+105,Paradise (1998),Paul,Thematic_Reference,Paul,Narrative_Structure,85,,Temitayo,2025-12-07T09:04:16.132Z,1
+314,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,70,,Temitayo,2025-12-07T09:04:40.083Z,1
+313,Song of Solomon (1977),Mary,Character_Reference,Mary,Characterization,85,,Temitayo,2025-12-07T09:04:55.760Z,1
+312,Song of Solomon (1977),Solomon,Character_Reference,Solomon,Characterization,85,,Temitayo,2025-12-07T09:05:09.585Z,1
+315,A Mercy (2008),Job,Thematic_Reference,Job,Thematic_Development,90,,Temitayo,2025-12-07T09:05:27.753Z,1
+316,Tar Baby (1981),Gideon,Character_Reference,Gideon,Characterization,85,,Temitayo,2025-12-07T09:05:41.914Z,1
+317,Song of Solomon (1977),Ruth,Character_Reference,Ruth,Characterization,90,,Temitayo,2025-12-07T09:05:54.716Z,1
+318,Sula (1973),Jude,Character_Reference,Jude,Characterization,90,,Temitayo,2025-12-07T09:06:11.269Z,1
+161,Beloved (1987),Paul,Character_Reference,Paul,Characterization,85,,Temitayo,2025-12-07T09:06:28.489Z,1
+160,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Temitayo,2025-12-07T09:06:38.159Z,1
+162,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,85,,Temitayo,2025-12-07T09:06:50.747Z,1
+163,Song of Solomon (1977),Pilate,Character_Reference,Pilate,Characterization,70,,Temitayo,2025-12-07T09:07:02.890Z,1
