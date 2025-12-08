@@ -1,0 +1,38 @@
+Morrison Biblical Allusion Annotation Study
+=============================================
+
+DATASET OVERVIEW:
+- Total Dataset Size: 2233 allusions
+- Overlap Subset: 1116 allusions (50%)
+- Unique per Annotator: ~372 allusions
+
+ANNOTATOR ASSIGNMENTS:
+- annotator_1: 1488 total passages
+  * 1116 overlap (for Kappa calculation)
+  * 372 unique passages
+
+- annotator_2: 1488 total passages
+  * 1116 overlap (for Kappa calculation)
+  * 372 unique passages
+
+- annotator_3: 1489 total passages
+  * 1116 overlap (for Kappa calculation)
+  * 373 unique passages
+
+ANNOTATION PROCESS:
+1. Each annotator receives their specific CSV file
+2. Load CSV into the Morrison annotation tool
+3. Annotate ALL passages in your assigned file
+4. Export completed annotations with your annotator ID
+5. Return completed CSV for analysis
+
+INTER-ANNOTATOR RELIABILITY:
+- 1116 passages will be annotated by all 3 annotators
+- These will be used to calculate Cohen's Kappa scores
+- Target: kappa > 0.6 (good agreement) for reliable training data
+
+FILES CREATED:
+- morrison_allusions_annotator_1.csv (for annotator_1)
+- morrison_allusions_annotator_2.csv (for annotator_2)
+- morrison_allusions_annotator_3.csv (for annotator_3)
+- morrison_allusions_overlap_kappa.csv (for Kappa analysis)
